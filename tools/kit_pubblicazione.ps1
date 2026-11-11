@@ -1,4 +1,5 @@
-# Crea sul PC una cartella per ogni uscita del piano, con il file da caricare e la didascalia da copiare.
+# Crea sul PC una cartella per ogni uscita del piano con didascalia.txt: quando, formato, dove si trova il file da caricare e la didascalia da copiare.
+# Non scarica copie dei file (il disco del PC e' quasi pieno): indica il percorso dell'originale.
 # Uso: powershell -ExecutionPolicy Bypass -File kit_pubblicazione.ps1 "C:\percorso\Ritual content marketing"
 # Non pubblica nulla: prepara solo i materiali. La pubblicazione la fa Rocco dall'app.
 param([string]$Base = "$env:USERPROFILE\OneDrive\Desktop\Ritual content marketing")
@@ -16,20 +17,15 @@ foreach ($v in $piano.voci) {
     $dir = Join-Path $Dest $nome
     New-Item -ItemType Directory -Force $dir | Out-Null
 
-    $urls = @()
-    if ($v.video_url) { $urls += $v.video_url }
-    if ($v.image_url) { $urls += $v.image_url }
-    if ($v.image_urls) { $urls += $v.image_urls }
-    foreach ($u in $urls) {
-        $file = Join-Path $dir ([IO.Path]::GetFileName($u))
-        if (-not (Test-Path $file)) { Invoke-WebRequest $u -OutFile $file }
-    }
-
     $testo = @()
     $testo += "Quando: $($giorni[[int]$d.DayOfWeek]) $($v.data) alle $($v.ora)"
     $testo += "Formato: $($v.tipo)"
     $testo += "Stato: $($v.stato)"
     if ($v.nota) { $testo += "Nota: $($v.nota)" }
+    if ($v.file_pc) {
+        $testo += ""; $testo += "--- FILE DA CARICARE (in quest'ordine) ---"
+        foreach ($f in $v.file_pc) { $testo += $(if (Test-Path $f) { $f } else { "$f   (non trovato sul PC)" }) }
+    }
     if ($v.didascalia) { $testo += ""; $testo += "--- DIDASCALIA DA COPIARE ---"; $testo += $v.didascalia }
     [IO.File]::WriteAllText((Join-Path $dir "didascalia.txt"), ($testo -join "`r`n"), (New-Object Text.UTF8Encoding $true))
     Write-Output "ok  $nome"

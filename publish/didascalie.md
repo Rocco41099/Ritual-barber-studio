@@ -3,6 +3,8 @@
 ## 2026-11-17 · 18:47 · reel · due-nature
 Stato: pronto
 
+File: reel-due-nature.mp4
+
 ```
 Due nature. Un solo Rituale.
 
@@ -19,6 +21,8 @@ Prenota in DM.
 
 ## 2026-11-18 · 12:47 · carosello · due-nature (5 slide)
 Stato: pronto
+
+File: 01-due-nature.jpg, 02-due-nature.jpg, 03-due-nature.jpg, 04-due-nature.jpg, 05-due-nature.jpg
 
 ```
 Scorri: da una parte l'ordine, dall'altra l'istinto.
@@ -38,6 +42,8 @@ Prenota in DM.
 
 ## 2026-11-19 · 18:47 · reel · amarone
 Stato: pronto
+
+File: reel-amarone.mp4
 
 ```
 Amarone. Gel strong per capelli.
@@ -61,6 +67,8 @@ Prenota in DM.
 ## 2026-11-20 · 12:47 · carosello · amarone (3 slide)
 Stato: pronto
 
+File: 01-amarone.jpg, 02-amarone.jpg, 03-amarone.jpg
+
 ```
 Amarone. Gel strong per capelli.
 
@@ -83,6 +91,8 @@ Prenota in DM.
 ## 2026-11-21 · 18:47 · reel · lupi
 Stato: pronto
 
+File: reel-lupi.mp4
+
 ```
 I Lupi non dormono mai.
 Ma ogni lupo ha il suo rituale.
@@ -99,6 +109,8 @@ Prenota in DM.
 
 ## 2026-11-22 · 12:47 · carosello · lupi (3 slide)
 Stato: pronto
+
+File: 01-lupi.jpg, 02-lupi.jpg, 03-lupi.jpg
 
 ```
 I Lupi non dormono mai. Scorri.
@@ -119,6 +131,8 @@ Prenota in DM.
 ## 2026-11-24 · 18:47 · reel · abbonamenti
 Stato: pronto
 
+File: reel-abbonamenti.mp4
+
 ```
 Il rituale non è una volta ogni tanto. È un appuntamento con te stesso.
 
@@ -136,6 +150,8 @@ Prenota in DM.
 
 ## 2026-11-25 · 12:47 · carosello · abbonamenti (9 slide)
 Stato: pronto
+
+File: 01-copertina.jpg, 02-piano-15.jpg, 03-piano-25.jpg, 04-piano-30.jpg, 05-piano-36.jpg, 06-extra.jpg, 07-come-funziona.jpg, 08-soci-fondatori.jpg, 09-entra-nella-famiglia.jpg
 
 ```
 Scorri i quattro piani e scegli il tuo ritmo.
@@ -157,6 +173,8 @@ Prenota in DM.
 ## 2026-11-26 · 18:47 · reel · apollineo
 Stato: pronto
 
+File: reel-apollineo.mp4
+
 ```
 Ordine. Misura. Controllo.
 
@@ -173,6 +191,8 @@ Prenota in DM.
 
 ## 2026-11-27 · 12:47 · carosello · apollineo (4 slide)
 Stato: pronto
+
+File: 01-apollineo.jpg, 02-apollineo.jpg, 03-apollineo.jpg, 04-apollineo.jpg
 
 ```
 Scorri il Rituale Apollineo.
@@ -193,6 +213,8 @@ Prenota in DM.
 ## 2026-11-28 · 18:47 · reel · salone
 Stato: pronto
 
+File: reel-salone.mp4
+
 ```
 Fuori, il mondo corre. Qui dentro, il tempo torna tuo.
 
@@ -209,6 +231,8 @@ Prenota in DM.
 
 ## 2026-11-29 · 12:47 · carosello · salone (10 slide)
 Stato: pronto
+
+File: 01-salone.jpg, 03-salone.jpg, 04-salone.jpg, 05-salone.jpg, 06-salone.jpg, 08-salone.jpg, 09-salone.jpg, 10-salone.jpg, 12-salone.jpg, 13-salone.jpg
 
 ```
 Scorri e entra nel salone.
@@ -229,6 +253,8 @@ Prenota in DM.
 ## 2026-12-01 · 18:47 · post · regalo
 Stato: pronto
 
+File: post-regalo.jpg
+
 ```
 Il regalo perfetto ha carattere.
 
@@ -245,8 +271,12 @@ Prenota in DM.
 ## 2026-12-01 · 18:52 · storia · regalo
 Stato: pronto
 
+File: storia-regalo.png
+
 ## 2026-12-03 · 18:47 · reel · dionisiaco
 Stato: pronto
+
+File: reel-dionisiaco.mp4
 
 ```
 Istinto. Eccesso. Libertà.
@@ -264,6 +294,8 @@ Prenota in DM.
 
 ## 2026-12-04 · 12:47 · carosello · dionisiaco (4 slide)
 Stato: pronto
+
+File: 01-dionisiaco.jpg, 02-dionisiaco.jpg, 03-dionisiaco.jpg, 04-dionisiaco.jpg
 
 ```
 Scorri il Rituale Dionisiaco.
@@ -287,6 +319,8 @@ Stato: attende materiale — Servono le riprese del trattamento barba entro il 1
 ## 2026-12-08 · 18:47 · reel · chianti
 Stato: pronto
 
+File: reel-chianti.mp4
+
 ```
 Chianti. Pastagel per capelli.
 
@@ -308,6 +342,8 @@ Prenota in DM.
 
 ## 2026-12-09 · 12:47 · carosello · chianti (3 slide)
 Stato: pronto
+
+File: 01-chianti.jpg, 02-chianti.jpg, 03-chianti.jpg
 
 ```
 Chianti. Pastagel per capelli.
@@ -331,6 +367,8 @@ Prenota in DM.
 ## 2026-12-10 · 18:47 · reel · gran-paradiso
 Stato: pronto
 
+File: reel-gran-paradiso.mp4
+
 ```
 Gran Paradiso. Crema viso post rasatura.
 
@@ -352,6 +390,8 @@ Prenota in DM.
 
 ## 2026-12-11 · 12:47 · carosello · gran-paradiso (3 slide)
 Stato: pronto
+
+File: 01-gran-paradiso.jpg, 02-gran-paradiso.jpg, 03-gran-paradiso.jpg
 
 ```
 Gran Paradiso. Crema viso post rasatura.
@@ -378,6 +418,8 @@ Stato: attende materiale — Serve un prima/dopo dello stesso cliente entro l'8 
 ## 2026-12-15 · 18:47 · reel · quale
 Stato: pronto
 
+File: reel-quale-rituale.mp4
+
 ```
 Quale rituale sei?
 
@@ -396,20 +438,32 @@ Prenota in DM.
 ## 2026-12-15 · manuale · storia · quale
 Stato: manuale — Storia 1/5: pubblicala dall'app aggiungendo l'adesivo sondaggio A / D.
 
+File: 01-quale-rituale.png
+
 ## 2026-12-15 · manuale · storia · quale
 Stato: manuale — Storia 2/5: pubblicala dall'app aggiungendo l'adesivo sondaggio A / D.
+
+File: 02-quale-rituale.png
 
 ## 2026-12-15 · manuale · storia · quale
 Stato: manuale — Storia 3/5: pubblicala dall'app aggiungendo l'adesivo sondaggio A / D.
 
+File: 03-quale-rituale.png
+
 ## 2026-12-15 · manuale · storia · quale
 Stato: manuale — Storia 4/5: pubblicala dall'app aggiungendo l'adesivo sondaggio A / D.
+
+File: 04-quale-rituale.png
 
 ## 2026-12-15 · manuale · storia · quale
 Stato: manuale — Storia 5/5: pubblicala dall'app aggiungendo l'adesivo sondaggio A / D.
 
+File: 05-quale-rituale.png
+
 ## 2026-12-16 · 12:47 · carosello · quale (7 slide)
 Stato: pronto
+
+File: 01-quale-rituale.jpg, 02-quale-rituale.jpg, 03-quale-rituale.jpg, 04-quale-rituale.jpg, 05-quale-rituale.jpg, 06-quale-rituale.jpg, 07-quale-rituale.jpg
 
 ```
 Scorri, rispondi e conta le A e le D.
@@ -430,6 +484,8 @@ Prenota in DM.
 
 ## 2026-12-17 · 18:47 · reel · tiziano
 Stato: pronto
+
+File: reel-tiziano.mp4
 
 ```
 Tiziano. Olio da barba e pre-rasatura.
@@ -453,6 +509,8 @@ Prenota in DM.
 ## 2026-12-18 · 12:47 · carosello · tiziano (3 slide)
 Stato: pronto
 
+File: 01-tiziano.jpg, 02-tiziano.jpg, 03-tiziano.jpg
+
 ```
 Tiziano. Olio da barba e pre-rasatura.
 
@@ -475,6 +533,8 @@ Prenota in DM.
 ## 2026-12-19 · 18:47 · post · regalo-ultimi
 Stato: pronto
 
+File: post-regalo.jpg
+
 ```
 Ultimi giorni per regalare un rituale.
 
@@ -489,8 +549,12 @@ Prenota in DM.
 ## 2026-12-19 · 18:52 · storia · regalo-ultimi
 Stato: pronto
 
+File: storia-regalo.png
+
 ## 2026-12-22 · 18:47 · reel · caronte
 Stato: pronto
+
+File: reel-caronte.mp4
 
 ```
 Caronte. Pozione da barba.
@@ -514,6 +578,8 @@ Prenota in DM.
 ## 2026-12-23 · 12:47 · carosello · caronte (3 slide)
 Stato: pronto
 
+File: 01-caronte.jpg, 02-caronte.jpg, 03-caronte.jpg
+
 ```
 Caronte. Pozione da barba.
 
@@ -535,6 +601,8 @@ Prenota in DM.
 
 ## 2026-12-24 · 18:47 · reel · monte-bianco
 Stato: pronto
+
+File: reel-monte-bianco.mp4
 
 ```
 Monte Bianco. Mousse da rasatura.
@@ -558,6 +626,8 @@ Prenota in DM.
 ## 2026-12-27 · 12:47 · carosello · monte-bianco (3 slide)
 Stato: pronto
 
+File: 01-monte-bianco.jpg, 02-monte-bianco.jpg, 03-monte-bianco.jpg
+
 ```
 Monte Bianco. Mousse da rasatura.
 
@@ -579,6 +649,8 @@ Prenota in DM.
 
 ## 2027-01-12 · 18:47 · reel · nebbiolo
 Stato: pronto
+
+File: reel-nebbiolo.mp4
 
 ```
 Nebbiolo. Pasta opaca per capelli.
@@ -602,6 +674,8 @@ Prenota in DM.
 ## 2027-01-13 · 12:47 · carosello · nebbiolo (3 slide)
 Stato: pronto
 
+File: 01-nebbiolo.jpg, 02-nebbiolo.jpg, 03-nebbiolo.jpg
+
 ```
 Nebbiolo. Pasta opaca per capelli.
 
@@ -623,6 +697,8 @@ Prenota in DM.
 
 ## 2027-01-14 · 18:47 · reel · virgilio
 Stato: pronto
+
+File: reel-virgilio.mp4
 
 ```
 Virgilio. Spray post rasatura.
@@ -646,6 +722,8 @@ Prenota in DM.
 ## 2027-01-15 · 12:47 · carosello · virgilio (3 slide)
 Stato: pronto
 
+File: 01-virgilio.jpg, 02-virgilio.jpg, 03-virgilio.jpg
+
 ```
 Virgilio. Spray post rasatura.
 
@@ -667,6 +745,8 @@ Prenota in DM.
 
 ## 2027-01-19 · 18:47 · reel · primitivo
 Stato: pronto
+
+File: reel-primitivo.mp4
 
 ```
 Primitivo. Gel disciplinante.
@@ -690,6 +770,8 @@ Prenota in DM.
 ## 2027-01-20 · 12:47 · carosello · primitivo (3 slide)
 Stato: pronto
 
+File: 01-primitivo.jpg, 02-primitivo.jpg, 03-primitivo.jpg
+
 ```
 Primitivo. Gel disciplinante.
 
@@ -711,6 +793,8 @@ Prenota in DM.
 
 ## 2027-01-21 · 18:47 · reel · nero-d-avola
 Stato: pronto
+
+File: reel-nero-d-avola.mp4
 
 ```
 Nero d'Avola. Gel colorato per capelli bianchi.
@@ -734,6 +818,8 @@ Prenota in DM.
 ## 2027-01-22 · 12:47 · carosello · nero-d-avola (3 slide)
 Stato: pronto
 
+File: 01-nero-d-avola.jpg, 02-nero-d-avola.jpg, 03-nero-d-avola.jpg
+
 ```
 Nero d'Avola. Gel colorato per capelli bianchi.
 
@@ -755,6 +841,8 @@ Prenota in DM.
 
 ## 2027-01-26 · 18:47 · reel · soave
 Stato: pronto
+
+File: reel-soave.mp4
 
 ```
 Soave. Tonico idratante per capelli.
@@ -778,6 +866,8 @@ Prenota in DM.
 ## 2027-01-27 · 12:47 · carosello · soave (3 slide)
 Stato: pronto
 
+File: 01-soave.jpg, 02-soave.jpg, 03-soave.jpg
+
 ```
 Soave. Tonico idratante per capelli.
 
@@ -800,6 +890,8 @@ Prenota in DM.
 ## 2027-01-28 · 18:47 · reel · bonarda
 Stato: pronto
 
+File: reel-bonarda.mp4
+
 ```
 Bonarda. Spray opacizzante volumizzante.
 
@@ -821,6 +913,8 @@ Prenota in DM.
 
 ## 2027-01-29 · 12:47 · carosello · bonarda (3 slide)
 Stato: pronto
+
+File: 01-bonarda.jpg, 02-bonarda.jpg, 03-bonarda.jpg
 
 ```
 Bonarda. Spray opacizzante volumizzante.

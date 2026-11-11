@@ -23,6 +23,23 @@ RITO = {"apollineo": ("Rituale Apollineo", "per chi vuole ogni linea al suo post
         "dionisiaco": ("Rituale Dionisiaco", "per chi lo stile se lo inventa", "#dionisiaco")}
 
 
+PC = "C:\\Users\\rocco\\OneDrive\\Desktop\\Ritual content marketing\\"
+SCELTA_SALONE = [1, 3, 4, 5, 6, 8, 9, 10, 12, 13]  # slide del carosello salone usate su Instagram (max 10)
+
+
+def sul_pc(u):
+    """Percorso del file originale nella cartella Ritual content marketing del PC."""
+    rel = u.replace(RAW + "media/instagram/", "")
+    if rel.startswith("prodotti/"):
+        rel = rel.replace("prodotti/", "prodotti/2K/", 1)
+    if rel.startswith("salone/carosello-ig/"):
+        n = int(rel.split("/")[-1][:2])
+        rel = f"salone/carosello/{SCELTA_SALONE[n - 1]:02d}-salone.jpg"
+    if rel.endswith(".jpg") and "/storie/" in rel or rel == "regalo/storia-regalo.jpg":
+        rel = rel[:-4] + ".png"
+    return PC + rel.replace("/", "\\")
+
+
 def url(p):
     return RAW + str(Path(p).relative_to(ROOT)).replace("\\", "/")
 
@@ -125,8 +142,7 @@ def main():
     ig = M / "salone/carosello-ig"; ig.mkdir(exist_ok=True)
     for f in ig.glob("*.jpg"):
         f.unlink()
-    scelta = [1, 3, 4, 5, 6, 8, 9, 10, 12, 13]  # copertina, attesa, poltrona, strumenti, scacchiera, rose, precisione, cura, manifesto, prenota
-    for i, n in enumerate(scelta, start=1):
+    for i, n in enumerate(SCELTA_SALONE, start=1):
         shutil.copy(M / f"salone/carosello/{n:02d}-salone.jpg", ig / f"{i:02d}-salone.jpg")
     storie_q = [url(jpg(p)) for p in sorted((M / "rituali/quale-rituale/storie").glob("*.png"))]
     storia_regalo = url(jpg(M / "regalo/storia-regalo.png"))
@@ -187,6 +203,9 @@ def main():
     voci.sort(key=lambda v: (v["data"], v["ora"]))
     for i, v in enumerate(voci, start=1):
         v["id"] = f"{v['data']}-{v['tipo']}-{v['contenuto']}"
+        u = [v[k] for k in ("video_url", "image_url") if k in v] + v.get("image_urls", [])
+        if u:
+            v["file_pc"] = [sul_pc(x) for x in u]
         if "image_urls" in v:
             assert 2 <= len(v["image_urls"]) <= 10, v["id"]
         if "didascalia" in v:
@@ -199,6 +218,8 @@ def main():
         n = f"{len(v.get('image_urls', []))} slide" if "image_urls" in v else ""
         righe += [f"## {v['data']} · {v['ora']} · {v['tipo']} · {v['contenuto']} {('(' + n + ')') if n else ''}".rstrip(),
                   f"Stato: {v['stato']}" + (f" — {v['nota']}" if v.get("nota") else ""), ""]
+        if v.get("file_pc"):
+            righe += ["File: " + ", ".join(f.split("\\")[-1] for f in v["file_pc"]), ""]
         if v.get("didascalia"):
             righe += ["```", v["didascalia"], "```", ""]
     (OUT / "didascalie.md").write_text("\n".join(righe), encoding="utf-8")
