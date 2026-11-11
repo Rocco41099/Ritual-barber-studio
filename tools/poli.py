@@ -1,4 +1,4 @@
-"""'Due poli': Apollineo a sinistra (oro), Dionisiaco a destra (rosso). Reel a schermo diviso,
+"""'Due nature': Apollineo a sinistra (oro), Dionisiaco a destra (rosso). Reel a schermo diviso,
 carosello 4:5 e post singolo.
 
 Uso: python3 tools/poli.py
@@ -12,14 +12,20 @@ from prodotto import render, ASSETS
 from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parent.parent
-R = ROOT / "media/instagram/rituali"; A = R / "apollineo"; Dn = R / "dionisiaco"; D = R / "poli"
+R = ROOT / "media/instagram/rituali"; A = R / "apollineo"; Dn = R / "dionisiaco"; D = R / "due-nature"
 GOLD = "#C9A45C"; WINE = "#B0263A"
 logo = (ASSETS / "logo.png").as_uri()
 tex916 = (ASSETS / "tex-916.jpg").as_uri(); tex45 = (ASSETS / "tex-45.jpg").as_uri()
 COPPIE = [("Ordine.", "Istinto."), ("Misura.", "Eccesso."), ("Controllo.", "Libertà.")]
-TITOLO = "Due poli.<br>Un solo Rituale."
+LUNGA = max((w for c in COPPIE for w in c), key=len)
+TITOLO = "Due nature.<br>Un solo Rituale."
 SOTTO = "L'ordine ti dà la forma.<br>L'istinto ti dà il carattere."
 CHIUSA = "Ogni uomo<br>li ha entrambi.<br>Noi li curiamo<br>tutti e due."
+
+
+FIT = ("<script>document.fonts.ready.then(()=>{const els=[...document.querySelectorAll('.fit')];"
+       "let m=Math.min(...els.map(e=>{let s=parseFloat(e.style.fontSize);"
+       "while(e.scrollWidth>e.parentElement.clientWidth&&s>20){s-=2;e.style.fontSize=s+'px'}return s}));els.forEach(e=>e.style.fontSize=m+'px')})</script>")
 
 
 def divisore(h):
@@ -30,9 +36,10 @@ def divisore(h):
 def coppia(a, d, size, bottom, h):
     side = lambda t, col, left: (f"<div style='position:absolute;bottom:{bottom}px;{'left' if left else 'right'}:0;width:50%;text-align:center'>"
                                  f"<div class=rit style='font-size:{int(size * .3)}px;color:{col};border-color:{col}'>{'Apollineo' if left else 'Dionisiaco'}</div>"
-                                 f"<div class=name style='font-size:{size}px;margin-top:22px;color:{col}'>{t}</div></div>")
+                                 f"<div class='name fit' style='font-size:{size}px;margin-top:22px;color:{col};white-space:nowrap;padding:0 36px'>{t}</div></div>")
     return ("<div style='position:absolute;inset:0;background:linear-gradient(0deg,rgba(0,0,0,.9) 0%,rgba(0,0,0,.45) 26%,rgba(0,0,0,0) 44%)'></div>"
-            + divisore(h) + side(a, GOLD, True) + side(d, WINE, False))
+            + divisore(h) + side(a, GOLD, True) + side(d, WINE, False)
+            + f"<div style='position:absolute;left:0;top:0;width:50%;visibility:hidden'><div class='name fit' style='font-size:{size}px;white-space:nowrap;padding:0 36px'>{LUNGA}</div></div>" + FIT)
 
 
 def split_bg(a, d):
@@ -85,8 +92,8 @@ def main():
                1080, 1350, tmp / "post.png", transparent=False)
         b.close()
     for i in range(1, 5):
-        Image.open(tmp / f"c{i}.png").convert("RGB").save(car / f"{i:02d}-due-poli.jpg", quality=95, subsampling=0)
-    Image.open(tmp / "post.png").convert("RGB").save(D / "post-due-poli.jpg", quality=95, subsampling=0)
+        Image.open(tmp / f"c{i}.png").convert("RGB").save(car / f"{i:02d}-due-nature.jpg", quality=95, subsampling=0)
+    Image.open(tmp / "post.png").convert("RGB").save(D / "post-due-nature.jpg", quality=95, subsampling=0)
 
     half = "scale=1440:2560:force_original_aspect_ratio=increase:flags=lanczos,crop=1440:2560,crop=720:2560,fps=30,settb=AVTB,setsar=1"
     ov = "scale=1440:2560:flags=lanczos,format=rgba"
@@ -107,7 +114,7 @@ def main():
         fc += f"[{prev}][s{i}]xfade=transition=fadeblack:duration=0.6:offset={off:.2f}[x{i}];"; prev = f"x{i}"
     off += durs[3] - 0.6
     fc += f"[{prev}][e]xfade=transition=fadeblack:duration=0.6:offset={off:.2f}[v];[v]format=yuv420p[out]"
-    out = D / "reel-due-poli.mp4"
+    out = D / "reel-due-nature.mp4"
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", *args, "-filter_complex", fc, "-map", "[out]",
                     "-c:v", "libx264", "-preset", "slow", "-crf", "16", "-maxrate", "25M", "-bufsize", "50M",
                     "-movflags", "+faststart", str(out)], check=True)
