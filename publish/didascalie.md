@@ -825,7 +825,7 @@ File: reel-equilibrio.mp4
 ```
 Notifiche. Traffico. Rumore.
 
-Qui il telefono resta a faccia in giù. Panno caldo, respiro lungo, una mossa alla volta.
+Qui il telefono resta a faccia in giù. Panno caldo e vapore, fango sul viso, una mossa alla volta.
 Mezz'ora in cui nessuno ti cerca e tu ritrovi il tuo ritmo.
 
 Stacca dal rumore. Ritrova l'equilibrio.
@@ -837,17 +837,17 @@ Prenota in DM.
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #equilibrio #slowliving #cura
 ```
 
-## 2027-01-17 · 12:47 · carosello · equilibrio (5 slide)
+## 2027-01-17 · 12:47 · carosello · equilibrio (6 slide)
 Stato: pronto — Jolly: se mancano le riprese, può prendere il posto del 5 o del 12 dicembre.
 
-File: 01-equilibrio.jpg, 02-equilibrio.jpg, 03-equilibrio.jpg, 04-equilibrio.jpg, 05-equilibrio.jpg
+File: 01-equilibrio.jpg, 02-equilibrio.jpg, 03-equilibrio.jpg, 04-equilibrio.jpg, 05-equilibrio.jpg, 06-equilibrio.jpg
 
 ```
 Scorri e stacca dal rumore.
 
 Notifiche. Traffico. Rumore.
 
-Qui il telefono resta a faccia in giù. Panno caldo, respiro lungo, una mossa alla volta.
+Qui il telefono resta a faccia in giù. Panno caldo e vapore, fango sul viso, una mossa alla volta.
 Mezz'ora in cui nessuno ti cerca e tu ritrovi il tuo ritmo.
 
 Stacca dal rumore. Ritrova l'equilibrio.

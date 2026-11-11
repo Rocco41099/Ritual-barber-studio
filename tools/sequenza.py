@@ -33,7 +33,7 @@ PROGETTI = {
    fine="Entra nella<br>famiglia.", cta="Chiedi in salone o in DM"),
  "equilibrio": dict(dir="equilibrio", col=GOLD, label="L'Equilibrio",
    frasi=["Notifiche.<br>Traffico.<br>Rumore.", "Qui il telefono<br>resta a faccia in giù.",
-          "Panno caldo.<br>Respiro lungo.", "Una mossa<br>alla volta."],
+          "Panno caldo.<br>Respiro lungo.", "Fango sul viso.<br>La mente si svuota.", "Una mossa<br>alla volta."],
    fine="Stacca dal rumore.<br>Ritrova l'equilibrio.", cta="Prenota il tuo momento in DM"),
 }
 

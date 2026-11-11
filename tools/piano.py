@@ -128,7 +128,7 @@ TESTI = {
                  "Entra nella famiglia: chiedi in salone o scrivici in DM.\n\n"
                  f"{DOVE}\n\n{TAG} #abbonamento #famiglia #cura"),
     "equilibrio": ("Notifiche. Traffico. Rumore.\n\n"
-                   "Qui il telefono resta a faccia in giù. Panno caldo, respiro lungo, una mossa alla volta.\n"
+                   "Qui il telefono resta a faccia in giù. Panno caldo e vapore, fango sul viso, una mossa alla volta.\n"
                    "Mezz'ora in cui nessuno ti cerca e tu ritrovi il tuo ritmo.\n\n"
                    "Stacca dal rumore. Ritrova l'equilibrio.\n"
                    "Prenota il tuo momento in DM.\n\n"
