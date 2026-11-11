@@ -577,7 +577,7 @@ Prenota in DM.
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #barba
 ```
 
-## 2027-01-08 · 18:47 · reel · nebbiolo
+## 2027-01-12 · 18:47 · reel · nebbiolo
 Stato: pronto
 
 ```
@@ -599,7 +599,7 @@ Prenota in DM.
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
 ```
 
-## 2027-01-09 · 12:47 · carosello · nebbiolo (3 slide)
+## 2027-01-13 · 12:47 · carosello · nebbiolo (3 slide)
 Stato: pronto
 
 ```
@@ -621,7 +621,7 @@ Prenota in DM.
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
 ```
 
-## 2027-01-13 · 18:47 · reel · virgilio
+## 2027-01-14 · 18:47 · reel · virgilio
 Stato: pronto
 
 ```
@@ -643,7 +643,7 @@ Prenota in DM.
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #barba
 ```
 
-## 2027-01-14 · 12:47 · carosello · virgilio (3 slide)
+## 2027-01-15 · 12:47 · carosello · virgilio (3 slide)
 Stato: pronto
 
 ```
@@ -665,7 +665,7 @@ Prenota in DM.
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #barba
 ```
 
-## 2027-01-15 · 18:47 · reel · primitivo
+## 2027-01-19 · 18:47 · reel · primitivo
 Stato: pronto
 
 ```
@@ -687,7 +687,7 @@ Prenota in DM.
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #capelli
 ```
 
-## 2027-01-16 · 12:47 · carosello · primitivo (3 slide)
+## 2027-01-20 · 12:47 · carosello · primitivo (3 slide)
 Stato: pronto
 
 ```
@@ -709,7 +709,7 @@ Prenota in DM.
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #capelli
 ```
 
-## 2027-01-20 · 18:47 · reel · nero-d-avola
+## 2027-01-21 · 18:47 · reel · nero-d-avola
 Stato: pronto
 
 ```
@@ -731,7 +731,7 @@ Prenota in DM.
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
 ```
 
-## 2027-01-21 · 12:47 · carosello · nero-d-avola (3 slide)
+## 2027-01-22 · 12:47 · carosello · nero-d-avola (3 slide)
 Stato: pronto
 
 ```
@@ -753,7 +753,7 @@ Prenota in DM.
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
 ```
 
-## 2027-01-22 · 18:47 · reel · soave
+## 2027-01-26 · 18:47 · reel · soave
 Stato: pronto
 
 ```
@@ -775,7 +775,7 @@ Prenota in DM.
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #capelli
 ```
 
-## 2027-01-23 · 12:47 · carosello · soave (3 slide)
+## 2027-01-27 · 12:47 · carosello · soave (3 slide)
 Stato: pronto
 
 ```
@@ -797,7 +797,7 @@ Prenota in DM.
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #capelli
 ```
 
-## 2027-01-27 · 18:47 · reel · bonarda
+## 2027-01-28 · 18:47 · reel · bonarda
 Stato: pronto
 
 ```
@@ -819,7 +819,7 @@ Prenota in DM.
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
 ```
 
-## 2027-01-28 · 12:47 · carosello · bonarda (3 slide)
+## 2027-01-29 · 12:47 · carosello · bonarda (3 slide)
 Stato: pronto
 
 ```

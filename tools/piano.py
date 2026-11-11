@@ -179,7 +179,7 @@ def main():
     prodotto("2026-12-22", "caronte", "2026-12-23")
     prodotto("2026-12-24", "monte-bianco", "2026-12-27")
     gennaio = ["nebbiolo", "virgilio", "primitivo", "nero-d-avola", "soave", "bonarda"]
-    giorni = ["2026-01-08", "2026-01-13", "2026-01-15", "2026-01-20", "2026-01-22", "2026-01-27"]
+    giorni = ["2027-01-12", "2027-01-14", "2027-01-19", "2027-01-21", "2027-01-26", "2027-01-28"]
     for slug, g in zip(gennaio, giorni):
         g = g.replace("2026-01", "2027-01")
         prodotto(g, slug, g[:8] + f"{int(g[8:]) + 1:02d}")
