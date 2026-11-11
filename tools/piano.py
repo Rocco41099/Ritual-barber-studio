@@ -1,7 +1,8 @@
 """Piano di pubblicazione Instagram e didascalie.
 
 Uso: python3 tools/piano.py
-Scrive publish/piano.json (letto dall'attività programmata) e publish/didascalie.md (da leggere e correggere).
+Scrive publish/piano.json (calendario con file e didascalie) e publish/didascalie.md (da leggere e correggere).
+Non pubblica nulla: i post li pubblica Rocco dall'app. tools/kit_pubblicazione.ps1 prepara sul PC una cartella per ogni uscita.
 Prepara anche le versioni per Instagram: storie in JPEG e carosello del salone a 10 slide (limite di Instagram).
 
 Logica: ogni slot pubblica il reel alle 18:47; il giorno dopo alle 12:47 esce la versione carosello.
