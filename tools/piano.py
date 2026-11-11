@@ -120,6 +120,21 @@ TESTI = {
               "Più D: sei Dionisiaco. Istinto, eccesso, libertà.\n\n"
               "Scrivi il tuo risultato nei commenti e tagga un amico che è l'esatto opposto.\n\n"
               f"{DOVE}\n\n{TAG} #apollineo #dionisiaco #test"),
+    "famiglia": ("Non sei un cliente. Sei uno di noi.\n\n"
+                 "Stessa poltrona, stesse mani, ogni settimana. Sappiamo già come prendi il caffè, "
+                 "e il tuo taglio lo conosciamo a memoria.\n"
+                 "La costanza è il primo rituale: con gli abbonamenti Ritual il tuo posto è sempre pronto.\n\n"
+                 "Entra nella famiglia: chiedi in salone o scrivici in DM.\n\n"
+                 f"{DOVE}\n\n{TAG} #abbonamento #famiglia #cura"),
+    "equilibrio": ("Notifiche. Traffico. Rumore.\n\n"
+                   "Qui il telefono resta a faccia in giù. Panno caldo, respiro lungo, una mossa alla volta.\n"
+                   "Mezz'ora in cui nessuno ti cerca e tu ritrovi il tuo ritmo.\n\n"
+                   "Stacca dal rumore. Ritrova l'equilibrio.\n"
+                   "Prenota il tuo momento in DM.\n\n"
+                   f"{DOVE}\n\n{TAG} #equilibrio #slowliving #cura"),
+    "neon": ("Il nostro segno, acceso.\n\n"
+             "Rosso, oro, ghiaccio, viola, bianco: qual è il colore del tuo rituale? Scrivilo nei commenti.\n\n"
+             f"{DOVE}\n\n{TAG} #neon #logo"),
 }
 CAROSELLO = {  # prima riga della didascalia del carosello, al posto di quella del reel
     "due-nature": "Scorri: da una parte l'ordine, dall'altra l'istinto.",
@@ -129,6 +144,9 @@ CAROSELLO = {  # prima riga della didascalia del carosello, al posto di quella d
     "dionisiaco": "Scorri il Rituale Dionisiaco.",
     "salone": "Scorri e entra nel salone.",
     "quale": "Scorri, rispondi e conta le A e le D.",
+    "famiglia": "Scorri: questa è la famiglia Ritual.",
+    "equilibrio": "Scorri e stacca dal rumore.",
+    "neon": "Scorri i cinque colori.",
 }
 
 
@@ -200,6 +218,17 @@ def main():
     for slug, g in zip(gennaio, giorni):
         g = g.replace("2026-01", "2027-01")
         prodotto(g, slug, g[:8] + f"{int(g[8:]) + 1:02d}")
+    # gennaio, sabato e domenica: neon, famiglia, equilibrio (jolly: possono coprire il 5 o il 12 dicembre
+    # se le riprese di beard ritual / prima-dopo non arrivano in tempo)
+    reel("2027-01-02", "neon", "neon/reel-neon.mp4", rito="entrambi")
+    car("2027-01-03", "neon", "neon/carosello", rito="entrambi")
+    reel("2027-01-09", "famiglia", "famiglia/reel-famiglia.mp4", rito="entrambi")
+    car("2027-01-10", "famiglia", "famiglia/carosello", rito="entrambi")
+    reel("2027-01-16", "equilibrio", "equilibrio/reel-equilibrio.mp4", rito="entrambi")
+    car("2027-01-17", "equilibrio", "equilibrio/carosello", rito="entrambi")
+    for v in voci:
+        if v["contenuto"] in ("famiglia", "equilibrio"):
+            v["nota"] = "Jolly: se mancano le riprese, può prendere il posto del 5 o del 12 dicembre."
     voci.sort(key=lambda v: (v["data"], v["ora"]))
     for i, v in enumerate(voci, start=1):
         v["id"] = f"{v['data']}-{v['tipo']}-{v['contenuto']}"

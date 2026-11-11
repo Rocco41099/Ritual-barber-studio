@@ -1,6 +1,6 @@
 """Reel a scene (clip + frase) con chiusura sul logo, piu' carosello 4:5 dagli stessi fotogrammi.
 
-Uso: python3 tools/sequenza.py apollineo|dionisiaco|lupi
+Uso: python3 tools/sequenza.py apollineo|dionisiaco|lupi|famiglia|equilibrio
 Ogni progetto vive in media/instagram/<cartella>/ con clip-N.mp4 e still-N.jpg.
 Regola: ogni video finisce sul logo, che resta a schermo fino all'ultimo fotogramma.
 """
@@ -26,21 +26,35 @@ PROGETTI = {
  "lupi": dict(dir="lupi", col=RED, label="#Ritualized",
    frasi=["I Lupi<br>non dormono mai.", "Ma ogni lupo<br>ha il suo rituale."],
    fine="Martedì si apre<br>la famiglia.", cta=None),
+ # scene generate nello stile del salone (quadri e disposizione reali), mai le foto statiche come sfondo
+ "famiglia": dict(dir="famiglia", col=RED, label="Abbonamenti Ritual",
+   frasi=["Non sei un cliente.<br>Sei uno di noi.", "Stessa poltrona.<br>Stesse mani.<br>Ogni settimana.",
+          "Sappiamo già<br>come prendi il caffè.", "La costanza<br>è il primo rituale."],
+   fine="Entra nella<br>famiglia.", cta="Chiedi in salone o in DM"),
+ "equilibrio": dict(dir="equilibrio", col=GOLD, label="L'Equilibrio",
+   frasi=["Notifiche.<br>Traffico.<br>Rumore.", "Qui il telefono<br>resta a faccia in giù.",
+          "Panno caldo.<br>Respiro lungo.", "Una mossa<br>alla volta."],
+   fine="Stacca dal rumore.<br>Ritrova l'equilibrio.", cta="Prenota il tuo momento in DM"),
 }
+
+# riduce il corpo finche' ogni riga sta nei margini (le righe sono quelle decise con <br>)
+FIT = ("<script>document.fonts.ready.then(()=>document.querySelectorAll('.fit').forEach(e=>{"
+       "let s=parseFloat(getComputedStyle(e).fontSize);"
+       "while(e.scrollWidth>e.clientWidth&&s>36){s-=2;e.style.fontSize=s+'px'}}))</script>")
 
 
 def frase(text, col, size, bottom):
     return (f"<div style='position:absolute;inset:0;background:linear-gradient(0deg,rgba(0,0,0,.92) 0%,rgba(0,0,0,.55) 24%,rgba(0,0,0,0) 44%)'></div>"
             f"<div style='position:absolute;bottom:{bottom}px;width:100%;text-align:center;padding:0 70px'>"
             f"<div style='width:120px;height:4px;background:{col};margin:0 auto 30px'></div>"
-            f"<div class=name style='font-size:{size}px;line-height:1.12'>{text}</div></div>")
+            f"<div class='name fit' style='font-size:{size}px;line-height:1.12;white-space:nowrap'>{text}</div></div>{FIT}")
 
 
 def chiusura(P, big):
     cta = f"<div class=cta style='font-size:{38 if big else 32}px;padding:20px 40px;margin-top:50px'>{P['cta']}</div>" if P["cta"] else ""
     return (f"<img src='{logo}' style='width:{420 if big else 320}px;margin-bottom:{70 if big else 50}px'>"
             f"<div class=rit style='font-size:{28 if big else 24}px;color:{P['col']};border-color:{P['col']}'>{P['label']}</div>"
-            f"<div class=name style='font-size:{84 if big else 70}px;line-height:1.12;margin-top:40px'>{P['fine']}</div>{cta}"
+            f"<div class='name fit' style='font-size:{84 if big else 70}px;line-height:1.12;margin-top:40px;white-space:nowrap;width:100%'>{P['fine']}</div>{cta}"
             f"<div class=note style='font-size:{30 if big else 26}px;margin-top:40px'>Corso Umberto I 300c · Bernalda</div>")
 
 
@@ -55,7 +69,7 @@ def build(key):
         for i, t in enumerate(P["frasi"]):
             render(pg, frase(t, P["col"], 110 if len(t) < 14 else 92, 340), 1080, 1920, tmp / f"ov-{i + 1}.png")
         render(pg, f"<div style='position:absolute;inset:0;background:#09090a url({tex916}) center/cover'></div>"
-                   f"<div style='position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:240px 90px 340px'>{chiusura(P, True)}</div>",
+                   f"<div style='position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:240px 90px 340px'>{chiusura(P, True)}</div>{FIT}",
                1080, 1920, tmp / "end.png", transparent=False)
         pg.set_viewport_size({"width": 1080, "height": 1350})
         for i, t in enumerate(P["frasi"]):
@@ -63,7 +77,7 @@ def build(key):
             render(pg, f"<div style='position:absolute;inset:0;background:#000 url({(tmp / f'still-{i + 1}-45.jpg').as_uri()}) center/cover'></div>"
                        + frase(t, P["col"], 100 if len(t) < 14 else 84, 90), 1080, 1350, tmp / f"c{i + 1}.png", transparent=False)
         render(pg, f"<div style='position:absolute;inset:0;background:#09090a url({tex45}) center/cover'></div>"
-                   f"<div style='position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:90px'>{chiusura(P, False)}</div>",
+                   f"<div style='position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:90px'>{chiusura(P, False)}</div>{FIT}",
                1080, 1350, tmp / f"c{n + 1}.png", transparent=False)
         b.close()
     for i in range(n + 1):
