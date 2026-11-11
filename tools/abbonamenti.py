@@ -145,7 +145,7 @@ def main():
         b = pw.chromium.launch(executable_path="/usr/bin/google-chrome")
         for fmt, h in (("916", 1920), ("45", 1350)):
             (OUT / fmt).mkdir(parents=True, exist_ok=True)
-            pg = b.new_page(viewport={"width": 1080, "height": h})
+            pg = b.new_page(viewport={"width": 1080, "height": h}, device_scale_factor=2)
             for name, inner in slides():
                 tmp = OUT / f"_tmp.html"
                 tmp.write_text(page(fmt, inner), encoding="utf-8")

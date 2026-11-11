@@ -1,8 +1,182 @@
 {
-  "amarone": {
-    "name": "Amarone",
-    "category": "Gel strong per capelli",
-    "specs": ["Tenuta <b>8</b> · Lucentezza <b>5</b>", "Con olio di vinaccioli antiossidante", "Senza siliconi, parabeni e SLS"],
-    "tagline": "Regala un rituale."
-  }
+ "amarone": {
+  "name": "Amarone",
+  "category": "Gel strong per capelli",
+  "line": "capelli",
+  "ingredient": "Olio di vinaccioli",
+  "ingredient_note": "Semi d'uva da vigneti italiani,<br>ricchi di antiossidanti",
+  "specs": [
+   "Tenuta <b>8</b> · Lucentezza <b>5</b>",
+   "Con <b>olio di vinaccioli</b> antiossidante",
+   "Senza siliconi, parabeni e SLS"
+  ],
+  "tagline": "Regala un rituale.",
+  "ing_prompt": "Extreme macro food photography of dark red Amarone grapes, a few halved to reveal glossy seeds, a thick drop of golden grape seed oil sliding down a grape, dried appassimento grapes behind, deep black background, single red rim light, droplets, luxurious and appetizing, ultra detailed, no text",
+  "ritual": "apollineo"
+ },
+ "chianti": {
+  "name": "Chianti",
+  "category": "Pastagel per capelli",
+  "line": "capelli",
+  "ingredient": "Olio di vinaccioli",
+  "ingredient_note": "Semi d'uva da vigneti italiani,<br>nutrono e danno energia",
+  "specs": [
+   "Tenuta <b>7</b> · Lucentezza <b>7</b>",
+   "Con <b>olio di vinaccioli</b> antiossidante",
+   "Senza siliconi, paraffina e SLS"
+  ],
+  "tagline": "Regala un rituale.",
+  "ing_prompt": "Extreme macro food photography of a fresh bunch of dark Sangiovese grapes, one grape bursting with juice in a splash, glossy golden grape seed oil glistening on the skins, deep black background, single red rim light, luxurious and appetizing, ultra detailed, no text",
+  "ritual": "dionisiaco"
+ },
+ "nebbiolo": {
+  "name": "Nebbiolo",
+  "category": "Pasta opaca per capelli",
+  "line": "capelli",
+  "ingredient": "Olio di vinaccioli",
+  "ingredient_note": "Semi d'uva da vigneti italiani,<br>ricchi di sali minerali",
+  "specs": [
+   "Tenuta <b>8</b> · Lucentezza <b>1</b>",
+   "Effetto opaco, texture cremosa",
+   "Con <b>olio di vinaccioli</b> antiossidante"
+  ],
+  "tagline": "Regala un rituale.",
+  "ing_prompt": "Extreme macro food photography of dusty purple Nebbiolo grapes covered in natural bloom, low fog drifting around them, grape seeds scattered on dark slate, a drop of golden grape seed oil, deep black background, single red rim light, moody and appetizing, ultra detailed, no text",
+  "ritual": "dionisiaco"
+ },
+ "primitivo": {
+  "name": "Primitivo",
+  "category": "Gel disciplinante",
+  "line": "capelli",
+  "ingredient": "Olio di vinaccioli",
+  "ingredient_note": "Semi d'uva da vigneti italiani,<br>proteggono e illuminano",
+  "specs": [
+   "Tenuta <b>5</b> · Lucentezza <b>5</b>",
+   "Ideale per capelli ricci, anti-crespo",
+   "Con <b>olio di vinaccioli</b> antiossidante"
+  ],
+  "tagline": "Regala un rituale.",
+  "ing_prompt": "Extreme macro food photography of crushed ripe Primitivo grapes with dark juice splashing in slow motion, glossy seeds flying, golden grape seed oil droplets, deep black background, single red rim light, juicy and appetizing, ultra detailed, no text",
+  "ritual": "apollineo"
+ },
+ "nero-d-avola": {
+  "name": "Nero d'Avola",
+  "category": "Gel colorato per capelli bianchi",
+  "line": "capelli",
+  "ingredient": "Olio di vinaccioli",
+  "ingredient_note": "Semi d'uva da vigneti italiani,<br>morbidezza e lucentezza",
+  "specs": [
+   "Riflesso naturale sui capelli bianchi",
+   "Tenuta <b>3</b> · Lucentezza <b>5</b>",
+   "Con <b>olio di vinaccioli</b> antiossidante"
+  ],
+  "tagline": "Regala un rituale.",
+  "ing_prompt": "Extreme macro food photography of almost black Nero d'Avola grapes, glossy and wet, a stream of golden grape seed oil pouring over them, Sicilian volcanic black stone, deep black background, single red rim light, luxurious and appetizing, ultra detailed, no text",
+  "ritual": "dionisiaco"
+ },
+ "bonarda": {
+  "name": "Bonarda",
+  "category": "Spray opacizzante volumizzante",
+  "line": "capelli",
+  "ingredient": "Olio di vinaccioli",
+  "ingredient_note": "Semi d'uva da vigneti italiani,<br>volume senza peso",
+  "specs": [
+   "Tenuta <b>7</b> · Lucentezza <b>0</b>",
+   "Effetto opaco tipo acqua di mare",
+   "Con <b>olio di vinaccioli</b> antiossidante"
+  ],
+  "tagline": "Regala un rituale.",
+  "ing_prompt": "Extreme macro food photography of grape seeds cascading through the air above a small pile of dark red grapes, fine mist spray catching the light, a drop of golden grape seed oil, deep black background, single red rim light, airy and appetizing, ultra detailed, no text",
+  "ritual": "dionisiaco"
+ },
+ "soave": {
+  "name": "Soave",
+  "category": "Tonico idratante per capelli",
+  "line": "capelli",
+  "ingredient": "Incenso e ylang ylang",
+  "ingredient_note": "Con olio di vinaccioli, incenso,<br>patchouli e ylang ylang",
+  "specs": [
+   "Rinfresca e pulisce il cuoio capelluto",
+   "Con <b>incenso</b>, <b>patchouli</b> e <b>ylang ylang</b>",
+   "Senza siliconi, paraffina e SLS"
+  ],
+  "tagline": "Regala un rituale.",
+  "ing_prompt": "Extreme macro still life of golden frankincense resin tears, fresh yellow ylang ylang flowers and pale green Soave white grapes with dew drops, a thin curl of incense smoke, deep black background, single red rim light, luxurious and sensorial, ultra detailed, no text",
+  "ritual": "apollineo"
+ },
+ "tiziano": {
+  "name": "Tiziano",
+  "category": "Olio da barba e pre-rasatura",
+  "line": "barba",
+  "ingredient": "Argan, avocado, macadamia",
+  "ingredient_note": "Con vinaccioli, burro di karité<br>e vitamina E",
+  "specs": [
+   "Barba lucida e nutrita",
+   "Con <b>argan</b>, <b>avocado</b> e <b>macadamia</b>",
+   "Senza siliconi, parabeni e SLS"
+  ],
+  "tagline": "Regala un rituale.",
+  "ing_prompt": "Extreme macro food photography of a halved ripe avocado, cracked macadamia nuts and argan nuts, a thick ribbon of golden oil pouring and splashing in slow motion, deep black background, single red rim light, rich and appetizing, ultra detailed, no text",
+  "ritual": "dionisiaco"
+ },
+ "caronte": {
+  "name": "Caronte",
+  "category": "Pozione da barba",
+  "line": "barba",
+  "ingredient": "Caffeina e menta piperita",
+  "ingredient_note": "Con acido ialuronico<br>e pantenolo",
+  "specs": [
+   "Effetto volumizzante e rinfrescante",
+   "Con <b>caffeina</b> e <b>menta piperita</b>",
+   "Con acido ialuronico e pantenolo"
+  ],
+  "tagline": "Regala un rituale.",
+  "ing_prompt": "Extreme macro food photography of dark roasted coffee beans bursting upward with fresh bright peppermint leaves, icy water droplets, a glossy drop of serum, deep black background, single red rim light, energetic and appetizing, ultra detailed, no text",
+  "ritual": "dionisiaco"
+ },
+ "gran-paradiso": {
+  "name": "Gran Paradiso",
+  "category": "Crema viso post rasatura",
+  "line": "viso",
+  "ingredient": "Stella alpina e liquirizia",
+  "ingredient_note": "Con ippocastano<br>e ribes nero",
+  "specs": [
+   "Idrata, lenisce e rinfresca",
+   "Con <b>stella alpina</b> e <b>liquirizia</b>",
+   "Adatta anche alla pelle sensibile"
+  ],
+  "tagline": "Regala un rituale.",
+  "ing_prompt": "Extreme macro still life of a white edelweiss flower with frost, sticks of licorice root, glossy black currants and a split horse chestnut, a swirl of white cream, deep black background, single red rim light, fresh and luxurious, ultra detailed, no text",
+  "ritual": "apollineo"
+ },
+ "monte-bianco": {
+  "name": "Monte Bianco",
+  "category": "Mousse da rasatura",
+  "line": "barba",
+  "ingredient": "Stella alpina",
+  "ingredient_note": "Con liquirizia, ippocastano<br>e ribes nero",
+  "specs": [
+   "Rasatura morbida, senza gas",
+   "Con <b>stella alpina</b> e <b>ribes nero</b>",
+   "Senza siliconi, paraffina e SLS"
+  ],
+  "tagline": "Regala un rituale.",
+  "ing_prompt": "Extreme macro still life of a white edelweiss flower on fresh snow and ice crystals, glossy black currants, a cloud of rich white foam, deep black background, single red rim light, cold and luxurious, ultra detailed, no text",
+  "ritual": "apollineo"
+ },
+ "virgilio": {
+  "name": "Virgilio",
+  "category": "Spray post rasatura",
+  "line": "barba",
+  "ingredient": "Camomilla e mentolo",
+  "ingredient_note": "Con bisabololo<br>e acido ialuronico",
+  "specs": [
+   "Lenisce e rinfresca dopo la rasatura",
+   "Con <b>camomilla</b> e <b>mentolo</b>",
+   "Con bisabololo e acido ialuronico"
+  ],
+  "tagline": "Regala un rituale.",
+  "ing_prompt": "Extreme macro still life of fresh chamomile flowers with dew, menthol ice crystals and a fine refreshing mist spray in the air, deep black background, single red rim light, fresh and luxurious, ultra detailed, no text",
+  "ritual": "apollineo"
+ }
 }
