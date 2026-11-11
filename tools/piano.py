@@ -121,9 +121,10 @@ TESTI = {
               "Scrivi il tuo risultato nei commenti e tagga un amico che è l'esatto opposto.\n\n"
               f"{DOVE}\n\n{TAG} #apollineo #dionisiaco #test"),
     "famiglia": ("Non sei un cliente. Sei uno di noi.\n\n"
-                 "Stessa poltrona, stesse mani, ogni settimana. Sappiamo già come prendi il caffè, "
-                 "e il tuo taglio lo conosciamo a memoria.\n"
-                 "La costanza è il primo rituale: con gli abbonamenti Ritual il tuo posto è sempre pronto.\n\n"
+                 "Stessa poltrona, stesse mani, ogni settimana. Sappiamo già come porti la barba: "
+                 "i tuoi attrezzi sono pronti prima che tu entri.\n"
+                 "Qui dentro il tempo si capovolge: non sei tu a rincorrerlo, è lui ad aspettarti. "
+                 "Con gli abbonamenti Ritual il tuo posto è sempre pronto.\n\n"
                  "Entra nella famiglia: chiedi in salone o scrivici in DM.\n\n"
                  f"{DOVE}\n\n{TAG} #abbonamento #famiglia #cura"),
     "equilibrio": ("Notifiche. Traffico. Rumore.\n\n"

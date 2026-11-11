@@ -647,6 +647,80 @@ Prenota in DM.
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #barba
 ```
 
+## 2027-01-02 · 18:47 · reel · neon
+Stato: pronto
+
+File: reel-neon.mp4
+
+```
+Il nostro segno, acceso.
+
+Rosso, oro, ghiaccio, viola, bianco: qual è il colore del tuo rituale? Scrivilo nei commenti.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #neon #logo
+```
+
+## 2027-01-03 · 12:47 · carosello · neon (5 slide)
+Stato: pronto
+
+File: 01-rosso.jpg, 02-oro.jpg, 03-ghiaccio.jpg, 04-viola.jpg, 05-bianco.jpg
+
+```
+Scorri i cinque colori.
+
+Il nostro segno, acceso.
+
+Rosso, oro, ghiaccio, viola, bianco: qual è il colore del tuo rituale? Scrivilo nei commenti.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #neon #logo
+```
+
+## 2027-01-09 · 18:47 · reel · famiglia
+Stato: pronto — Jolly: se mancano le riprese, può prendere il posto del 5 o del 12 dicembre.
+
+File: reel-famiglia.mp4
+
+```
+Non sei un cliente. Sei uno di noi.
+
+Stessa poltrona, stesse mani, ogni settimana. Sappiamo già come porti la barba: i tuoi attrezzi sono pronti prima che tu entri.
+Qui dentro il tempo si capovolge: non sei tu a rincorrerlo, è lui ad aspettarti. Con gli abbonamenti Ritual il tuo posto è sempre pronto.
+
+Entra nella famiglia: chiedi in salone o scrivici in DM.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #abbonamento #famiglia #cura
+```
+
+## 2027-01-10 · 12:47 · carosello · famiglia (5 slide)
+Stato: pronto — Jolly: se mancano le riprese, può prendere il posto del 5 o del 12 dicembre.
+
+File: 01-famiglia.jpg, 02-famiglia.jpg, 03-famiglia.jpg, 04-famiglia.jpg, 05-famiglia.jpg
+
+```
+Scorri: questa è la famiglia Ritual.
+
+Non sei un cliente. Sei uno di noi.
+
+Stessa poltrona, stesse mani, ogni settimana. Sappiamo già come porti la barba: i tuoi attrezzi sono pronti prima che tu entri.
+Qui dentro il tempo si capovolge: non sei tu a rincorrerlo, è lui ad aspettarti. Con gli abbonamenti Ritual il tuo posto è sempre pronto.
+
+Entra nella famiglia: chiedi in salone o scrivici in DM.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #abbonamento #famiglia #cura
+```
+
 ## 2027-01-12 · 18:47 · reel · nebbiolo
 Stato: pronto
 
@@ -741,6 +815,48 @@ Regala un rituale.
 Prenota in DM.
 
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #barba
+```
+
+## 2027-01-16 · 18:47 · reel · equilibrio
+Stato: pronto — Jolly: se mancano le riprese, può prendere il posto del 5 o del 12 dicembre.
+
+File: reel-equilibrio.mp4
+
+```
+Notifiche. Traffico. Rumore.
+
+Qui il telefono resta a faccia in giù. Panno caldo, respiro lungo, una mossa alla volta.
+Mezz'ora in cui nessuno ti cerca e tu ritrovi il tuo ritmo.
+
+Stacca dal rumore. Ritrova l'equilibrio.
+Prenota il tuo momento in DM.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #equilibrio #slowliving #cura
+```
+
+## 2027-01-17 · 12:47 · carosello · equilibrio (5 slide)
+Stato: pronto — Jolly: se mancano le riprese, può prendere il posto del 5 o del 12 dicembre.
+
+File: 01-equilibrio.jpg, 02-equilibrio.jpg, 03-equilibrio.jpg, 04-equilibrio.jpg, 05-equilibrio.jpg
+
+```
+Scorri e stacca dal rumore.
+
+Notifiche. Traffico. Rumore.
+
+Qui il telefono resta a faccia in giù. Panno caldo, respiro lungo, una mossa alla volta.
+Mezz'ora in cui nessuno ti cerca e tu ritrovi il tuo ritmo.
+
+Stacca dal rumore. Ritrova l'equilibrio.
+Prenota il tuo momento in DM.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #equilibrio #slowliving #cura
 ```
 
 ## 2027-01-19 · 18:47 · reel · primitivo

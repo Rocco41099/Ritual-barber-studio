@@ -29,7 +29,7 @@ PROGETTI = {
  # scene generate nello stile del salone (quadri e disposizione reali), mai le foto statiche come sfondo
  "famiglia": dict(dir="famiglia", col=RED, label="Abbonamenti Ritual",
    frasi=["Non sei un cliente.<br>Sei uno di noi.", "Stessa poltrona.<br>Stesse mani.<br>Ogni settimana.",
-          "Sappiamo già<br>come prendi il caffè.", "La costanza<br>è il primo rituale."],
+          "Sappiamo già<br>come porti la barba.", "Qui dentro,<br>il tempo si capovolge."],
    fine="Entra nella<br>famiglia.", cta="Chiedi in salone o in DM"),
  "equilibrio": dict(dir="equilibrio", col=GOLD, label="L'Equilibrio",
    frasi=["Notifiche.<br>Traffico.<br>Rumore.", "Qui il telefono<br>resta a faccia in giù.",
