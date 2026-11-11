@@ -435,27 +435,27 @@ Prenota in DM.
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #dionisiaco #test
 ```
 
-## 2026-12-15 · manuale · storia · quale
+## 2026-12-15 · manuale · storia · quale-1
 Stato: manuale — Storia 1/5: pubblicala dall'app aggiungendo l'adesivo sondaggio A / D.
 
 File: 01-quale-rituale.png
 
-## 2026-12-15 · manuale · storia · quale
+## 2026-12-15 · manuale · storia · quale-2
 Stato: manuale — Storia 2/5: pubblicala dall'app aggiungendo l'adesivo sondaggio A / D.
 
 File: 02-quale-rituale.png
 
-## 2026-12-15 · manuale · storia · quale
+## 2026-12-15 · manuale · storia · quale-3
 Stato: manuale — Storia 3/5: pubblicala dall'app aggiungendo l'adesivo sondaggio A / D.
 
 File: 03-quale-rituale.png
 
-## 2026-12-15 · manuale · storia · quale
+## 2026-12-15 · manuale · storia · quale-4
 Stato: manuale — Storia 4/5: pubblicala dall'app aggiungendo l'adesivo sondaggio A / D.
 
 File: 04-quale-rituale.png
 
-## 2026-12-15 · manuale · storia · quale
+## 2026-12-15 · manuale · storia · quale-5
 Stato: manuale — Storia 5/5: pubblicala dall'app aggiungendo l'adesivo sondaggio A / D.
 
 File: 05-quale-rituale.png

@@ -187,7 +187,7 @@ def main():
     reel("2026-12-15", "quale", "rituali/quale-rituale/reel-quale-rituale.mp4", rito="entrambi")
     car("2026-12-16", "quale", "rituali/quale-rituale/carosello", rito="entrambi")
     for i, u in enumerate(storie_q):
-        voci.append(dict(data="2026-12-15", ora="manuale", tipo="storia", contenuto="quale", image_url=u, stato="manuale",
+        voci.append(dict(data="2026-12-15", ora="manuale", tipo="storia", contenuto=f"quale-{i + 1}", image_url=u, stato="manuale",
                          nota=f"Storia {i + 1}/5: pubblicala dall'app aggiungendo l'adesivo sondaggio A / D."))
     prodotto("2026-12-17", "tiziano", "2026-12-18")
     voci.append(dict(data="2026-12-19", ora="18:47", tipo="post", contenuto="regalo-ultimi", image_url=R("regalo/post-regalo.jpg"),
