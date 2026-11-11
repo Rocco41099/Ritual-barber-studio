@@ -9,6 +9,7 @@ from pathlib import Path
 from PIL import Image
 sys.path.insert(0, str(Path(__file__).parent))
 from prodotto import render, ASSETS
+from salone import foto, SRC as SALONE_SRC
 from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -80,18 +81,26 @@ def main():
         pg.set_viewport_size({"width": 1080, "height": 1350})
         for i, (a, d) in enumerate(COPPIE):
             render(pg, split_bg(au(i + 1), du(i + 1)) + coppia(a, d, 84, 90, 1350), 1080, 1350, tmp / f"c{i + 1}.png", transparent=False)
+        foto(SALONE_SRC / "6028536901670735535.jpg", tmp / "rose-45.jpg", 2160, 2700, cx=0.6)
+        render(pg, f"<div style='position:absolute;inset:0;background:#000 url({(tmp / 'rose-45.jpg').as_uri()}) center/cover'></div>"
+                   "<div style='position:absolute;inset:0;background:linear-gradient(0deg,rgba(0,0,0,.92) 0%,rgba(0,0,0,.5) 28%,rgba(0,0,0,0) 46%)'></div>"
+                   f"<div style='position:absolute;bottom:90px;width:100%;text-align:center;padding:0 70px'>"
+                   f"<div style='width:120px;height:4px;background:linear-gradient(90deg,{WINE},{GOLD});margin:0 auto 30px'></div>"
+                   f"<div class=name style='font-size:80px;line-height:1.12'>Due rose.<br>Due nature.</div>"
+                   f"<div class=spec style='font-size:40px;margin-top:22px'>Un solo uomo.</div></div>",
+               1080, 1350, tmp / "c4.png", transparent=False)
         render(pg, f"<div style='position:absolute;inset:0;background:#09090a url({tex45}) center/cover'></div>" + divisore(1350)
                    + f"<div style='position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:90px'>"
                    f"<div style='background:rgba(9,9,10,.92);padding:50px 40px'><img src='{logo}' style='width:280px;margin-bottom:44px'>{messaggio(False)}"
                    f"<div class=cta style='font-size:30px;padding:18px 36px;margin-top:44px'>Scrivici A o D in DM</div></div></div>",
-               1080, 1350, tmp / "c4.png", transparent=False)
+               1080, 1350, tmp / "c5.png", transparent=False)
         # post singolo
         render(pg, split_bg(au(3), du(1)) + "<div style='position:absolute;inset:0;background:linear-gradient(0deg,rgba(0,0,0,.95) 0%,rgba(0,0,0,.6) 38%,rgba(0,0,0,.1) 60%)'></div>"
                    + "<div style='position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.75) 0%,rgba(0,0,0,0) 22%)'></div>" + divisore(1350) + f"<div style='position:absolute;top:44px;width:100%;text-align:center'><img src='{logo}' style='width:230px;background:rgba(0,0,0,.6);padding:14px 22px'></div>"
                    f"<div style='position:absolute;bottom:80px;width:100%;text-align:center;padding:0 60px'>{messaggio(False)}</div>",
                1080, 1350, tmp / "post.png", transparent=False)
         b.close()
-    for i in range(1, 5):
+    for i in range(1, 6):
         Image.open(tmp / f"c{i}.png").convert("RGB").save(car / f"{i:02d}-due-nature.jpg", quality=95, subsampling=0)
     Image.open(tmp / "post.png").convert("RGB").save(D / "post-due-nature.jpg", quality=95, subsampling=0)
 

@@ -1,4 +1,4 @@
-"""'Il salone' v2: reel 9:16 dalle clip animate delle foto reali e carosello 4:5 da 10 slide.
+"""'Il salone' v2: reel 9:16 dalle clip animate delle foto reali e carosello 4:5 (copertina, una slide per frase, manifesto, prenotazione).
 
 Uso: python3 tools/salone.py
 Richiede in media/instagram/salone/: clip/01..08.mp4 (Higgsfield, 2K o 1080p) e sorgenti/ con le foto.
@@ -22,9 +22,12 @@ GRADE = ("curves=master='0/0 0.15/0.06 0.5/0.46 0.85/0.88 1/0.97',"
 SCENE = [
     ("01", "full", "Fuori,<br>il mondo corre.", "", "6026285101857050210.jpg"),
     ("02", "band", "Qui dentro,<br>il tempo torna tuo.", "", "6026285101857050204.jpg"),
+    ("10", "full", "Anche l'attesa<br>fa parte del rito.", "", "6028536901670735534.jpg"),
     ("03", "full", "Una poltrona.<br>Nessuna fretta.", "", "IMG20261026134222.jpg"),
     ("04", "full", "Ogni strumento<br>ha il suo posto.", "Ogni gesto, il suo perché.", "IMG20261026134300.jpg"),
+    ("12", "band", "Ogni mossa è pensata.", "Come ogni taglio.", "6028536901670735536.jpg"),
     ("05", "full", "Disciplina<br>e istinto.", "Nello stesso spazio.", "6026285101857050208.jpg"),
+    ("11", "full", "Due rose.<br>Due nature.", "Un solo uomo.", "6028536901670735535.jpg"),
     ("06", "band", "La precisione<br>è rispetto.", "", "6026285101857050209.jpg"),
     ("07", "full", "Prima ci prendiamo<br>cura di te.", "Poi del taglio.", "6026285101857050211.jpg"),
     ("08", "band", "Schiuma calda.<br>Lama. Silenzio.", "", "ciotole-pulito.jpg"),
@@ -33,7 +36,7 @@ FINALE = ("Non è un taglio.<br>È un rituale.", "IMG20261026134721.jpg")
 MANIFESTO = ("Ritual nasce da un'idea semplice: la cura di sé non è vanità, è disciplina.<br><br>"
              "Ogni appuntamento è un rito: tempo tuo, mani esperte, estratti naturali.<br><br>"
              "Che tu sia ordine o istinto, qui trovi il tuo.")
-SEG = 3.6  # secondi per scena
+SEG = 3.3  # secondi per scena
 BAND_Y = 525  # in coordinate 1080x1920
 
 
@@ -76,7 +79,7 @@ def main():
     for f in car.glob("*.jpg"):
         f.unlink()
     for i, s in enumerate(SCENE):
-        foto(SRC / s[4], tmp / f"f{i}-45.jpg", 2160, 2700, cx=0.3 if "ciotole" in s[4] else 0.5)
+        foto(SRC / s[4], tmp / f"f{i}-45.jpg", 2160, 2700, cx=0.3 if "ciotole" in s[4] else 0.68 if s[4] == "6028536901670735536.jpg" else 0.5)
     foto(SRC / "6026285101857050206.jpg", tmp / "cover-45.jpg", 2160, 2700)
     foto(SRC / FINALE[1], tmp / "logo-band.jpg", 2560, 1440)
     with sync_playwright() as p:
@@ -102,19 +105,22 @@ def main():
                    + testo("Benvenuto<br>nel Rituale.", "Corso Umberto I 300c · Bernalda", 92, bottom=90),
                1080, 1350, tmp / "c00.png", transparent=False)
         for i, (_, _, main_, sub, _) in enumerate(SCENE[1:], start=1):
+            alto = SCENE[i][4] == "6028536901670735536.jpg"  # scacchiera: testo in alto per lasciare libera la targhetta
+            txt = ("<div style='position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.92) 0%,rgba(0,0,0,.5) 26%,rgba(0,0,0,0) 44%)'></div>"
+                   + testo(main_, sub, 74, top=80, grad=False)) if alto else testo(main_, sub, 74, bottom=90)
             render(pg, f"<div style='position:absolute;inset:0;background:#000 url({(tmp / f'f{i}-45.jpg').as_uri()}) center/cover'></div>"
-                       + testo(main_, sub, 74, bottom=90), 1080, 1350, tmp / f"c{i:02d}.png", transparent=False)
+                       + txt, 1080, 1350, tmp / f"c{i:02d}.png", transparent=False)
         render(pg, f"<div style='position:absolute;inset:0;background:#09090a url({tex45}) center/cover'></div>"
                    f"<div style='position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:110px'>"
                    f"<div class=label style='font-size:28px'>Il nostro manifesto</div>"
                    f"<div class=name style='font-size:70px;margin:30px 0 40px'>Non è un taglio.<br>È un rituale.</div>"
                    f"<div class=spec style='font-size:34px;line-height:1.45;font-weight:600'>{MANIFESTO}</div></div>",
-               1080, 1350, tmp / "c08.png", transparent=False)
+               1080, 1350, tmp / f"c{len(SCENE):02d}.png", transparent=False)
         render(pg, f"<div style='position:absolute;inset:0;background:#09090a url({tex45}) center/cover'></div>"
                    f"<div style='position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:90px'>{chiusura(False)}</div>",
-               1080, 1350, tmp / "c09.png", transparent=False)
+               1080, 1350, tmp / f"c{len(SCENE) + 1:02d}.png", transparent=False)
         b.close()
-    for i in range(10):
+    for i in range(len(SCENE) + 2):
         Image.open(tmp / f"c{i:02d}.png").convert("RGB").save(car / f"{i + 1:02d}-salone.jpg", quality=95, subsampling=0)
 
     # reel
