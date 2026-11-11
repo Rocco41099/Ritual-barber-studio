@@ -27,7 +27,7 @@ SCENE = [
     ("04", "full", "Ogni strumento<br>ha il suo posto.", "Ogni gesto, il suo perché.", "IMG20261026134300.jpg"),
     ("12", "band", "Ogni mossa è pensata.", "Come ogni taglio.", "6028536901670735536.jpg"),
     ("05", "full", "Disciplina<br>e istinto.", "Nello stesso spazio.", "6026285101857050208.jpg"),
-    ("11", "full", "Due rose.<br>Due nature.", "Un solo uomo.", "6028536901670735535.jpg"),
+    ("11", "full", "Il rosso dell'istinto.", "Il bianco dell'ordine.", "6028536901670735535.jpg"),
     ("06", "band", "La precisione<br>è rispetto.", "", "6026285101857050209.jpg"),
     ("07", "full", "Prima ci prendiamo<br>cura di te.", "Poi del taglio.", "6026285101857050211.jpg"),
     ("08", "band", "Schiuma calda.<br>Lama. Silenzio.", "", "ciotole-pulito.jpg"),

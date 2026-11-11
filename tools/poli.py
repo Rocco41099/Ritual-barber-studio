@@ -86,8 +86,8 @@ def main():
                    "<div style='position:absolute;inset:0;background:linear-gradient(0deg,rgba(0,0,0,.92) 0%,rgba(0,0,0,.5) 28%,rgba(0,0,0,0) 46%)'></div>"
                    f"<div style='position:absolute;bottom:90px;width:100%;text-align:center;padding:0 70px'>"
                    f"<div style='width:120px;height:4px;background:linear-gradient(90deg,{WINE},{GOLD});margin:0 auto 30px'></div>"
-                   f"<div class=name style='font-size:80px;line-height:1.12'>Due rose.<br>Due nature.</div>"
-                   f"<div class=spec style='font-size:40px;margin-top:22px'>Un solo uomo.</div></div>",
+                   f"<div class=name style='font-size:76px;line-height:1.12'>Il rosso<br>dell'istinto.</div>"
+                   f"<div class=spec style='font-size:42px;margin-top:22px'>Il bianco dell'ordine.</div></div>",
                1080, 1350, tmp / "c4.png", transparent=False)
         render(pg, f"<div style='position:absolute;inset:0;background:#09090a url({tex45}) center/cover'></div>" + divisore(1350)
                    + f"<div style='position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:90px'>"
