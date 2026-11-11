@@ -60,7 +60,7 @@ def specs(p, size):
 
 def badge(p, size):
     name, col = RITUALS[p["ritual"]]
-    return f"<div class=rit style='font-size:{size}px;color:{col};border-color:{col}'>{name}</div>"
+    return f"<div class=rit style='font-size:{size}px;color:{col};border-color:{col};background:rgba(0,0,0,.72)'>{name}</div>"
 
 
 def build(slug):
@@ -105,8 +105,8 @@ def build(slug):
 <div style="position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:240px 90px 340px;text-align:center">{end_body(True)}</div>""",
                1080, 1920, tmp / "end.png", transparent=False)
         render(pg, f"""<div style="position:absolute;inset:0;background:#000 url({hero45}) center/cover"></div>
-<div style="position:absolute;inset:0;background:linear-gradient(0deg,rgba(0,0,0,.9) 0%,rgba(0,0,0,0) 32%)"></div>
-<div style="position:absolute;top:56px;width:100%;text-align:center">{badge(p, 24)}</div>
+<div style="position:absolute;inset:0;background:linear-gradient(0deg,rgba(0,0,0,.97) 0%,rgba(0,0,0,.85) 20%,rgba(0,0,0,0) 40%),linear-gradient(180deg,rgba(0,0,0,.7) 0%,rgba(0,0,0,0) 14%)"></div>
+<div style="position:absolute;top:40px;width:100%;text-align:center">{badge(p, 24)}</div>
 <div style="position:absolute;bottom:60px;width:100%;text-align:center">
 <div class=label style="font-size:30px">{p['category']}</div>
 <div class=name style="font-size:{120 if len(p['name'])<10 else 100}px;margin-top:14px">{p['name']}</div></div>""", 1080, 1350, tmp / "c1.png", transparent=False)
