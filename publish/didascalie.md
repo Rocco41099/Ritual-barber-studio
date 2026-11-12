@@ -557,10 +557,10 @@ Stato: pronto
 File: reel-caronte.mp4
 
 ```
-Caronte. Pozione da barba.
+Caronte. Lozione stimolante contro l'alopecia.
 
 Il cuore della formula: caffeina e menta piperita. Con acido ialuronico e pantenolo.
-· Effetto volumizzante e rinfrescante
+· Azione stimolante, effetto a tutto volume
 · Con caffeina e menta piperita
 · Con acido ialuronico e pantenolo
 
@@ -572,7 +572,7 @@ Regala un rituale.
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #barba
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
 ```
 
 ## 2026-12-23 · 12:47 · carosello · caronte (3 slide)
@@ -581,10 +581,10 @@ Stato: pronto
 File: 01-caronte.jpg, 02-caronte.jpg, 03-caronte.jpg
 
 ```
-Caronte. Pozione da barba.
+Caronte. Lozione stimolante contro l'alopecia.
 
 Il cuore della formula: caffeina e menta piperita. Con acido ialuronico e pantenolo.
-· Effetto volumizzante e rinfrescante
+· Azione stimolante, effetto a tutto volume
 · Con caffeina e menta piperita
 · Con acido ialuronico e pantenolo
 
@@ -596,7 +596,7 @@ Regala un rituale.
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #barba
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
 ```
 
 ## 2026-12-24 · 18:47 · reel · monte-bianco
@@ -775,7 +775,7 @@ Stato: pronto
 File: reel-virgilio.mp4
 
 ```
-Virgilio. Spray post rasatura.
+Virgilio. Tonico viso tripla azione.
 
 Il cuore della formula: camomilla e mentolo. Con bisabololo e acido ialuronico.
 · Lenisce e rinfresca dopo la rasatura
@@ -790,7 +790,7 @@ Regala un rituale.
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #barba
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
 ```
 
 ## 2027-01-15 · 12:47 · carosello · virgilio (3 slide)
@@ -799,7 +799,7 @@ Stato: pronto
 File: 01-virgilio.jpg, 02-virgilio.jpg, 03-virgilio.jpg
 
 ```
-Virgilio. Spray post rasatura.
+Virgilio. Tonico viso tripla azione.
 
 Il cuore della formula: camomilla e mentolo. Con bisabololo e acido ialuronico.
 · Lenisce e rinfresca dopo la rasatura
@@ -814,7 +814,7 @@ Regala un rituale.
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #barba
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
 ```
 
 ## 2027-01-16 · 18:47 · reel · equilibrio
@@ -913,7 +913,7 @@ Stato: pronto
 File: reel-nero-d-avola.mp4
 
 ```
-Nero d'Avola. Gel colorato per capelli bianchi.
+Nero d'Avola. Gel nero per capelli.
 
 Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, morbidezza e lucentezza.
 · Riflesso naturale sui capelli bianchi
@@ -937,7 +937,7 @@ Stato: pronto
 File: 01-nero-d-avola.jpg, 02-nero-d-avola.jpg, 03-nero-d-avola.jpg
 
 ```
-Nero d'Avola. Gel colorato per capelli bianchi.
+Nero d'Avola. Gel nero per capelli.
 
 Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, morbidezza e lucentezza.
 · Riflesso naturale sui capelli bianchi
@@ -961,7 +961,7 @@ Stato: pronto
 File: reel-soave.mp4
 
 ```
-Soave. Tonico idratante per capelli.
+Soave. Spray idratante per capelli.
 
 Il cuore della formula: incenso e ylang ylang. Con olio di vinaccioli, incenso, patchouli e ylang ylang.
 · Rinfresca e pulisce il cuoio capelluto
@@ -985,7 +985,7 @@ Stato: pronto
 File: 01-soave.jpg, 02-soave.jpg, 03-soave.jpg
 
 ```
-Soave. Tonico idratante per capelli.
+Soave. Spray idratante per capelli.
 
 Il cuore della formula: incenso e ylang ylang. Con olio di vinaccioli, incenso, patchouli e ylang ylang.
 · Rinfresca e pulisce il cuoio capelluto
@@ -1009,7 +1009,7 @@ Stato: pronto
 File: reel-bonarda.mp4
 
 ```
-Bonarda. Spray opacizzante volumizzante.
+Bonarda. Acqua fissativa opacizzante.
 
 Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, volume senza peso.
 · Tenuta 7 · Lucentezza 0
@@ -1033,7 +1033,7 @@ Stato: pronto
 File: 01-bonarda.jpg, 02-bonarda.jpg, 03-bonarda.jpg
 
 ```
-Bonarda. Spray opacizzante volumizzante.
+Bonarda. Acqua fissativa opacizzante.
 
 Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, volume senza peso.
 · Tenuta 7 · Lucentezza 0
@@ -1107,10 +1107,10 @@ File: reel-barbera.mp4
 ```
 Barbera. Cera definente per capelli.
 
-Ispirazione: uva barbera. Il carattere di un grande rosso italiano.
+Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, definizione senza seccare.
 · Definisce l'acconciatura
 · Mantiene la forma tutto il giorno
-· Linea Vino Italiano
+· Con olio di vinaccioli antiossidante
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
 Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
@@ -1131,10 +1131,10 @@ File: 01-barbera.jpg, 02-barbera.jpg, 03-barbera.jpg
 ```
 Barbera. Cera definente per capelli.
 
-Ispirazione: uva barbera. Il carattere di un grande rosso italiano.
+Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, definizione senza seccare.
 · Definisce l'acconciatura
 · Mantiene la forma tutto il giorno
-· Linea Vino Italiano
+· Con olio di vinaccioli antiossidante
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
 Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
@@ -1347,10 +1347,10 @@ File: reel-donatello.mp4
 ```
 Donatello. Crema peeling viso.
 
-L'effetto: peeling delicato. Pelle liscia, pulita e luminosa.
+Il cuore della formula: lavanda e melissa. Con estratti di mirtillo e liquirizia.
 · Esfolia delicatamente
-· Pelle liscia e pulita
-· Viso più luminoso
+· Pelle liscia, pulita e luminosa
+· Con lavanda, melissa, mirtillo e liquirizia
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
 Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
@@ -1371,10 +1371,10 @@ File: 01-donatello.jpg, 02-donatello.jpg, 03-donatello.jpg
 ```
 Donatello. Crema peeling viso.
 
-L'effetto: peeling delicato. Pelle liscia, pulita e luminosa.
+Il cuore della formula: lavanda e melissa. Con estratti di mirtillo e liquirizia.
 · Esfolia delicatamente
-· Pelle liscia e pulita
-· Viso più luminoso
+· Pelle liscia, pulita e luminosa
+· Con lavanda, melissa, mirtillo e liquirizia
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
 Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
@@ -1491,10 +1491,10 @@ File: reel-ovidio.mp4
 ```
 Ovidio. Tonico viso astringente purificante.
 
-La sensazione: balsamico ed energizzante. Purifica e riequilibra la pelle.
-· Azione astringente
-· Purifica e riequilibra
-· Effetto balsamico energizzante
+Il cuore della formula: uva, zenzero e boswellia. Tonico balsamico energizzante: purifica e riequilibra.
+· Azione astringente e purificante
+· Riequilibra la pelle
+· Con uva, zenzero e boswellia
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
 Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
@@ -1515,10 +1515,10 @@ File: 01-ovidio.jpg, 02-ovidio.jpg, 03-ovidio.jpg
 ```
 Ovidio. Tonico viso astringente purificante.
 
-La sensazione: balsamico ed energizzante. Purifica e riequilibra la pelle.
-· Azione astringente
-· Purifica e riequilibra
-· Effetto balsamico energizzante
+Il cuore della formula: uva, zenzero e boswellia. Tonico balsamico energizzante: purifica e riequilibra.
+· Azione astringente e purificante
+· Riequilibra la pelle
+· Con uva, zenzero e boswellia
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
 Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
@@ -1539,10 +1539,10 @@ File: reel-felice.mp4
 ```
 Felice. Fango detossinante viso granulare.
 
-Il trattamento: fango granulare. Purifica in profondità e libera la pelle dalle impurità.
+Il cuore della formula: uva, limone e mela. Bucce d'uva bio, limoni di Sicilia, mele del Trentino e crusca di grano.
 · Detossina e purifica in profondità
-· Texture granulare esfoliante
-· Pelle libera dalle impurità
+· Libera la pelle dalle impurità
+· Con bucce d'uva, limone, mela e crusca
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
 Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
@@ -1563,10 +1563,10 @@ File: 01-felice.jpg, 02-felice.jpg, 03-felice.jpg
 ```
 Felice. Fango detossinante viso granulare.
 
-Il trattamento: fango granulare. Purifica in profondità e libera la pelle dalle impurità.
+Il cuore della formula: uva, limone e mela. Bucce d'uva bio, limoni di Sicilia, mele del Trentino e crusca di grano.
 · Detossina e purifica in profondità
-· Texture granulare esfoliante
-· Pelle libera dalle impurità
+· Libera la pelle dalle impurità
+· Con bucce d'uva, limone, mela e crusca
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
 Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.

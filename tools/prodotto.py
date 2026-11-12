@@ -130,7 +130,8 @@ def build(slug):
                 f"zoompan=z='min(1+{z}*on,1.08)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={frames}:s=1440x2560:fps=30,setsar=1")
     ov = "scale=1440:2560:flags=lanczos,format=rgba"
     fc = (
-        "[0:v]scale=1440:2560:force_original_aspect_ratio=increase:flags=lanczos,crop=1440:2560,fps=30,setsar=1,unsharp=5:5:0.4[v0];"
+        ("[0:v]scale=1440:2560:force_original_aspect_ratio=increase:flags=lanczos,crop=1440:2560,fps=30,setsar=1,unsharp=5:5:0.4[v0];"
+         if (d / "clip.mp4").exists() else f"[0:v]{zp(150, 0.0006)}[v0];") +
         f"[1:v]{ov}[t];[v0][t]overlay=0:0:enable='gte(t,0.4)'[a];"
         f"[2:v]{zp(105, 0.0009)}[i0];[3:v]{ov}[io];[i0][io]overlay=0:0[i];"
         f"[4:v]{zp(105, 0.0008)}[h0];[5:v]{ov}[ho];[h0][ho]overlay=0:0[h];"
@@ -139,7 +140,7 @@ def build(slug):
         "[ai][h]xfade=transition=fade:duration=0.5:offset=7.5[aih];"
         "[aih][e]xfade=transition=fadeblack:duration=0.5:offset=10.5[v];[v]format=yuv420p[o]")
     out = d / f"reel-{slug}.mp4"
-    cmd = ["ffmpeg", "-y", "-loglevel", "error", "-t", "5", "-i", str(d / "clip.mp4"),
+    cmd = ["ffmpeg", "-y", "-loglevel", "error", *(["-t", "5", "-i", str(d / "clip.mp4")] if (d / "clip.mp4").exists() else ["-i", str(d / "hero-916.jpg")]),
            "-loop", "1", "-t", "5", "-i", str(tmp / "ov-title.png"),
            "-i", str(d / "ing-916.jpg"), "-loop", "1", "-t", "3.5", "-i", str(tmp / "ov-ing.png"),
            "-i", str(d / "hero-916.jpg"), "-loop", "1", "-t", "3.5", "-i", str(tmp / "ov-info.png"),
