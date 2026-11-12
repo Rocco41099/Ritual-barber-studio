@@ -60,60 +60,68 @@ def plain(s):
 
 
 def didascalia_prodotto(slug, carosello=False):
+    """Struttura (vedi docs/strategia-comunicazione.md): domanda che fa emergere il problema, esperienza,
+    estratto, tre benefici al massimo, un dettaglio onesto se serve, chiusura forte in fondo."""
     p = PROD[slug]; nome, frase, tag = RITO[p["ritual"]]
-    apertura = "Scorri: prodotto, ingrediente, rituale." if carosello else "Guarda fino alla fine."
-    return (f"{p['name']}. {p['category']}.\n\n" +
-            (f"{p['ing_label']}: {p['ingredient'].lower()}. {plain(p['ingredient_note'])}.\n" if p.get("ing_label") else
-             f"Il cuore della formula: {p['ingredient'].lower()}. {plain(p['ingredient_note'])}.\n")
-            + "\n".join(f"· {plain(s)}" for s in p["specs"]) + "\n\n"
-            f"{nome}: {frase}.\n"
-            f"Lo trovi in salone, con il consiglio giusto per usarlo. {apertura}\n\n"
-            f"Regala un rituale.\n\n{DOVE}\n\n"
+    estratto = (f"{p['ing_label']}: {p['ingredient'].lower()}." if p.get("ing_label")
+                else f"Il cuore della formula: {p['ingredient'].lower()}.")
+    prova = "sulla tua pelle" if p["line"] in ("viso", "corpo") else ("sulla tua barba" if p["line"] == "barba" else "sui tuoi capelli")
+    return (f"{p['hook']}\n\n"
+            f"{p['name']}, {p['category'][0].lower() + p['category'][1:]}. {p['frame']}\n\n"
+            f"{estratto} {plain(p['ingredient_note'])}.\n"
+            + "\n".join(f"· {plain(x)}" for x in [x for x in p["specs"] if not plain(x).startswith("Con ")][:3]) + "\n\n"
+            + (f"{p['onesto']}\n\n" if p.get("onesto") else "")
+            + f"{nome}: {frase}.\n"
+            f"{'Scorri fino all’ultima slide.' if carosello else 'Guarda fino alla fine.'}\n\n"
+            f"Al prossimo appuntamento te lo facciamo provare {prova}.\n\n{DOVE}\n\n"
             f"{TAG} {tag} #barbaitaliana #madeinitaly #estrattinaturali #{p['line']}")
 
 
 TESTI = {
-    "due-nature": ("Due nature. Un solo Rituale.\n\n"
-                   "L'ordine ti dà la forma. L'istinto ti dà il carattere.\n"
-                   "C'è chi cerca la linea perfetta e chi vuole rompere gli schemi. Ogni uomo li ha entrambi: noi li curiamo tutti e due.\n\n"
-                   "Tu da che parte stai? Scrivi A o D nei commenti.\n\n"
+    "due-nature": ("Ordine o istinto: tu da che parte stai?\n\n"
+                   "L'ordine ti dà la forma. L'istinto ti dà il carattere. Ogni uomo li ha entrambi: noi li curiamo tutti e due.\n\n"
+                   "Scrivi A o D nei commenti.\n"
+                   "Due nature. Un solo Rituale.\n\n"
                    f"{DOVE}\n\n{TAG} #apollineo #dionisiaco #menstyle"),
-    "lupi": ("I Lupi non dormono mai.\nMa ogni lupo ha il suo rituale.\n\n"
-             "Bernalda, di notte. Il castello, la piazza, il corso. E una porta che resta accesa.\n\n"
-             "Martedì si apre la famiglia. Resta in ascolto.\n\n"
+    "lupi": ("Chi resta sveglio quando Bernalda dorme?\n\n"
+             "Il castello, la piazza, il corso. E una porta che resta accesa.\n\n"
+             "Martedì si apre la famiglia. Resta in ascolto.\n"
+             "I Lupi non dormono mai. Ma ogni lupo ha il suo rituale.\n\n"
              f"{DOVE}\n\n{TAG} #dionisiaco #bernaldabynight"),
-    "abbonamenti": ("Il rituale non è una volta ogni tanto. È un appuntamento con te stesso.\n\n"
-                    "Con gli abbonamenti Ritual hai il tuo posto in poltrona ogni mese, a un prezzo che premia la costanza. "
-                    "Quattro piani, uno per ogni ritmo: scorri e trova il tuo.\n\n"
-                    "I primi iscritti entrano come Soci Fondatori.\n\n"
-                    "Entra nella famiglia: prenota in salone o scrivici in DM.\n\n"
+    "abbonamenti": ("Quanto vale avere il tuo posto in poltrona sempre pronto?\n\n"
+                    "Con gli abbonamenti Ritual il taglio non è più una cosa da incastrare: è un appuntamento fisso con te stesso, "
+                    "a un prezzo che premia la costanza. Quattro piani, uno per ogni ritmo: scorri e trova il tuo.\n\n"
+                    "Chi entra ora entra come Socio Fondatore.\n\n"
+                    "Entra nella famiglia: chiedi in salone o scrivici in DM.\n\n"
                     f"{DOVE}\n\n{TAG} #abbonamento #sociofondatore #cura"),
-    "apollineo": ("Ordine. Misura. Controllo.\n\n"
-                  "La disciplina non ti limita: ti definisce.\n"
-                  "Il Rituale Apollineo è per chi ama la linea pulita: sfumatura a pelle, barba disegnata al millimetro, "
-                  "lo stesso gesto ogni settimana.\n\n"
-                  "Sei Apollineo? Scrivi A nei commenti.\n\n"
+    "apollineo": ("Ti piace quando ogni linea è al suo posto?\n\n"
+                  "Il Rituale Apollineo è per chi ama la precisione: sfumatura a pelle, barba disegnata al millimetro, "
+                  "lo stesso gesto ogni settimana.\n"
+                  "Ordine. Misura. Controllo.\n\n"
+                  "Sei Apollineo? Scrivi A nei commenti.\n"
+                  "La disciplina non ti limita: ti definisce.\n\n"
                   f"{DOVE}\n\n{TAG} #apollineo #skinfade #beardgrooming"),
-    "dionisiaco": ("Istinto. Eccesso. Libertà.\n\n"
-                   "Le regole sono per chi non ha stile.\n"
-                   "Il Rituale Dionisiaco è per chi taglia, rompe e ricomincia: texture, mullet, trasformazioni. "
+    "dionisiaco": ("E se questa volta cambiassi tutto?\n\n"
+                   "Il Rituale Dionisiaco è per chi taglia, rompe e ricomincia: texture, mullet, trasformazioni.\n"
+                   "Istinto. Eccesso. Libertà.\n\n"
+                   "Sei Dionisiaco? Scrivi D nei commenti.\n"
                    "Nessuno schema, solo carattere.\n\n"
-                   "Sei Dionisiaco? Scrivi D nei commenti.\n\n"
                    f"{DOVE}\n\n{TAG} #dionisiaco #mullet #texturedhair"),
-    "salone": ("Fuori, il mondo corre. Qui dentro, il tempo torna tuo.\n\n"
-               "Una poltrona, nessuna fretta. Ogni strumento al suo posto, ogni gesto con il suo perché. "
-               "Anche l'attesa fa parte del rito.\n\n"
-               "Ritual nasce da un'idea semplice: la cura di sé non è vanità, è disciplina.\n"
+    "salone": ("Quando è stata l'ultima volta che nessuno ti ha messo fretta?\n\n"
+               "Una poltrona, ogni strumento al suo posto, ogni gesto con il suo perché. Anche l'attesa fa parte del rito.\n"
+               "La cura di sé non è vanità: è disciplina.\n\n"
+               "Fuori il mondo corre. Qui dentro il tempo torna tuo.\n"
                "Non è un taglio. È un rituale.\n\n"
                f"{DOVE}\n\n{TAG} #barbershopinterior #salone"),
-    "regalo": ("Il regalo perfetto ha carattere.\n\n"
-               "Quest'anno regala un rituale: cura uomo made in Italy con estratti naturali, "
-               "vinaccioli, argan, stella alpina, caffeina. Ti aiutiamo noi a scegliere quello giusto per lui.\n\n"
-               "Vieni in salone o scrivici in DM.\n\n"
+    "regalo": ("Cosa regali a un uomo che ha già tutto?\n\n"
+               "Un momento solo per lui. Cura uomo made in Italy con estratti naturali: vinaccioli, argan, stella alpina, caffeina.\n"
+               "Dicci com'è lui: barba, capelli, pelle. Il regalo giusto lo scegliamo insieme.\n\n"
+               "Vieni in salone o scrivici in DM.\n"
+               "Il regalo perfetto ha carattere. Regala un rituale.\n\n"
                f"{DOVE}\n\n{TAG} #regalouomo #natale #barbaitaliana"),
-    "regalo-ultimi": ("Ultimi giorni per regalare un rituale.\n\n"
-                      "Hai ancora un uomo nella lista? Passa in salone: ti prepariamo il regalo giusto, "
-                      "con prodotti made in Italy e un consiglio su misura.\n\n"
+    "regalo-ultimi": ("Hai ancora un uomo nella lista dei regali?\n\n"
+                      "Passa in salone: in pochi minuti ti prepariamo il regalo giusto, con prodotti made in Italy e un consiglio su misura.\n\n"
+                      "Il 24 arriva per tutti. Il rituale giusto, solo per chi passa prima.\n\n"
                       f"{DOVE}\n\n{TAG} #regalouomo #natale #ultimominuto"),
     "quale": ("Quale rituale sei?\n\n"
               "5 scelte, nessuna risposta sbagliata. Conta le A e le D.\n"
@@ -121,21 +129,21 @@ TESTI = {
               "Più D: sei Dionisiaco. Istinto, eccesso, libertà.\n\n"
               "Scrivi il tuo risultato nei commenti e tagga un amico che è l'esatto opposto.\n\n"
               f"{DOVE}\n\n{TAG} #apollineo #dionisiaco #test"),
-    "famiglia": ("Non sei un cliente. Sei uno di noi.\n\n"
-                 "Stessa poltrona, stesse mani, ogni settimana. Sappiamo già come porti la barba: "
-                 "i tuoi attrezzi sono pronti prima che tu entri.\n"
-                 "Qui dentro il tempo si capovolge: non sei tu a rincorrerlo, è lui ad aspettarti. "
-                 "Con gli abbonamenti Ritual il tuo posto è sempre pronto.\n\n"
-                 "Entra nella famiglia: chiedi in salone o scrivici in DM.\n\n"
+    "famiglia": ("E se il barbiere sapesse già come porti la barba?\n\n"
+                 "Stessa poltrona, stesse mani, ogni settimana. I tuoi attrezzi sono pronti prima che tu entri, "
+                 "e il tuo posto è sempre libero.\n"
+                 "Con gli abbonamenti Ritual non rincorri il tempo: è lui ad aspettarti.\n\n"
+                 "Chiedi in salone o scrivici in DM.\n"
+                 "Non sei un cliente. Sei uno di noi.\n\n"
                  f"{DOVE}\n\n{TAG} #abbonamento #famiglia #cura"),
-    "equilibrio": ("Notifiche. Traffico. Rumore.\n\n"
+    "equilibrio": ("Quando è stata l'ultima volta che nessuno ti ha cercato per mezz'ora?\n\n"
                    "Qui il telefono resta a faccia in giù. Panno caldo e vapore, fango sul viso, una mossa alla volta.\n"
-                   "Mezz'ora in cui nessuno ti cerca e tu ritrovi il tuo ritmo.\n\n"
-                   "Stacca dal rumore. Ritrova l'equilibrio.\n"
-                   "Prenota il tuo momento in DM.\n\n"
+                   "Mezz'ora per te, e il tuo ritmo torna.\n\n"
+                   "Stacca dal rumore. Ritrova l'equilibrio.\n\n"
                    f"{DOVE}\n\n{TAG} #equilibrio #slowliving #cura"),
-    "neon": ("Il nostro segno, acceso.\n\n"
-             "Rosso, oro, ghiaccio, viola, bianco: qual è il colore del tuo rituale? Scrivilo nei commenti.\n\n"
+    "neon": ("Qual è il colore del tuo rituale?\n\n"
+             "Rosso, ghiaccio, viola, bianco: scrivilo nei commenti.\n"
+             "Il nostro segno, acceso.\n\n"
              f"{DOVE}\n\n{TAG} #neon #logo"),
 }
 CAROSELLO = {  # prima riga della didascalia del carosello, al posto di quella del reel

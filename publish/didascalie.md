@@ -6,12 +6,12 @@ Stato: pronto
 File: reel-due-nature.mp4
 
 ```
+Ordine o istinto: tu da che parte stai?
+
+L'ordine ti dà la forma. L'istinto ti dà il carattere. Ogni uomo li ha entrambi: noi li curiamo tutti e due.
+
+Scrivi A o D nei commenti.
 Due nature. Un solo Rituale.
-
-L'ordine ti dà la forma. L'istinto ti dà il carattere.
-C'è chi cerca la linea perfetta e chi vuole rompere gli schemi. Ogni uomo li ha entrambi: noi li curiamo tutti e due.
-
-Tu da che parte stai? Scrivi A o D nei commenti.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -27,12 +27,12 @@ File: 01-due-nature.jpg, 02-due-nature.jpg, 03-due-nature.jpg, 04-due-nature.jpg
 ```
 Scorri: da una parte l'ordine, dall'altra l'istinto.
 
+Ordine o istinto: tu da che parte stai?
+
+L'ordine ti dà la forma. L'istinto ti dà il carattere. Ogni uomo li ha entrambi: noi li curiamo tutti e due.
+
+Scrivi A o D nei commenti.
 Due nature. Un solo Rituale.
-
-L'ordine ti dà la forma. L'istinto ti dà il carattere.
-C'è chi cerca la linea perfetta e chi vuole rompere gli schemi. Ogni uomo li ha entrambi: noi li curiamo tutti e due.
-
-Tu da che parte stai? Scrivi A o D nei commenti.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -46,17 +46,18 @@ Stato: pronto
 File: reel-amarone.mp4
 
 ```
-Amarone. Gel strong per capelli.
+Capelli che non restano mai al loro posto?
+
+Amarone, gel strong per capelli. Una passata al mattino e la forma regge fino a sera.
 
 Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, ricchi di antiossidanti.
 · Tenuta 8 · Lucentezza 5
-· Con olio di vinaccioli antiossidante
 · Senza siliconi, parabeni e SLS
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -70,17 +71,18 @@ Stato: pronto
 File: 01-amarone.jpg, 02-amarone.jpg, 03-amarone.jpg
 
 ```
-Amarone. Gel strong per capelli.
+Capelli che non restano mai al loro posto?
+
+Amarone, gel strong per capelli. Una passata al mattino e la forma regge fino a sera.
 
 Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, ricchi di antiossidanti.
 · Tenuta 8 · Lucentezza 5
-· Con olio di vinaccioli antiossidante
 · Senza siliconi, parabeni e SLS
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -94,12 +96,12 @@ Stato: pronto
 File: reel-lupi.mp4
 
 ```
-I Lupi non dormono mai.
-Ma ogni lupo ha il suo rituale.
+Chi resta sveglio quando Bernalda dorme?
 
-Bernalda, di notte. Il castello, la piazza, il corso. E una porta che resta accesa.
+Il castello, la piazza, il corso. E una porta che resta accesa.
 
 Martedì si apre la famiglia. Resta in ascolto.
+I Lupi non dormono mai. Ma ogni lupo ha il suo rituale.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -115,12 +117,12 @@ File: 01-lupi.jpg, 02-lupi.jpg, 03-lupi.jpg
 ```
 I Lupi non dormono mai. Scorri.
 
-I Lupi non dormono mai.
-Ma ogni lupo ha il suo rituale.
+Chi resta sveglio quando Bernalda dorme?
 
-Bernalda, di notte. Il castello, la piazza, il corso. E una porta che resta accesa.
+Il castello, la piazza, il corso. E una porta che resta accesa.
 
 Martedì si apre la famiglia. Resta in ascolto.
+I Lupi non dormono mai. Ma ogni lupo ha il suo rituale.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -134,13 +136,13 @@ Stato: pronto
 File: reel-abbonamenti.mp4
 
 ```
-Il rituale non è una volta ogni tanto. È un appuntamento con te stesso.
+Quanto vale avere il tuo posto in poltrona sempre pronto?
 
-Con gli abbonamenti Ritual hai il tuo posto in poltrona ogni mese, a un prezzo che premia la costanza. Quattro piani, uno per ogni ritmo: scorri e trova il tuo.
+Con gli abbonamenti Ritual il taglio non è più una cosa da incastrare: è un appuntamento fisso con te stesso, a un prezzo che premia la costanza. Quattro piani, uno per ogni ritmo: scorri e trova il tuo.
 
-I primi iscritti entrano come Soci Fondatori.
+Chi entra ora entra come Socio Fondatore.
 
-Entra nella famiglia: prenota in salone o scrivici in DM.
+Entra nella famiglia: chiedi in salone o scrivici in DM.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -156,13 +158,13 @@ File: 01-copertina.jpg, 02-piano-15.jpg, 03-piano-25.jpg, 04-piano-30.jpg, 05-pi
 ```
 Scorri i quattro piani e scegli il tuo ritmo.
 
-Il rituale non è una volta ogni tanto. È un appuntamento con te stesso.
+Quanto vale avere il tuo posto in poltrona sempre pronto?
 
-Con gli abbonamenti Ritual hai il tuo posto in poltrona ogni mese, a un prezzo che premia la costanza. Quattro piani, uno per ogni ritmo: scorri e trova il tuo.
+Con gli abbonamenti Ritual il taglio non è più una cosa da incastrare: è un appuntamento fisso con te stesso, a un prezzo che premia la costanza. Quattro piani, uno per ogni ritmo: scorri e trova il tuo.
 
-I primi iscritti entrano come Soci Fondatori.
+Chi entra ora entra come Socio Fondatore.
 
-Entra nella famiglia: prenota in salone o scrivici in DM.
+Entra nella famiglia: chiedi in salone o scrivici in DM.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -176,12 +178,13 @@ Stato: pronto
 File: reel-apollineo.mp4
 
 ```
+Ti piace quando ogni linea è al suo posto?
+
+Il Rituale Apollineo è per chi ama la precisione: sfumatura a pelle, barba disegnata al millimetro, lo stesso gesto ogni settimana.
 Ordine. Misura. Controllo.
 
-La disciplina non ti limita: ti definisce.
-Il Rituale Apollineo è per chi ama la linea pulita: sfumatura a pelle, barba disegnata al millimetro, lo stesso gesto ogni settimana.
-
 Sei Apollineo? Scrivi A nei commenti.
+La disciplina non ti limita: ti definisce.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -197,12 +200,13 @@ File: 01-apollineo.jpg, 02-apollineo.jpg, 03-apollineo.jpg, 04-apollineo.jpg
 ```
 Scorri il Rituale Apollineo.
 
+Ti piace quando ogni linea è al suo posto?
+
+Il Rituale Apollineo è per chi ama la precisione: sfumatura a pelle, barba disegnata al millimetro, lo stesso gesto ogni settimana.
 Ordine. Misura. Controllo.
 
-La disciplina non ti limita: ti definisce.
-Il Rituale Apollineo è per chi ama la linea pulita: sfumatura a pelle, barba disegnata al millimetro, lo stesso gesto ogni settimana.
-
 Sei Apollineo? Scrivi A nei commenti.
+La disciplina non ti limita: ti definisce.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -216,11 +220,12 @@ Stato: pronto
 File: reel-salone.mp4
 
 ```
-Fuori, il mondo corre. Qui dentro, il tempo torna tuo.
+Quando è stata l'ultima volta che nessuno ti ha messo fretta?
 
-Una poltrona, nessuna fretta. Ogni strumento al suo posto, ogni gesto con il suo perché. Anche l'attesa fa parte del rito.
+Una poltrona, ogni strumento al suo posto, ogni gesto con il suo perché. Anche l'attesa fa parte del rito.
+La cura di sé non è vanità: è disciplina.
 
-Ritual nasce da un'idea semplice: la cura di sé non è vanità, è disciplina.
+Fuori il mondo corre. Qui dentro il tempo torna tuo.
 Non è un taglio. È un rituale.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
@@ -237,11 +242,12 @@ File: 01-salone.jpg, 03-salone.jpg, 04-salone.jpg, 05-salone.jpg, 06-salone.jpg,
 ```
 Scorri e entra nel salone.
 
-Fuori, il mondo corre. Qui dentro, il tempo torna tuo.
+Quando è stata l'ultima volta che nessuno ti ha messo fretta?
 
-Una poltrona, nessuna fretta. Ogni strumento al suo posto, ogni gesto con il suo perché. Anche l'attesa fa parte del rito.
+Una poltrona, ogni strumento al suo posto, ogni gesto con il suo perché. Anche l'attesa fa parte del rito.
+La cura di sé non è vanità: è disciplina.
 
-Ritual nasce da un'idea semplice: la cura di sé non è vanità, è disciplina.
+Fuori il mondo corre. Qui dentro il tempo torna tuo.
 Non è un taglio. È un rituale.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
@@ -256,11 +262,13 @@ Stato: pronto
 File: post-regalo.jpg
 
 ```
-Il regalo perfetto ha carattere.
+Cosa regali a un uomo che ha già tutto?
 
-Quest'anno regala un rituale: cura uomo made in Italy con estratti naturali, vinaccioli, argan, stella alpina, caffeina. Ti aiutiamo noi a scegliere quello giusto per lui.
+Un momento solo per lui. Cura uomo made in Italy con estratti naturali: vinaccioli, argan, stella alpina, caffeina.
+Dicci com'è lui: barba, capelli, pelle. Il regalo giusto lo scegliamo insieme.
 
 Vieni in salone o scrivici in DM.
+Il regalo perfetto ha carattere. Regala un rituale.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -279,12 +287,13 @@ Stato: pronto
 File: reel-dionisiaco.mp4
 
 ```
+E se questa volta cambiassi tutto?
+
+Il Rituale Dionisiaco è per chi taglia, rompe e ricomincia: texture, mullet, trasformazioni.
 Istinto. Eccesso. Libertà.
 
-Le regole sono per chi non ha stile.
-Il Rituale Dionisiaco è per chi taglia, rompe e ricomincia: texture, mullet, trasformazioni. Nessuno schema, solo carattere.
-
 Sei Dionisiaco? Scrivi D nei commenti.
+Nessuno schema, solo carattere.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -300,12 +309,13 @@ File: 01-dionisiaco.jpg, 02-dionisiaco.jpg, 03-dionisiaco.jpg, 04-dionisiaco.jpg
 ```
 Scorri il Rituale Dionisiaco.
 
+E se questa volta cambiassi tutto?
+
+Il Rituale Dionisiaco è per chi taglia, rompe e ricomincia: texture, mullet, trasformazioni.
 Istinto. Eccesso. Libertà.
 
-Le regole sono per chi non ha stile.
-Il Rituale Dionisiaco è per chi taglia, rompe e ricomincia: texture, mullet, trasformazioni. Nessuno schema, solo carattere.
-
 Sei Dionisiaco? Scrivi D nei commenti.
+Nessuno schema, solo carattere.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -322,17 +332,18 @@ Stato: pronto
 File: reel-chianti.mp4
 
 ```
-Chianti. Pastagel per capelli.
+Gel o pasta? Perché scegliere.
+
+Chianti, pastagel per capelli. La tenuta del gel con la morbidezza della pasta: forma e carattere, tutto il giorno.
 
 Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, nutrono e danno energia.
 · Tenuta 7 · Lucentezza 7
-· Con olio di vinaccioli antiossidante
 · Senza siliconi, paraffina e SLS
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -346,17 +357,18 @@ Stato: pronto
 File: 01-chianti.jpg, 02-chianti.jpg, 03-chianti.jpg
 
 ```
-Chianti. Pastagel per capelli.
+Gel o pasta? Perché scegliere.
+
+Chianti, pastagel per capelli. La tenuta del gel con la morbidezza della pasta: forma e carattere, tutto il giorno.
 
 Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, nutrono e danno energia.
 · Tenuta 7 · Lucentezza 7
-· Con olio di vinaccioli antiossidante
 · Senza siliconi, paraffina e SLS
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -370,17 +382,18 @@ Stato: pronto
 File: reel-gran-paradiso.mp4
 
 ```
-Gran Paradiso. Crema viso post rasatura.
+La pelle tira e brucia dopo la rasatura?
+
+Gran Paradiso, crema viso post rasatura. Idrata e rinfresca subito, anche la pelle più sensibile.
 
 Il cuore della formula: stella alpina e liquirizia. Con ippocastano e ribes nero.
 · Idrata, lenisce e rinfresca
-· Con stella alpina e liquirizia
 · Adatta anche alla pelle sensibile
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -394,17 +407,18 @@ Stato: pronto
 File: 01-gran-paradiso.jpg, 02-gran-paradiso.jpg, 03-gran-paradiso.jpg
 
 ```
-Gran Paradiso. Crema viso post rasatura.
+La pelle tira e brucia dopo la rasatura?
+
+Gran Paradiso, crema viso post rasatura. Idrata e rinfresca subito, anche la pelle più sensibile.
 
 Il cuore della formula: stella alpina e liquirizia. Con ippocastano e ribes nero.
 · Idrata, lenisce e rinfresca
-· Con stella alpina e liquirizia
 · Adatta anche alla pelle sensibile
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -488,17 +502,18 @@ Stato: pronto
 File: reel-tiziano.mp4
 
 ```
-Tiziano. Olio da barba e pre-rasatura.
+Barba ruvida che punge?
+
+Tiziano, olio da barba e pre-rasatura. Poche gocce e la barba diventa morbida e lucida. Prima della rasatura, ammorbidisce il pelo.
 
 Il cuore della formula: argan, avocado, macadamia. Con vinaccioli, burro di karité e vitamina E.
 · Barba lucida e nutrita
-· Con argan, avocado e macadamia
 · Senza siliconi, parabeni e SLS
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua barba.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -512,17 +527,18 @@ Stato: pronto
 File: 01-tiziano.jpg, 02-tiziano.jpg, 03-tiziano.jpg
 
 ```
-Tiziano. Olio da barba e pre-rasatura.
+Barba ruvida che punge?
+
+Tiziano, olio da barba e pre-rasatura. Poche gocce e la barba diventa morbida e lucida. Prima della rasatura, ammorbidisce il pelo.
 
 Il cuore della formula: argan, avocado, macadamia. Con vinaccioli, burro di karité e vitamina E.
 · Barba lucida e nutrita
-· Con argan, avocado e macadamia
 · Senza siliconi, parabeni e SLS
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua barba.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -536,9 +552,11 @@ Stato: pronto
 File: post-regalo.jpg
 
 ```
-Ultimi giorni per regalare un rituale.
+Hai ancora un uomo nella lista dei regali?
 
-Hai ancora un uomo nella lista? Passa in salone: ti prepariamo il regalo giusto, con prodotti made in Italy e un consiglio su misura.
+Passa in salone: in pochi minuti ti prepariamo il regalo giusto, con prodotti made in Italy e un consiglio su misura.
+
+Il 24 arriva per tutti. Il rituale giusto, solo per chi passa prima.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -557,17 +575,19 @@ Stato: pronto
 File: reel-caronte.mp4
 
 ```
-Caronte. Lozione stimolante contro l'alopecia.
+Ti accorgi che i capelli si stanno diradando?
+
+Caronte, lozione stimolante contro l'alopecia. Prima te ne occupi, più capelli tieni.
 
 Il cuore della formula: caffeina e menta piperita. Con acido ialuronico e pantenolo.
 · Azione stimolante, effetto a tutto volume
-· Con caffeina e menta piperita
-· Con acido ialuronico e pantenolo
+
+Non fa miracoli in una settimana: chiede costanza, ogni giorno.
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -581,17 +601,19 @@ Stato: pronto
 File: 01-caronte.jpg, 02-caronte.jpg, 03-caronte.jpg
 
 ```
-Caronte. Lozione stimolante contro l'alopecia.
+Ti accorgi che i capelli si stanno diradando?
+
+Caronte, lozione stimolante contro l'alopecia. Prima te ne occupi, più capelli tieni.
 
 Il cuore della formula: caffeina e menta piperita. Con acido ialuronico e pantenolo.
 · Azione stimolante, effetto a tutto volume
-· Con caffeina e menta piperita
-· Con acido ialuronico e pantenolo
+
+Non fa miracoli in una settimana: chiede costanza, ogni giorno.
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -605,17 +627,18 @@ Stato: pronto
 File: reel-monte-bianco.mp4
 
 ```
-Monte Bianco. Mousse da rasatura.
+Rasatura uguale irritazione?
+
+Monte Bianco, mousse da rasatura. Una schiuma densa che fa scorrere la lama sulla pelle, non contro.
 
 Il cuore della formula: stella alpina. Con liquirizia, ippocastano e ribes nero.
 · Rasatura morbida, senza gas
-· Con stella alpina e ribes nero
 · Senza siliconi, paraffina e SLS
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua barba.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -629,17 +652,18 @@ Stato: pronto
 File: 01-monte-bianco.jpg, 02-monte-bianco.jpg, 03-monte-bianco.jpg
 
 ```
-Monte Bianco. Mousse da rasatura.
+Rasatura uguale irritazione?
+
+Monte Bianco, mousse da rasatura. Una schiuma densa che fa scorrere la lama sulla pelle, non contro.
 
 Il cuore della formula: stella alpina. Con liquirizia, ippocastano e ribes nero.
 · Rasatura morbida, senza gas
-· Con stella alpina e ribes nero
 · Senza siliconi, paraffina e SLS
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua barba.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -653,9 +677,10 @@ Stato: pronto
 File: reel-neon.mp4
 
 ```
-Il nostro segno, acceso.
+Qual è il colore del tuo rituale?
 
-Rosso, oro, ghiaccio, viola, bianco: qual è il colore del tuo rituale? Scrivilo nei commenti.
+Rosso, ghiaccio, viola, bianco: scrivilo nei commenti.
+Il nostro segno, acceso.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -671,9 +696,10 @@ File: 01-rosso.jpg, 02-oro.jpg, 03-ghiaccio.jpg, 04-viola.jpg, 05-bianco.jpg
 ```
 Scorri i cinque colori.
 
-Il nostro segno, acceso.
+Qual è il colore del tuo rituale?
 
-Rosso, oro, ghiaccio, viola, bianco: qual è il colore del tuo rituale? Scrivilo nei commenti.
+Rosso, ghiaccio, viola, bianco: scrivilo nei commenti.
+Il nostro segno, acceso.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -687,12 +713,13 @@ Stato: pronto — Jolly: se mancano le riprese, può prendere il posto del 5 o d
 File: reel-famiglia.mp4
 
 ```
+E se il barbiere sapesse già come porti la barba?
+
+Stessa poltrona, stesse mani, ogni settimana. I tuoi attrezzi sono pronti prima che tu entri, e il tuo posto è sempre libero.
+Con gli abbonamenti Ritual non rincorri il tempo: è lui ad aspettarti.
+
+Chiedi in salone o scrivici in DM.
 Non sei un cliente. Sei uno di noi.
-
-Stessa poltrona, stesse mani, ogni settimana. Sappiamo già come porti la barba: i tuoi attrezzi sono pronti prima che tu entri.
-Qui dentro il tempo si capovolge: non sei tu a rincorrerlo, è lui ad aspettarti. Con gli abbonamenti Ritual il tuo posto è sempre pronto.
-
-Entra nella famiglia: chiedi in salone o scrivici in DM.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -708,12 +735,13 @@ File: 01-famiglia.jpg, 02-famiglia.jpg, 03-famiglia.jpg, 04-famiglia.jpg, 05-fam
 ```
 Scorri: questa è la famiglia Ritual.
 
+E se il barbiere sapesse già come porti la barba?
+
+Stessa poltrona, stesse mani, ogni settimana. I tuoi attrezzi sono pronti prima che tu entri, e il tuo posto è sempre libero.
+Con gli abbonamenti Ritual non rincorri il tempo: è lui ad aspettarti.
+
+Chiedi in salone o scrivici in DM.
 Non sei un cliente. Sei uno di noi.
-
-Stessa poltrona, stesse mani, ogni settimana. Sappiamo già come porti la barba: i tuoi attrezzi sono pronti prima che tu entri.
-Qui dentro il tempo si capovolge: non sei tu a rincorrerlo, è lui ad aspettarti. Con gli abbonamenti Ritual il tuo posto è sempre pronto.
-
-Entra nella famiglia: chiedi in salone o scrivici in DM.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -727,17 +755,18 @@ Stato: pronto
 File: reel-nebbiolo.mp4
 
 ```
-Nebbiolo. Pasta opaca per capelli.
+Il ciuffo crolla dopo un'ora?
+
+Nebbiolo, pasta opaca per capelli. Struttura forte ed effetto opaco, senza seccare il capello.
 
 Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, ricchi di sali minerali.
 · Tenuta 8 · Lucentezza 1
 · Effetto opaco, texture cremosa
-· Con olio di vinaccioli antiossidante
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -751,17 +780,18 @@ Stato: pronto
 File: 01-nebbiolo.jpg, 02-nebbiolo.jpg, 03-nebbiolo.jpg
 
 ```
-Nebbiolo. Pasta opaca per capelli.
+Il ciuffo crolla dopo un'ora?
+
+Nebbiolo, pasta opaca per capelli. Struttura forte ed effetto opaco, senza seccare il capello.
 
 Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, ricchi di sali minerali.
 · Tenuta 8 · Lucentezza 1
 · Effetto opaco, texture cremosa
-· Con olio di vinaccioli antiossidante
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -775,17 +805,17 @@ Stato: pronto
 File: reel-virgilio.mp4
 
 ```
-Virgilio. Tonico viso tripla azione.
+Cosa fai subito dopo la rasatura?
+
+Virgilio, tonico viso tripla azione. Lenisce, rinfresca e idrata: tre azioni in uno spruzzo.
 
 Il cuore della formula: camomilla e mentolo. Con bisabololo e acido ialuronico.
 · Lenisce e rinfresca dopo la rasatura
-· Con camomilla e mentolo
-· Con bisabololo e acido ialuronico
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -799,17 +829,17 @@ Stato: pronto
 File: 01-virgilio.jpg, 02-virgilio.jpg, 03-virgilio.jpg
 
 ```
-Virgilio. Tonico viso tripla azione.
+Cosa fai subito dopo la rasatura?
+
+Virgilio, tonico viso tripla azione. Lenisce, rinfresca e idrata: tre azioni in uno spruzzo.
 
 Il cuore della formula: camomilla e mentolo. Con bisabololo e acido ialuronico.
 · Lenisce e rinfresca dopo la rasatura
-· Con camomilla e mentolo
-· Con bisabololo e acido ialuronico
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -823,13 +853,12 @@ Stato: pronto — Jolly: se mancano le riprese, può prendere il posto del 5 o d
 File: reel-equilibrio.mp4
 
 ```
-Notifiche. Traffico. Rumore.
+Quando è stata l'ultima volta che nessuno ti ha cercato per mezz'ora?
 
 Qui il telefono resta a faccia in giù. Panno caldo e vapore, fango sul viso, una mossa alla volta.
-Mezz'ora in cui nessuno ti cerca e tu ritrovi il tuo ritmo.
+Mezz'ora per te, e il tuo ritmo torna.
 
 Stacca dal rumore. Ritrova l'equilibrio.
-Prenota il tuo momento in DM.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -845,13 +874,12 @@ File: 01-equilibrio.jpg, 02-equilibrio.jpg, 03-equilibrio.jpg, 04-equilibrio.jpg
 ```
 Scorri e stacca dal rumore.
 
-Notifiche. Traffico. Rumore.
+Quando è stata l'ultima volta che nessuno ti ha cercato per mezz'ora?
 
 Qui il telefono resta a faccia in giù. Panno caldo e vapore, fango sul viso, una mossa alla volta.
-Mezz'ora in cui nessuno ti cerca e tu ritrovi il tuo ritmo.
+Mezz'ora per te, e il tuo ritmo torna.
 
 Stacca dal rumore. Ritrova l'equilibrio.
-Prenota il tuo momento in DM.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -865,17 +893,18 @@ Stato: pronto
 File: reel-primitivo.mp4
 
 ```
-Primitivo. Gel disciplinante.
+Ricci ribelli o capelli che vanno dove vogliono loro?
+
+Primitivo, gel disciplinante. Fissaggio leggero: ordine naturale, senza effetto bagnato.
 
 Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, proteggono e illuminano.
 · Tenuta 5 · Lucentezza 5
 · Ideale per capelli ricci, anti-crespo
-· Con olio di vinaccioli antiossidante
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -889,17 +918,18 @@ Stato: pronto
 File: 01-primitivo.jpg, 02-primitivo.jpg, 03-primitivo.jpg
 
 ```
-Primitivo. Gel disciplinante.
+Ricci ribelli o capelli che vanno dove vogliono loro?
+
+Primitivo, gel disciplinante. Fissaggio leggero: ordine naturale, senza effetto bagnato.
 
 Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, proteggono e illuminano.
 · Tenuta 5 · Lucentezza 5
 · Ideale per capelli ricci, anti-crespo
-· Con olio di vinaccioli antiossidante
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -913,17 +943,20 @@ Stato: pronto
 File: reel-nero-d-avola.mp4
 
 ```
-Nero d'Avola. Gel nero per capelli.
+Qualche capello grigio di troppo?
+
+Nero d'Avola, gel nero per capelli. Mentre ti pettini, un riflesso naturale che li rende meno evidenti. Senza tinta.
 
 Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, morbidezza e lucentezza.
 · Riflesso naturale sui capelli bianchi
 · Tenuta 3 · Lucentezza 5
-· Con olio di vinaccioli antiossidante
+
+Non è una tinta: non copre del tutto, attenua.
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -937,17 +970,20 @@ Stato: pronto
 File: 01-nero-d-avola.jpg, 02-nero-d-avola.jpg, 03-nero-d-avola.jpg
 
 ```
-Nero d'Avola. Gel nero per capelli.
+Qualche capello grigio di troppo?
+
+Nero d'Avola, gel nero per capelli. Mentre ti pettini, un riflesso naturale che li rende meno evidenti. Senza tinta.
 
 Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, morbidezza e lucentezza.
 · Riflesso naturale sui capelli bianchi
 · Tenuta 3 · Lucentezza 5
-· Con olio di vinaccioli antiossidante
+
+Non è una tinta: non copre del tutto, attenua.
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -961,17 +997,18 @@ Stato: pronto
 File: reel-soave.mp4
 
 ```
-Soave. Spray idratante per capelli.
+Capelli secchi e pettine che si incastra?
+
+Soave, spray idratante per capelli. Districa, ammorbidisce e lascia un profumo di incenso.
 
 Il cuore della formula: incenso e ylang ylang. Con olio di vinaccioli, incenso, patchouli e ylang ylang.
 · Rinfresca e pulisce il cuoio capelluto
-· Con incenso, patchouli e ylang ylang
 · Senza siliconi, paraffina e SLS
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -985,17 +1022,18 @@ Stato: pronto
 File: 01-soave.jpg, 02-soave.jpg, 03-soave.jpg
 
 ```
-Soave. Spray idratante per capelli.
+Capelli secchi e pettine che si incastra?
+
+Soave, spray idratante per capelli. Districa, ammorbidisce e lascia un profumo di incenso.
 
 Il cuore della formula: incenso e ylang ylang. Con olio di vinaccioli, incenso, patchouli e ylang ylang.
 · Rinfresca e pulisce il cuoio capelluto
-· Con incenso, patchouli e ylang ylang
 · Senza siliconi, paraffina e SLS
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1009,17 +1047,18 @@ Stato: pronto
 File: reel-bonarda.mp4
 
 ```
-Bonarda. Acqua fissativa opacizzante.
+Vuoi ordine senza l'effetto gel?
+
+Bonarda, acqua fissativa opacizzante. Si spruzza, si modella e resta flessibile: capelli in ordine, aspetto naturale.
 
 Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, volume senza peso.
 · Tenuta 7 · Lucentezza 0
 · Effetto opaco tipo acqua di mare
-· Con olio di vinaccioli antiossidante
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1033,17 +1072,18 @@ Stato: pronto
 File: 01-bonarda.jpg, 02-bonarda.jpg, 03-bonarda.jpg
 
 ```
-Bonarda. Acqua fissativa opacizzante.
+Vuoi ordine senza l'effetto gel?
+
+Bonarda, acqua fissativa opacizzante. Si spruzza, si modella e resta flessibile: capelli in ordine, aspetto naturale.
 
 Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, volume senza peso.
 · Tenuta 7 · Lucentezza 0
 · Effetto opaco tipo acqua di mare
-· Con olio di vinaccioli antiossidante
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1057,17 +1097,18 @@ Stato: pronto
 File: reel-le-madonie.mp4
 
 ```
-Le Madonie. Siero viso idratante tonificante.
+Viso spento a fine giornata?
+
+Le Madonie, siero viso idratante tonificante. Poche gocce di siero e la pelle torna tonica e idratata.
 
 Il cuore della formula: manna delle madonie. La linfa del frassino di Sicilia, idratazione profonda.
 · Idratazione profonda
 · Pelle tonica e compatta
-· Con manna delle Madonie di Sicilia
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1081,17 +1122,18 @@ Stato: pronto
 File: 01-le-madonie.jpg, 02-le-madonie.jpg, 03-le-madonie.jpg
 
 ```
-Le Madonie. Siero viso idratante tonificante.
+Viso spento a fine giornata?
+
+Le Madonie, siero viso idratante tonificante. Poche gocce di siero e la pelle torna tonica e idratata.
 
 Il cuore della formula: manna delle madonie. La linfa del frassino di Sicilia, idratazione profonda.
 · Idratazione profonda
 · Pelle tonica e compatta
-· Con manna delle Madonie di Sicilia
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1105,17 +1147,18 @@ Stato: pronto
 File: reel-barbera.mp4
 
 ```
-Barbera. Cera definente per capelli.
+Ciocche piatte e senza carattere?
+
+Barbera, cera definente per capelli. Definisce ogni ciocca e tiene la forma tutto il giorno.
 
 Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, definizione senza seccare.
 · Definisce l'acconciatura
 · Mantiene la forma tutto il giorno
-· Con olio di vinaccioli antiossidante
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1129,17 +1172,18 @@ Stato: pronto
 File: 01-barbera.jpg, 02-barbera.jpg, 03-barbera.jpg
 
 ```
-Barbera. Cera definente per capelli.
+Ciocche piatte e senza carattere?
+
+Barbera, cera definente per capelli. Definisce ogni ciocca e tiene la forma tutto il giorno.
 
 Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, definizione senza seccare.
 · Definisce l'acconciatura
 · Mantiene la forma tutto il giorno
-· Con olio di vinaccioli antiossidante
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1153,17 +1197,18 @@ Stato: pronto
 File: reel-ercole.mp4
 
 ```
-Ercole. Doccia shampoo tonificante anti-age.
+Mattine sempre di corsa?
+
+Ercole, doccia shampoo tonificante anti-age. Corpo e capelli in un solo gesto, con l'energia di arancia e ginepro.
 
 Il cuore della formula: arancia e ginepro. Con dattero e aloe vera per la morbidezza.
 · Corpo e capelli in un gesto
 · Energia e vitalità
-· Con arancia, ginepro, dattero e aloe
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1177,17 +1222,18 @@ Stato: pronto
 File: 01-ercole.jpg, 02-ercole.jpg, 03-ercole.jpg
 
 ```
-Ercole. Doccia shampoo tonificante anti-age.
+Mattine sempre di corsa?
+
+Ercole, doccia shampoo tonificante anti-age. Corpo e capelli in un solo gesto, con l'energia di arancia e ginepro.
 
 Il cuore della formula: arancia e ginepro. Con dattero e aloe vera per la morbidezza.
 · Corpo e capelli in un gesto
 · Energia e vitalità
-· Con arancia, ginepro, dattero e aloe
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1201,17 +1247,18 @@ Stato: pronto
 File: reel-monte-cimone.mp4
 
 ```
-Monte Cimone. Filler rimpolpante contorno occhi.
+Occhiaie da notti troppo corte?
+
+Monte Cimone, filler rimpolpante contorno occhi. Uno sguardo più disteso, in un gesto la mattina.
 
 Il cuore della formula: aceto balsamico di modena. Invecchiato, per uno sguardo disteso.
 · Rimpolpa il contorno occhi
 · Contro occhiaie e borse
-· Con aceto balsamico di Modena invecchiato
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1225,17 +1272,18 @@ Stato: pronto
 File: 01-monte-cimone.jpg, 02-monte-cimone.jpg, 03-monte-cimone.jpg
 
 ```
-Monte Cimone. Filler rimpolpante contorno occhi.
+Occhiaie da notti troppo corte?
+
+Monte Cimone, filler rimpolpante contorno occhi. Uno sguardo più disteso, in un gesto la mattina.
 
 Il cuore della formula: aceto balsamico di modena. Invecchiato, per uno sguardo disteso.
 · Rimpolpa il contorno occhi
 · Contro occhiaie e borse
-· Con aceto balsamico di Modena invecchiato
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1249,7 +1297,9 @@ Stato: pronto
 File: reel-passerina.mp4
 
 ```
-Passerina. Polvere texturizzante volumizzante.
+Capelli fini e senza volume?
+
+Passerina, polvere texturizzante volumizzante. Un pizzico alla radice e il volume arriva subito, opaco e naturale.
 
 L'effetto: volume alla radice. Texture immediata, effetto naturale.
 · Volume immediato
@@ -1257,9 +1307,9 @@ L'effetto: volume alla radice. Texture immediata, effetto naturale.
 · Effetto naturale
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1273,7 +1323,9 @@ Stato: pronto
 File: 01-passerina.jpg, 02-passerina.jpg, 03-passerina.jpg
 
 ```
-Passerina. Polvere texturizzante volumizzante.
+Capelli fini e senza volume?
+
+Passerina, polvere texturizzante volumizzante. Un pizzico alla radice e il volume arriva subito, opaco e naturale.
 
 L'effetto: volume alla radice. Texture immediata, effetto naturale.
 · Volume immediato
@@ -1281,9 +1333,9 @@ L'effetto: volume alla radice. Texture immediata, effetto naturale.
 · Effetto naturale
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1297,17 +1349,20 @@ Stato: pronto
 File: reel-scala.mp4
 
 ```
-Scala. Shampoo coadiuvante anticaduta.
+Più capelli sul cuscino del solito?
+
+Scala, shampoo coadiuvante anticaduta. Rinvigorisce e dà volume, lavaggio dopo lavaggio.
 
 Il cuore della formula: bergamotto e ginepro. Con menta ed eucalipto: rinvigorisce e dona volume.
 · Coadiuvante contro la caduta
 · Rinvigorisce e dona volume
-· Con bergamotto, ginepro, menta ed eucalipto
+
+È un coadiuvante: dà risultati con la costanza, non in un giorno.
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1321,17 +1376,20 @@ Stato: pronto
 File: 01-scala.jpg, 02-scala.jpg, 03-scala.jpg
 
 ```
-Scala. Shampoo coadiuvante anticaduta.
+Più capelli sul cuscino del solito?
+
+Scala, shampoo coadiuvante anticaduta. Rinvigorisce e dà volume, lavaggio dopo lavaggio.
 
 Il cuore della formula: bergamotto e ginepro. Con menta ed eucalipto: rinvigorisce e dona volume.
 · Coadiuvante contro la caduta
 · Rinvigorisce e dona volume
-· Con bergamotto, ginepro, menta ed eucalipto
+
+È un coadiuvante: dà risultati con la costanza, non in un giorno.
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1345,17 +1403,18 @@ Stato: pronto
 File: reel-donatello.mp4
 
 ```
-Donatello. Crema peeling viso.
+Pelle ruvida e opaca?
+
+Donatello, crema peeling viso. Toglie lo strato spento e lascia il viso liscio e luminoso.
 
 Il cuore della formula: lavanda e melissa. Con estratti di mirtillo e liquirizia.
 · Esfolia delicatamente
 · Pelle liscia, pulita e luminosa
-· Con lavanda, melissa, mirtillo e liquirizia
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1369,17 +1428,18 @@ Stato: pronto
 File: 01-donatello.jpg, 02-donatello.jpg, 03-donatello.jpg
 
 ```
-Donatello. Crema peeling viso.
+Pelle ruvida e opaca?
+
+Donatello, crema peeling viso. Toglie lo strato spento e lascia il viso liscio e luminoso.
 
 Il cuore della formula: lavanda e melissa. Con estratti di mirtillo e liquirizia.
 · Esfolia delicatamente
 · Pelle liscia, pulita e luminosa
-· Con lavanda, melissa, mirtillo e liquirizia
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1393,17 +1453,20 @@ Stato: pronto
 File: reel-farnese.mp4
 
 ```
-Farnese. Lozione coadiuvante anticaduta.
+Capelli che si diradano?
+
+Farnese, lozione coadiuvante anticaduta. Una lozione stimolante da usare ogni giorno, per dare forza alla chioma.
 
 Il cuore della formula: caffeina e citrullina. Con vitamina PP: azione stimolante ed energizzante.
 · Coadiuvante contro la caduta
 · Azione stimolante ed energizzante
-· Con caffeina, citrullina e vitamina PP
+
+È un coadiuvante, non una cura miracolosa: chiede costanza.
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1417,17 +1480,20 @@ Stato: pronto
 File: 01-farnese.jpg, 02-farnese.jpg, 03-farnese.jpg
 
 ```
-Farnese. Lozione coadiuvante anticaduta.
+Capelli che si diradano?
+
+Farnese, lozione coadiuvante anticaduta. Una lozione stimolante da usare ogni giorno, per dare forza alla chioma.
 
 Il cuore della formula: caffeina e citrullina. Con vitamina PP: azione stimolante ed energizzante.
 · Coadiuvante contro la caduta
 · Azione stimolante ed energizzante
-· Con caffeina, citrullina e vitamina PP
+
+È un coadiuvante, non una cura miracolosa: chiede costanza.
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1441,17 +1507,18 @@ Stato: pronto
 File: reel-nettuno.mp4
 
 ```
-Nettuno. Doccia shampoo idratante e rinfrescante.
+La pelle tira dopo la doccia?
+
+Nettuno, doccia shampoo idratante e rinfrescante. Corpo e capelli insieme, idratati con argan e aloe.
 
 Il cuore della formula: argan e aloe bio. Con dattero: idrata e ammorbidisce pelle e capelli.
 · Corpo e capelli in un gesto
 · Idrata e rinfresca
-· Con olio di argan, aloe bio e dattero
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1465,17 +1532,18 @@ Stato: pronto
 File: 01-nettuno.jpg, 02-nettuno.jpg, 03-nettuno.jpg
 
 ```
-Nettuno. Doccia shampoo idratante e rinfrescante.
+La pelle tira dopo la doccia?
+
+Nettuno, doccia shampoo idratante e rinfrescante. Corpo e capelli insieme, idratati con argan e aloe.
 
 Il cuore della formula: argan e aloe bio. Con dattero: idrata e ammorbidisce pelle e capelli.
 · Corpo e capelli in un gesto
 · Idrata e rinfresca
-· Con olio di argan, aloe bio e dattero
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1489,17 +1557,18 @@ Stato: pronto
 File: reel-ovidio.mp4
 
 ```
-Ovidio. Tonico viso astringente purificante.
+Pelle lucida già a metà giornata?
+
+Ovidio, tonico viso astringente purificante. Purifica e riequilibra, con l'energia dello zenzero.
 
 Il cuore della formula: uva, zenzero e boswellia. Tonico balsamico energizzante: purifica e riequilibra.
 · Azione astringente e purificante
 · Riequilibra la pelle
-· Con uva, zenzero e boswellia
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1513,17 +1582,18 @@ Stato: pronto
 File: 01-ovidio.jpg, 02-ovidio.jpg, 03-ovidio.jpg
 
 ```
-Ovidio. Tonico viso astringente purificante.
+Pelle lucida già a metà giornata?
+
+Ovidio, tonico viso astringente purificante. Purifica e riequilibra, con l'energia dello zenzero.
 
 Il cuore della formula: uva, zenzero e boswellia. Tonico balsamico energizzante: purifica e riequilibra.
 · Azione astringente e purificante
 · Riequilibra la pelle
-· Con uva, zenzero e boswellia
 
 Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1537,17 +1607,18 @@ Stato: pronto
 File: reel-felice.mp4
 
 ```
-Felice. Fango detossinante viso granulare.
+Pori chiusi e pelle opaca?
+
+Felice, fango detossinante viso granulare. Il fango che pulisce in profondità, come in salone, a casa tua.
 
 Il cuore della formula: uva, limone e mela. Bucce d'uva bio, limoni di Sicilia, mele del Trentino e crusca di grano.
 · Detossina e purifica in profondità
 · Libera la pelle dalle impurità
-· Con bucce d'uva, limone, mela e crusca
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+Guarda fino alla fine.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
@@ -1561,17 +1632,18 @@ Stato: pronto
 File: 01-felice.jpg, 02-felice.jpg, 03-felice.jpg
 
 ```
-Felice. Fango detossinante viso granulare.
+Pori chiusi e pelle opaca?
+
+Felice, fango detossinante viso granulare. Il fango che pulisce in profondità, come in salone, a casa tua.
 
 Il cuore della formula: uva, limone e mela. Bucce d'uva bio, limoni di Sicilia, mele del Trentino e crusca di grano.
 · Detossina e purifica in profondità
 · Libera la pelle dalle impurità
-· Con bucce d'uva, limone, mela e crusca
 
 Rituale Dionisiaco: per chi lo stile se lo inventa.
-Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+Scorri fino all’ultima slide.
 
-Regala un rituale.
+Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.

@@ -12,7 +12,9 @@
   ],
   "tagline": "Regala un rituale.",
   "ing_prompt": "Extreme macro food photography of dark red Amarone grapes, a few halved to reveal glossy seeds, a thick drop of golden grape seed oil sliding down a grape, dried appassimento grapes behind, deep black background, single red rim light, droplets, luxurious and appetizing, ultra detailed, no text",
-  "ritual": "apollineo"
+  "ritual": "apollineo",
+  "hook": "Capelli che non restano mai al loro posto?",
+  "frame": "Una passata al mattino e la forma regge fino a sera."
  },
  "chianti": {
   "name": "Chianti",
@@ -27,7 +29,9 @@
   ],
   "tagline": "Regala un rituale.",
   "ing_prompt": "Extreme macro food photography of a fresh bunch of dark Sangiovese grapes, one grape bursting with juice in a splash, glossy golden grape seed oil glistening on the skins, deep black background, single red rim light, luxurious and appetizing, ultra detailed, no text",
-  "ritual": "dionisiaco"
+  "ritual": "dionisiaco",
+  "hook": "Gel o pasta? Perché scegliere.",
+  "frame": "La tenuta del gel con la morbidezza della pasta: forma e carattere, tutto il giorno."
  },
  "nebbiolo": {
   "name": "Nebbiolo",
@@ -42,7 +46,9 @@
   ],
   "tagline": "Regala un rituale.",
   "ing_prompt": "Extreme macro food photography of dusty purple Nebbiolo grapes covered in natural bloom, low fog drifting around them, grape seeds scattered on dark slate, a drop of golden grape seed oil, deep black background, single red rim light, moody and appetizing, ultra detailed, no text",
-  "ritual": "dionisiaco"
+  "ritual": "dionisiaco",
+  "hook": "Il ciuffo crolla dopo un'ora?",
+  "frame": "Struttura forte ed effetto opaco, senza seccare il capello."
  },
  "primitivo": {
   "name": "Primitivo",
@@ -57,7 +63,9 @@
   ],
   "tagline": "Regala un rituale.",
   "ing_prompt": "Extreme macro food photography of crushed ripe Primitivo grapes with dark juice splashing in slow motion, glossy seeds flying, golden grape seed oil droplets, deep black background, single red rim light, juicy and appetizing, ultra detailed, no text",
-  "ritual": "apollineo"
+  "ritual": "apollineo",
+  "hook": "Ricci ribelli o capelli che vanno dove vogliono loro?",
+  "frame": "Fissaggio leggero: ordine naturale, senza effetto bagnato."
  },
  "nero-d-avola": {
   "name": "Nero d'Avola",
@@ -72,7 +80,10 @@
   ],
   "tagline": "Regala un rituale.",
   "ing_prompt": "Extreme macro food photography of almost black Nero d'Avola grapes, glossy and wet, a stream of golden grape seed oil pouring over them, Sicilian volcanic black stone, deep black background, single red rim light, luxurious and appetizing, ultra detailed, no text",
-  "ritual": "dionisiaco"
+  "ritual": "dionisiaco",
+  "hook": "Qualche capello grigio di troppo?",
+  "frame": "Mentre ti pettini, un riflesso naturale che li rende meno evidenti. Senza tinta.",
+  "onesto": "Non è una tinta: non copre del tutto, attenua."
  },
  "bonarda": {
   "name": "Bonarda",
@@ -87,7 +98,9 @@
   ],
   "tagline": "Regala un rituale.",
   "ing_prompt": "Extreme macro food photography of grape seeds cascading through the air above a small pile of dark red grapes, fine mist spray catching the light, a drop of golden grape seed oil, deep black background, single red rim light, airy and appetizing, ultra detailed, no text",
-  "ritual": "dionisiaco"
+  "ritual": "dionisiaco",
+  "hook": "Vuoi ordine senza l'effetto gel?",
+  "frame": "Si spruzza, si modella e resta flessibile: capelli in ordine, aspetto naturale."
  },
  "soave": {
   "name": "Soave",
@@ -102,7 +115,9 @@
   ],
   "tagline": "Regala un rituale.",
   "ing_prompt": "Extreme macro still life of golden frankincense resin tears, fresh yellow ylang ylang flowers and pale green Soave white grapes with dew drops, a thin curl of incense smoke, deep black background, single red rim light, luxurious and sensorial, ultra detailed, no text",
-  "ritual": "apollineo"
+  "ritual": "apollineo",
+  "hook": "Capelli secchi e pettine che si incastra?",
+  "frame": "Districa, ammorbidisce e lascia un profumo di incenso."
  },
  "tiziano": {
   "name": "Tiziano",
@@ -117,7 +132,9 @@
   ],
   "tagline": "Regala un rituale.",
   "ing_prompt": "Extreme macro food photography of a halved ripe avocado, cracked macadamia nuts and argan nuts, a thick ribbon of golden oil pouring and splashing in slow motion, deep black background, single red rim light, rich and appetizing, ultra detailed, no text",
-  "ritual": "dionisiaco"
+  "ritual": "dionisiaco",
+  "hook": "Barba ruvida che punge?",
+  "frame": "Poche gocce e la barba diventa morbida e lucida. Prima della rasatura, ammorbidisce il pelo."
  },
  "caronte": {
   "name": "Caronte",
@@ -132,7 +149,10 @@
   ],
   "tagline": "Regala un rituale.",
   "ing_prompt": "Extreme macro food photography of dark roasted coffee beans bursting upward with fresh bright peppermint leaves, icy water droplets, a glossy drop of serum, deep black background, single red rim light, energetic and appetizing, ultra detailed, no text",
-  "ritual": "dionisiaco"
+  "ritual": "dionisiaco",
+  "hook": "Ti accorgi che i capelli si stanno diradando?",
+  "frame": "Prima te ne occupi, più capelli tieni.",
+  "onesto": "Non fa miracoli in una settimana: chiede costanza, ogni giorno."
  },
  "gran-paradiso": {
   "name": "Gran Paradiso",
@@ -147,7 +167,9 @@
   ],
   "tagline": "Regala un rituale.",
   "ing_prompt": "Extreme macro still life of a white edelweiss flower with frost, sticks of licorice root, glossy black currants and a split horse chestnut, a swirl of white cream, deep black background, single red rim light, fresh and luxurious, ultra detailed, no text",
-  "ritual": "apollineo"
+  "ritual": "apollineo",
+  "hook": "La pelle tira e brucia dopo la rasatura?",
+  "frame": "Idrata e rinfresca subito, anche la pelle più sensibile."
  },
  "monte-bianco": {
   "name": "Monte Bianco",
@@ -162,7 +184,9 @@
   ],
   "tagline": "Regala un rituale.",
   "ing_prompt": "Extreme macro still life of a white edelweiss flower on fresh snow and ice crystals, glossy black currants, a cloud of rich white foam, deep black background, single red rim light, cold and luxurious, ultra detailed, no text",
-  "ritual": "apollineo"
+  "ritual": "apollineo",
+  "hook": "Rasatura uguale irritazione?",
+  "frame": "Una schiuma densa che fa scorrere la lama sulla pelle, non contro."
  },
  "virgilio": {
   "name": "Virgilio",
@@ -177,7 +201,9 @@
   ],
   "tagline": "Regala un rituale.",
   "ing_prompt": "Extreme macro still life of fresh chamomile flowers with dew, menthol ice crystals and a fine refreshing mist spray in the air, deep black background, single red rim light, fresh and luxurious, ultra detailed, no text",
-  "ritual": "apollineo"
+  "ritual": "apollineo",
+  "hook": "Cosa fai subito dopo la rasatura?",
+  "frame": "Lenisce, rinfresca e idrata: tre azioni in uno spruzzo."
  },
  "barbera": {
   "name": "Barbera",
@@ -193,7 +219,9 @@
   "ritual": "dionisiaco",
   "ing_prompt": "Extreme macro food photography of a bunch of deep purple Barbera grapes glistening with dew, one grape split open with ruby juice dripping, vine leaves, deep black background, single red rim light, juicy and appetizing, ultra detailed, no text",
   "tagline": "Regala un rituale.",
-  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a lush bunch of dark purple grapes with vine leaves and a few loose grapes. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a lush bunch of dark purple grapes with vine leaves and a few loose grapes. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed.",
+  "hook": "Ciocche piatte e senza carattere?",
+  "frame": "Definisce ogni ciocca e tiene la forma tutto il giorno."
  },
  "le-madonie": {
   "name": "Le Madonie",
@@ -209,7 +237,9 @@
   "ritual": "apollineo",
   "ing_prompt": "Extreme macro food photography of natural Sicilian manna: creamy white crystalline stalactites of ash tree sap, one piece broken to show the sugary crystals, a golden glossy drop of serum sliding down it, ash leaves, deep black background, single red rim light, luxurious and appetizing, ultra detailed, no text",
   "tagline": "Regala un rituale.",
-  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: white crystalline sticks of natural Sicilian ash-tree manna, a sprig of ash leaves and a drop of clear serum. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: white crystalline sticks of natural Sicilian ash-tree manna, a sprig of ash leaves and a drop of clear serum. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed.",
+  "hook": "Viso spento a fine giornata?",
+  "frame": "Poche gocce di siero e la pelle torna tonica e idratata."
  },
  "felice": {
   "name": "Felice",
@@ -225,7 +255,9 @@
   "ritual": "dionisiaco",
   "ing_prompt": "Extreme macro food photography of glossy red grape skins, a juicy halved Sicilian lemon with droplets, a crisp sliced red apple and golden wheat bran flakes, deep black background, single red rim light, fresh and appetizing, ultra detailed, no text",
   "tagline": "Regala un rituale.",
-  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: red grape skins, a halved Sicilian lemon, a sliced red apple and a small heap of wheat bran. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: red grape skins, a halved Sicilian lemon, a sliced red apple and a small heap of wheat bran. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed.",
+  "hook": "Pori chiusi e pelle opaca?",
+  "frame": "Il fango che pulisce in profondità, come in salone, a casa tua."
  },
  "monte-cimone": {
   "name": "Monte Cimone",
@@ -241,7 +273,9 @@
   "ritual": "apollineo",
   "ing_prompt": "Extreme macro food photography of thick aged balsamic vinegar of Modena pouring in a slow glossy syrupy ribbon into a small glass dish, dark amber reflections, a few drops on black slate, deep black background, single red rim light, luxurious and appetizing, ultra detailed, no text",
   "tagline": "Regala un rituale.",
-  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a tiny glass dish of dark glossy aged balsamic vinegar with thick syrupy drops. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a tiny glass dish of dark glossy aged balsamic vinegar with thick syrupy drops. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed.",
+  "hook": "Occhiaie da notti troppo corte?",
+  "frame": "Uno sguardo più disteso, in un gesto la mattina."
  },
  "donatello": {
   "name": "Donatello",
@@ -257,7 +291,9 @@
   "ritual": "apollineo",
   "ing_prompt": "Extreme macro food photography of fresh purple lavender sprigs, bright green lemon balm leaves with dew, plump blueberries and split licorice root sticks, deep black background, single red rim light, fresh and appetizing, ultra detailed, no text",
   "tagline": "Regala un rituale.",
-  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: fresh lavender sprigs, lemon balm leaves, a few blueberries and licorice root sticks. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: fresh lavender sprigs, lemon balm leaves, a few blueberries and licorice root sticks. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed.",
+  "hook": "Pelle ruvida e opaca?",
+  "frame": "Toglie lo strato spento e lascia il viso liscio e luminoso."
  },
  "ovidio": {
   "name": "Ovidio",
@@ -273,7 +309,9 @@
   "ritual": "apollineo",
   "ing_prompt": "Extreme macro food photography of red grapes with droplets, a freshly cut ginger root showing its juicy fibrous core, and golden translucent boswellia resin tears, deep black background, single red rim light, fresh and appetizing, ultra detailed, no text",
   "tagline": "Regala un rituale.",
-  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a small bunch of red grapes, a piece of fresh ginger root and golden boswellia resin tears. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a small bunch of red grapes, a piece of fresh ginger root and golden boswellia resin tears. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed.",
+  "hook": "Pelle lucida già a metà giornata?",
+  "frame": "Purifica e riequilibra, con l'energia dello zenzero."
  },
  "passerina": {
   "name": "Passerina",
@@ -290,7 +328,9 @@
   "ritual": "dionisiaco",
   "ing_prompt": "High-speed macro photography of an explosion of fine white texturizing powder bursting upward in a dramatic cloud, particles suspended in the air, deep black background, single red rim light, dynamic and luxurious, ultra detailed, no text",
   "tagline": "Regala un rituale.",
-  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a soft cloud of fine white texturizing powder drifting in the air. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a soft cloud of fine white texturizing powder drifting in the air. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed.",
+  "hook": "Capelli fini e senza volume?",
+  "frame": "Un pizzico alla radice e il volume arriva subito, opaco e naturale."
  },
  "ercole": {
   "name": "Ercole",
@@ -306,7 +346,9 @@
   "ritual": "dionisiaco",
   "ing_prompt": "Extreme macro food photography of a juicy blood-orange and orange halves with splashing juice droplets, dark blue juniper berries, sticky dates and a cut aloe vera leaf oozing clear gel, deep black background, single red rim light, fresh and appetizing, ultra detailed, no text",
   "tagline": "Regala un rituale.",
-  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a halved juicy orange, juniper berries, dates and a cut aloe vera leaf. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a halved juicy orange, juniper berries, dates and a cut aloe vera leaf. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed.",
+  "hook": "Mattine sempre di corsa?",
+  "frame": "Corpo e capelli in un solo gesto, con l'energia di arancia e ginepro."
  },
  "nettuno": {
   "name": "Nettuno",
@@ -322,7 +364,9 @@
   "ritual": "apollineo",
   "ing_prompt": "Extreme macro food photography of cracked argan nuts with a golden drop of argan oil, a freshly cut aloe vera leaf with glistening clear gel, plump dates, splashing fresh water droplets, deep black background, single red rim light, fresh and appetizing, ultra detailed, no text",
   "tagline": "Regala un rituale.",
-  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: argan nuts, a cut aloe vera leaf, dates and fresh water droplets. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: argan nuts, a cut aloe vera leaf, dates and fresh water droplets. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed.",
+  "hook": "La pelle tira dopo la doccia?",
+  "frame": "Corpo e capelli insieme, idratati con argan e aloe."
  },
  "scala": {
   "name": "Scala",
@@ -338,7 +382,10 @@
   "ritual": "apollineo",
   "ing_prompt": "Extreme macro food photography of a halved fresh green bergamot citrus with juice droplets, dusty blue juniper berries, bright fresh mint leaves and silver eucalyptus leaves with dew, deep black background, single red rim light, fresh and appetizing, ultra detailed, no text",
   "tagline": "Regala un rituale.",
-  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a halved green bergamot fruit, juniper berries, fresh mint leaves and a eucalyptus sprig. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a halved green bergamot fruit, juniper berries, fresh mint leaves and a eucalyptus sprig. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed.",
+  "hook": "Più capelli sul cuscino del solito?",
+  "frame": "Rinvigorisce e dà volume, lavaggio dopo lavaggio.",
+  "onesto": "È un coadiuvante: dà risultati con la costanza, non in un giorno."
  },
  "farnese": {
   "name": "Farnese",
@@ -354,6 +401,9 @@
   "ritual": "dionisiaco",
   "ing_prompt": "Extreme macro food photography of dark glossy roasted coffee beans bursting upward together with juicy red watermelon chunks (natural source of citrulline) and splashing droplets, deep black background, single red rim light, energetic and appetizing, ultra detailed, no text",
   "tagline": "Regala un rituale.",
-  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: dark roasted coffee beans and a fresh slice of red watermelon. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Use the product shown in the reference photo and reproduce it exactly: same container and box shapes, proportions, colours, #BARBA ITALIANA gentleman logo, label layout and printed text; do not add other products and do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: dark roasted coffee beans and a fresh slice of red watermelon. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed.",
+  "hook": "Capelli che si diradano?",
+  "frame": "Una lozione stimolante da usare ogni giorno, per dare forza alla chioma.",
+  "onesto": "È un coadiuvante, non una cura miracolosa: chiede costanza."
  }
 }
