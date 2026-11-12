@@ -62,8 +62,9 @@ def plain(s):
 def didascalia_prodotto(slug, carosello=False):
     p = PROD[slug]; nome, frase, tag = RITO[p["ritual"]]
     apertura = "Scorri: prodotto, ingrediente, rituale." if carosello else "Guarda fino alla fine."
-    return (f"{p['name']}. {p['category']}.\n\n"
-            f"Il cuore della formula: {p['ingredient'].lower()}. {plain(p['ingredient_note'])}.\n"
+    return (f"{p['name']}. {p['category']}.\n\n" +
+            (f"{p['ing_label']}: {p['ingredient'].lower()}. {plain(p['ingredient_note'])}.\n" if p.get("ing_label") else
+             f"Il cuore della formula: {p['ingredient'].lower()}. {plain(p['ingredient_note'])}.\n")
             + "\n".join(f"· {plain(s)}" for s in p["specs"]) + "\n\n"
             f"{nome}: {frase}.\n"
             f"Lo trovi in salone, con il consiglio giusto per usarlo. {apertura}\n\n"
@@ -218,6 +219,12 @@ def main():
     giorni = ["2027-01-12", "2027-01-14", "2027-01-19", "2027-01-21", "2027-01-26", "2027-01-28"]
     for slug, g in zip(gennaio, giorni):
         g = g.replace("2026-01", "2027-01")
+        prodotto(g, slug, g[:8] + f"{int(g[8:]) + 1:02d}")
+    febbraio = ["le-madonie", "barbera", "ercole", "monte-cimone", "passerina", "scala", "donatello", "farnese",
+                "nettuno", "ovidio", "felice"]
+    giorni = ["2027-02-02", "2027-02-04", "2027-02-09", "2027-02-11", "2027-02-16", "2027-02-18", "2027-02-23",
+              "2027-02-25", "2027-03-02", "2027-03-04", "2027-03-09"]
+    for slug, g in zip(febbraio, giorni):
         prodotto(g, slug, g[:8] + f"{int(g[8:]) + 1:02d}")
     # gennaio, sabato e domenica: neon, famiglia, equilibrio (jolly: possono coprire il 5 o il 12 dicembre
     # se le riprese di beard ritual / prima-dopo non arrivano in tempo)

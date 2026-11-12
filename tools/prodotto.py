@@ -94,7 +94,7 @@ def build(slug):
 <div class=name style="font-size:{big_name}px;margin-top:20px">{p['name']}</div></div>""", 1080, 1920, tmp / "ov-title.png")
         render(pg, f"""<div style="position:absolute;inset:0;background:linear-gradient(0deg,rgba(0,0,0,.92) 0%,rgba(0,0,0,.65) 30%,rgba(0,0,0,0) 48%)"></div>
 <div style="position:absolute;bottom:380px;width:100%;text-align:center;padding:0 70px">
-<div class=label style="font-size:30px">Estratto naturale</div>
+<div class=label style="font-size:30px">{p.get("ing_label", "Estratto naturale")}</div>
 <div class=name style="font-size:96px;margin-top:22px">{p['ingredient']}</div>
 <div class=note style="font-size:44px;margin-top:24px">{p['ingredient_note']}</div></div>""", 1080, 1920, tmp / "ov-ing.png")
         render(pg, f"""<div style="position:absolute;inset:0;background:linear-gradient(0deg,rgba(0,0,0,.95) 0%,rgba(0,0,0,.8) 34%,rgba(0,0,0,0) 52%)"></div>
@@ -113,7 +113,7 @@ def build(slug):
         render(pg, f"""<div style="position:absolute;inset:0;background:#000 url({ing45}) center/cover"></div>
 <div style="position:absolute;inset:0;background:linear-gradient(0deg,rgba(0,0,0,.95) 0%,rgba(0,0,0,.75) 42%,rgba(0,0,0,0) 66%)"></div>
 <div style="position:absolute;bottom:64px;width:100%;text-align:center;padding:0 70px">
-<div class=label style="font-size:28px">Estratto naturale</div>
+<div class=label style="font-size:28px">{p.get("ing_label", "Estratto naturale")}</div>
 <div class=name style="font-size:84px;margin:18px 0 8px">{p['ingredient']}</div>
 <div class=note style="font-size:36px;margin-bottom:26px">{p['ingredient_note']}</div>
 <div style="width:120px;height:4px;background:{RED};margin:0 auto 18px"></div>

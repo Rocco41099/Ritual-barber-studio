@@ -1050,3 +1050,531 @@ Prenota in DM.
 
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
 ```
+
+## 2027-02-02 · 18:47 · reel · le-madonie
+Stato: pronto
+
+File: reel-le-madonie.mp4
+
+```
+Le Madonie. Siero viso idratante tonificante.
+
+Il cuore della formula: manna delle madonie. La linfa del frassino di Sicilia, idratazione profonda.
+· Idratazione profonda
+· Pelle tonica e compatta
+· Con manna delle Madonie di Sicilia
+
+Rituale Apollineo: per chi vuole ogni linea al suo posto.
+Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+```
+
+## 2027-02-03 · 12:47 · carosello · le-madonie (3 slide)
+Stato: pronto
+
+File: 01-le-madonie.jpg, 02-le-madonie.jpg, 03-le-madonie.jpg
+
+```
+Le Madonie. Siero viso idratante tonificante.
+
+Il cuore della formula: manna delle madonie. La linfa del frassino di Sicilia, idratazione profonda.
+· Idratazione profonda
+· Pelle tonica e compatta
+· Con manna delle Madonie di Sicilia
+
+Rituale Apollineo: per chi vuole ogni linea al suo posto.
+Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+```
+
+## 2027-02-04 · 18:47 · reel · barbera
+Stato: pronto
+
+File: reel-barbera.mp4
+
+```
+Barbera. Cera definente per capelli.
+
+Ispirazione: uva barbera. Il carattere di un grande rosso italiano.
+· Definisce l'acconciatura
+· Mantiene la forma tutto il giorno
+· Linea Vino Italiano
+
+Rituale Dionisiaco: per chi lo stile se lo inventa.
+Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+```
+
+## 2027-02-05 · 12:47 · carosello · barbera (3 slide)
+Stato: pronto
+
+File: 01-barbera.jpg, 02-barbera.jpg, 03-barbera.jpg
+
+```
+Barbera. Cera definente per capelli.
+
+Ispirazione: uva barbera. Il carattere di un grande rosso italiano.
+· Definisce l'acconciatura
+· Mantiene la forma tutto il giorno
+· Linea Vino Italiano
+
+Rituale Dionisiaco: per chi lo stile se lo inventa.
+Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+```
+
+## 2027-02-09 · 18:47 · reel · ercole
+Stato: pronto
+
+File: reel-ercole.mp4
+
+```
+Ercole. Doccia shampoo tonificante anti-age.
+
+Il cuore della formula: arancia e ginepro. Con dattero e aloe vera per la morbidezza.
+· Corpo e capelli in un gesto
+· Energia e vitalità
+· Con arancia, ginepro, dattero e aloe
+
+Rituale Dionisiaco: per chi lo stile se lo inventa.
+Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #corpo
+```
+
+## 2027-02-10 · 12:47 · carosello · ercole (3 slide)
+Stato: pronto
+
+File: 01-ercole.jpg, 02-ercole.jpg, 03-ercole.jpg
+
+```
+Ercole. Doccia shampoo tonificante anti-age.
+
+Il cuore della formula: arancia e ginepro. Con dattero e aloe vera per la morbidezza.
+· Corpo e capelli in un gesto
+· Energia e vitalità
+· Con arancia, ginepro, dattero e aloe
+
+Rituale Dionisiaco: per chi lo stile se lo inventa.
+Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #corpo
+```
+
+## 2027-02-11 · 18:47 · reel · monte-cimone
+Stato: pronto
+
+File: reel-monte-cimone.mp4
+
+```
+Monte Cimone. Filler rimpolpante contorno occhi.
+
+Il cuore della formula: aceto balsamico di modena. Invecchiato, per uno sguardo disteso.
+· Rimpolpa il contorno occhi
+· Contro occhiaie e borse
+· Con aceto balsamico di Modena invecchiato
+
+Rituale Apollineo: per chi vuole ogni linea al suo posto.
+Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+```
+
+## 2027-02-12 · 12:47 · carosello · monte-cimone (3 slide)
+Stato: pronto
+
+File: 01-monte-cimone.jpg, 02-monte-cimone.jpg, 03-monte-cimone.jpg
+
+```
+Monte Cimone. Filler rimpolpante contorno occhi.
+
+Il cuore della formula: aceto balsamico di modena. Invecchiato, per uno sguardo disteso.
+· Rimpolpa il contorno occhi
+· Contro occhiaie e borse
+· Con aceto balsamico di Modena invecchiato
+
+Rituale Apollineo: per chi vuole ogni linea al suo posto.
+Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+```
+
+## 2027-02-16 · 18:47 · reel · passerina
+Stato: pronto
+
+File: reel-passerina.mp4
+
+```
+Passerina. Polvere texturizzante volumizzante.
+
+L'effetto: volume alla radice. Texture immediata, effetto naturale.
+· Volume immediato
+· Texture alla radice
+· Effetto naturale
+
+Rituale Dionisiaco: per chi lo stile se lo inventa.
+Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+```
+
+## 2027-02-17 · 12:47 · carosello · passerina (3 slide)
+Stato: pronto
+
+File: 01-passerina.jpg, 02-passerina.jpg, 03-passerina.jpg
+
+```
+Passerina. Polvere texturizzante volumizzante.
+
+L'effetto: volume alla radice. Texture immediata, effetto naturale.
+· Volume immediato
+· Texture alla radice
+· Effetto naturale
+
+Rituale Dionisiaco: per chi lo stile se lo inventa.
+Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+```
+
+## 2027-02-18 · 18:47 · reel · scala
+Stato: pronto
+
+File: reel-scala.mp4
+
+```
+Scala. Shampoo coadiuvante anticaduta.
+
+Il cuore della formula: bergamotto e ginepro. Con menta ed eucalipto: rinvigorisce e dona volume.
+· Coadiuvante contro la caduta
+· Rinvigorisce e dona volume
+· Con bergamotto, ginepro, menta ed eucalipto
+
+Rituale Apollineo: per chi vuole ogni linea al suo posto.
+Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #capelli
+```
+
+## 2027-02-19 · 12:47 · carosello · scala (3 slide)
+Stato: pronto
+
+File: 01-scala.jpg, 02-scala.jpg, 03-scala.jpg
+
+```
+Scala. Shampoo coadiuvante anticaduta.
+
+Il cuore della formula: bergamotto e ginepro. Con menta ed eucalipto: rinvigorisce e dona volume.
+· Coadiuvante contro la caduta
+· Rinvigorisce e dona volume
+· Con bergamotto, ginepro, menta ed eucalipto
+
+Rituale Apollineo: per chi vuole ogni linea al suo posto.
+Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #capelli
+```
+
+## 2027-02-23 · 18:47 · reel · donatello
+Stato: pronto
+
+File: reel-donatello.mp4
+
+```
+Donatello. Crema peeling viso.
+
+L'effetto: peeling delicato. Pelle liscia, pulita e luminosa.
+· Esfolia delicatamente
+· Pelle liscia e pulita
+· Viso più luminoso
+
+Rituale Apollineo: per chi vuole ogni linea al suo posto.
+Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+```
+
+## 2027-02-24 · 12:47 · carosello · donatello (3 slide)
+Stato: pronto
+
+File: 01-donatello.jpg, 02-donatello.jpg, 03-donatello.jpg
+
+```
+Donatello. Crema peeling viso.
+
+L'effetto: peeling delicato. Pelle liscia, pulita e luminosa.
+· Esfolia delicatamente
+· Pelle liscia e pulita
+· Viso più luminoso
+
+Rituale Apollineo: per chi vuole ogni linea al suo posto.
+Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+```
+
+## 2027-02-25 · 18:47 · reel · farnese
+Stato: pronto
+
+File: reel-farnese.mp4
+
+```
+Farnese. Lozione coadiuvante anticaduta.
+
+Il cuore della formula: caffeina e citrullina. Con vitamina PP: azione stimolante ed energizzante.
+· Coadiuvante contro la caduta
+· Azione stimolante ed energizzante
+· Con caffeina, citrullina e vitamina PP
+
+Rituale Dionisiaco: per chi lo stile se lo inventa.
+Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+```
+
+## 2027-02-26 · 12:47 · carosello · farnese (3 slide)
+Stato: pronto
+
+File: 01-farnese.jpg, 02-farnese.jpg, 03-farnese.jpg
+
+```
+Farnese. Lozione coadiuvante anticaduta.
+
+Il cuore della formula: caffeina e citrullina. Con vitamina PP: azione stimolante ed energizzante.
+· Coadiuvante contro la caduta
+· Azione stimolante ed energizzante
+· Con caffeina, citrullina e vitamina PP
+
+Rituale Dionisiaco: per chi lo stile se lo inventa.
+Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+```
+
+## 2027-03-02 · 18:47 · reel · nettuno
+Stato: pronto
+
+File: reel-nettuno.mp4
+
+```
+Nettuno. Doccia shampoo idratante e rinfrescante.
+
+Il cuore della formula: argan e aloe bio. Con dattero: idrata e ammorbidisce pelle e capelli.
+· Corpo e capelli in un gesto
+· Idrata e rinfresca
+· Con olio di argan, aloe bio e dattero
+
+Rituale Apollineo: per chi vuole ogni linea al suo posto.
+Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #corpo
+```
+
+## 2027-03-03 · 12:47 · carosello · nettuno (3 slide)
+Stato: pronto
+
+File: 01-nettuno.jpg, 02-nettuno.jpg, 03-nettuno.jpg
+
+```
+Nettuno. Doccia shampoo idratante e rinfrescante.
+
+Il cuore della formula: argan e aloe bio. Con dattero: idrata e ammorbidisce pelle e capelli.
+· Corpo e capelli in un gesto
+· Idrata e rinfresca
+· Con olio di argan, aloe bio e dattero
+
+Rituale Apollineo: per chi vuole ogni linea al suo posto.
+Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #corpo
+```
+
+## 2027-03-04 · 18:47 · reel · ovidio
+Stato: pronto
+
+File: reel-ovidio.mp4
+
+```
+Ovidio. Tonico viso astringente purificante.
+
+La sensazione: balsamico ed energizzante. Purifica e riequilibra la pelle.
+· Azione astringente
+· Purifica e riequilibra
+· Effetto balsamico energizzante
+
+Rituale Apollineo: per chi vuole ogni linea al suo posto.
+Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+```
+
+## 2027-03-05 · 12:47 · carosello · ovidio (3 slide)
+Stato: pronto
+
+File: 01-ovidio.jpg, 02-ovidio.jpg, 03-ovidio.jpg
+
+```
+Ovidio. Tonico viso astringente purificante.
+
+La sensazione: balsamico ed energizzante. Purifica e riequilibra la pelle.
+· Azione astringente
+· Purifica e riequilibra
+· Effetto balsamico energizzante
+
+Rituale Apollineo: per chi vuole ogni linea al suo posto.
+Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+```
+
+## 2027-03-09 · 18:47 · reel · felice
+Stato: pronto
+
+File: reel-felice.mp4
+
+```
+Felice. Fango detossinante viso granulare.
+
+Il trattamento: fango granulare. Purifica in profondità e libera la pelle dalle impurità.
+· Detossina e purifica in profondità
+· Texture granulare esfoliante
+· Pelle libera dalle impurità
+
+Rituale Dionisiaco: per chi lo stile se lo inventa.
+Lo trovi in salone, con il consiglio giusto per usarlo. Guarda fino alla fine.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #viso
+```
+
+## 2027-03-10 · 12:47 · carosello · felice (3 slide)
+Stato: pronto
+
+File: 01-felice.jpg, 02-felice.jpg, 03-felice.jpg
+
+```
+Felice. Fango detossinante viso granulare.
+
+Il trattamento: fango granulare. Purifica in profondità e libera la pelle dalle impurità.
+· Detossina e purifica in profondità
+· Texture granulare esfoliante
+· Pelle libera dalle impurità
+
+Rituale Dionisiaco: per chi lo stile se lo inventa.
+Lo trovi in salone, con il consiglio giusto per usarlo. Scorri: prodotto, ingrediente, rituale.
+
+Regala un rituale.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #viso
+```

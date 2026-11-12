@@ -178,5 +178,186 @@
   "tagline": "Regala un rituale.",
   "ing_prompt": "Extreme macro still life of fresh chamomile flowers with dew, menthol ice crystals and a fine refreshing mist spray in the air, deep black background, single red rim light, fresh and luxurious, ultra detailed, no text",
   "ritual": "apollineo"
+ },
+ "barbera": {
+  "name": "Barbera",
+  "category": "Cera definente per capelli",
+  "line": "capelli",
+  "ing_label": "Ispirazione",
+  "ingredient": "Uva Barbera",
+  "ingredient_note": "Il carattere di un grande<br>rosso italiano",
+  "specs": [
+   "Definisce l'acconciatura",
+   "Mantiene la forma tutto il giorno",
+   "Linea <b>Vino Italiano</b>"
+  ],
+  "ritual": "dionisiaco",
+  "ing_prompt": "Extreme macro food photography of a bunch of deep purple Barbera grapes glistening with dew, one grape split open with ruby juice dripping, vine leaves, deep black background, single red rim light, juicy and appetizing, ultra detailed, no text",
+  "tagline": "Regala un rituale.",
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Reproduce EXACTLY the product shown in the reference photo: a square dark burgundy-brown pinstriped cardboard box with the cream-white #BARBA ITALIANA gentleman logo and a cream label band reading 'Barbera'. Keep identical shape, proportions, colours, pinstripe texture, logo and label typography; keep the printed words as in the reference, do not add other products, do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a lush bunch of dark purple Barbera grapes with vine leaves and a few loose grapes. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+ },
+ "le-madonie": {
+  "name": "Le Madonie",
+  "category": "Siero viso idratante tonificante",
+  "line": "viso",
+  "ingredient": "Manna delle Madonie",
+  "ingredient_note": "La linfa del frassino di Sicilia,<br>idratazione profonda",
+  "specs": [
+   "Idratazione profonda",
+   "Pelle tonica e compatta",
+   "Con <b>manna</b> delle Madonie di Sicilia"
+  ],
+  "ritual": "apollineo",
+  "ing_prompt": "Extreme macro food photography of natural Sicilian manna: creamy white crystalline stalactites of ash tree sap, one piece broken to show the sugary crystals, a golden glossy drop of serum sliding down it, ash leaves, deep black background, single red rim light, luxurious and appetizing, ultra detailed, no text",
+  "tagline": "Regala un rituale.",
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Reproduce EXACTLY the product shown in the reference photo: a tall slim kraft-beige pinstriped cardboard box with the dark brown #BARBA ITALIANA gentleman logo and a dark brown label band reading 'Le Madonie'. Keep identical shape, proportions, colours, pinstripe texture, logo and label typography; keep the printed words as in the reference, do not add other products, do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: white crystalline sticks of natural Sicilian ash-tree manna, a sprig of ash leaves and a drop of clear serum. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+ },
+ "felice": {
+  "name": "Felice",
+  "category": "Fango detossinante viso granulare",
+  "line": "viso",
+  "ing_label": "Il trattamento",
+  "ingredient": "Fango granulare",
+  "ingredient_note": "Purifica in profondità<br>e libera la pelle dalle impurità",
+  "specs": [
+   "Detossina e purifica in profondità",
+   "Texture granulare esfoliante",
+   "Pelle libera dalle impurità"
+  ],
+  "ritual": "dionisiaco",
+  "ing_prompt": "Extreme macro photography of thick dark grey mineral clay mud with fine visible exfoliating granules, a wooden spatula lifting a dense glossy dollop, mud swirls, deep black background, single red rim light, rich and tactile, ultra detailed, no text",
+  "tagline": "Regala un rituale.",
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Reproduce EXACTLY the product shown in the reference photo: a tall slim kraft-beige pinstriped cardboard box with the dark brown #BARBA ITALIANA gentleman logo and a dark brown label band reading 'Felice'. Keep identical shape, proportions, colours, pinstripe texture, logo and label typography; keep the printed words as in the reference, do not add other products, do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a small black stone bowl of dark grey mineral mud with fine granules and a thick swipe of mud on the marble. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+ },
+ "monte-cimone": {
+  "name": "Monte Cimone",
+  "category": "Filler rimpolpante contorno occhi",
+  "line": "viso",
+  "ingredient": "Aceto balsamico di Modena",
+  "ingredient_note": "Invecchiato,<br>per uno sguardo disteso",
+  "specs": [
+   "Rimpolpa il contorno occhi",
+   "Contro occhiaie e borse",
+   "Con <b>aceto balsamico</b> di Modena invecchiato"
+  ],
+  "ritual": "apollineo",
+  "ing_prompt": "Extreme macro food photography of thick aged balsamic vinegar of Modena pouring in a slow glossy syrupy ribbon into a small glass dish, dark amber reflections, a few drops on black slate, deep black background, single red rim light, luxurious and appetizing, ultra detailed, no text",
+  "tagline": "Regala un rituale.",
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Reproduce EXACTLY the product shown in the reference photo: the small amber glass bottle with black cap and pinstriped kraft label reading 'Monte Cimone', standing beside its small open kraft pinstriped box. Keep identical shape, proportions, colours, pinstripe texture, logo and label typography; keep the printed words as in the reference, do not add other products, do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a tiny glass dish of dark glossy aged balsamic vinegar with thick syrupy drops. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+ },
+ "donatello": {
+  "name": "Donatello",
+  "category": "Crema peeling viso",
+  "line": "viso",
+  "ing_label": "L'effetto",
+  "ingredient": "Peeling delicato",
+  "ingredient_note": "Pelle liscia, pulita<br>e luminosa",
+  "specs": [
+   "Esfolia delicatamente",
+   "Pelle liscia e pulita",
+   "Viso più luminoso"
+  ],
+  "ritual": "apollineo",
+  "ing_prompt": "Extreme macro photography of a rich white exfoliating face cream swirl with fine visible micro-granules, a fingertip-sized dollop lifted in a soft peak, creamy texture, deep black background, single red rim light, luxurious and tactile, ultra detailed, no text",
+  "tagline": "Regala un rituale.",
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Reproduce EXACTLY the product shown in the reference photo: a tall kraft-beige pinstriped cardboard box with the dark brown #BARBA ITALIANA gentleman logo and a dark brown label band reading 'Donatello'. Keep identical shape, proportions, colours, pinstripe texture, logo and label typography; keep the printed words as in the reference, do not add other products, do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a swirl of rich white exfoliating cream with fine micro-granules. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+ },
+ "ovidio": {
+  "name": "Ovidio",
+  "category": "Tonico viso astringente purificante",
+  "line": "viso",
+  "ing_label": "La sensazione",
+  "ingredient": "Balsamico ed energizzante",
+  "ingredient_note": "Purifica e riequilibra<br>la pelle",
+  "specs": [
+   "Azione astringente",
+   "Purifica e riequilibra",
+   "Effetto balsamico energizzante"
+  ],
+  "ritual": "apollineo",
+  "ing_prompt": "Extreme macro photography of a crystal-clear facial tonic splash frozen mid-air with sparkling droplets and ice crystals, fresh cold mist, deep black background, single red rim light, refreshing and luxurious, ultra detailed, no text",
+  "tagline": "Regala un rituale.",
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Reproduce EXACTLY the product shown in the reference photo: a tall kraft-beige pinstriped cardboard box with the dark brown #BARBA ITALIANA gentleman logo and a dark brown label band reading 'Ovidio'. Keep identical shape, proportions, colours, pinstripe texture, logo and label typography; keep the printed words as in the reference, do not add other products, do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a splash of crystal-clear tonic water with ice crystals and droplets. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+ },
+ "passerina": {
+  "name": "Passerina",
+  "category": "Polvere texturizzante volumizzante",
+  "line": "capelli",
+  "ing_label": "L'effetto",
+  "ingredient": "Volume alla radice",
+  "ingredient_note": "Texture immediata,<br>effetto naturale",
+  "specs": [
+   "Volume immediato",
+   "Texture alla radice",
+   "Effetto naturale"
+  ],
+  "ritual": "dionisiaco",
+  "ing_prompt": "High-speed macro photography of an explosion of fine white texturizing powder bursting upward in a dramatic cloud, particles suspended in the air, deep black background, single red rim light, dynamic and luxurious, ultra detailed, no text",
+  "tagline": "Regala un rituale.",
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Reproduce EXACTLY the product shown in the reference photo: a small dark brown bottle with a dark brown pinstriped label, cream #BARBA ITALIANA gentleman logo and a cream label band reading 'Passerina'. Keep identical shape, proportions, colours, pinstripe texture, logo and label typography; keep the printed words as in the reference, do not add other products, do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a soft cloud of fine white texturizing powder drifting in the air. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+ },
+ "ercole": {
+  "name": "Ercole",
+  "category": "Doccia shampoo tonificante anti-age",
+  "line": "corpo",
+  "ingredient": "Arancia e ginepro",
+  "ingredient_note": "Con dattero e aloe vera<br>per la morbidezza",
+  "specs": [
+   "Corpo e capelli in un gesto",
+   "Energia e vitalità",
+   "Con <b>arancia</b>, <b>ginepro</b>, dattero e aloe"
+  ],
+  "ritual": "dionisiaco",
+  "ing_prompt": "Extreme macro food photography of a juicy blood-orange and orange halves with splashing juice droplets, dark blue juniper berries, sticky dates and a cut aloe vera leaf oozing clear gel, deep black background, single red rim light, fresh and appetizing, ultra detailed, no text",
+  "tagline": "Regala un rituale.",
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Reproduce EXACTLY the product shown in the reference photo: a large amber plastic bottle with a beige pinstriped label, dark brown #BARBA ITALIANA gentleman logo and a dark brown label band reading 'Ercole'. Keep identical shape, proportions, colours, pinstripe texture, logo and label typography; keep the printed words as in the reference, do not add other products, do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a halved juicy orange, juniper berries, dates and a cut aloe vera leaf. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+ },
+ "nettuno": {
+  "name": "Nettuno",
+  "category": "Doccia shampoo idratante e rinfrescante",
+  "line": "corpo",
+  "ingredient": "Argan e aloe bio",
+  "ingredient_note": "Con dattero: idrata e ammorbidisce<br>pelle e capelli",
+  "specs": [
+   "Corpo e capelli in un gesto",
+   "Idrata e rinfresca",
+   "Con <b>olio di argan</b>, <b>aloe</b> bio e dattero"
+  ],
+  "ritual": "apollineo",
+  "ing_prompt": "Extreme macro food photography of cracked argan nuts with a golden drop of argan oil, a freshly cut aloe vera leaf with glistening clear gel, plump dates, splashing fresh water droplets, deep black background, single red rim light, fresh and appetizing, ultra detailed, no text",
+  "tagline": "Regala un rituale.",
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Reproduce EXACTLY the product shown in the reference photo: a large amber plastic bottle with a beige pinstriped label, dark brown #BARBA ITALIANA gentleman logo and a dark brown label band reading 'Nettuno'. Keep identical shape, proportions, colours, pinstripe texture, logo and label typography; keep the printed words as in the reference, do not add other products, do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: argan nuts, a cut aloe vera leaf, dates and fresh water droplets. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+ },
+ "scala": {
+  "name": "Scala",
+  "category": "Shampoo coadiuvante anticaduta",
+  "line": "capelli",
+  "ingredient": "Bergamotto e ginepro",
+  "ingredient_note": "Con menta ed eucalipto:<br>rinvigorisce e dona volume",
+  "specs": [
+   "Coadiuvante contro la caduta",
+   "Rinvigorisce e dona volume",
+   "Con <b>bergamotto</b>, <b>ginepro</b>, menta ed eucalipto"
+  ],
+  "ritual": "apollineo",
+  "ing_prompt": "Extreme macro food photography of a halved fresh green bergamot citrus with juice droplets, dusty blue juniper berries, bright fresh mint leaves and silver eucalyptus leaves with dew, deep black background, single red rim light, fresh and appetizing, ultra detailed, no text",
+  "tagline": "Regala un rituale.",
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Reproduce EXACTLY the product shown in the reference photo: a tall light beige-grey pinstriped cardboard box with the dark #BARBA ITALIANA gentleman logo and a dark label band reading 'Scala'. Keep identical shape, proportions, colours, pinstripe texture, logo and label typography; keep the printed words as in the reference, do not add other products, do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: a halved green bergamot fruit, juniper berries, fresh mint leaves and a eucalyptus sprig. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
+ },
+ "farnese": {
+  "name": "Farnese",
+  "category": "Lozione coadiuvante anticaduta",
+  "line": "capelli",
+  "ingredient": "Caffeina e citrullina",
+  "ingredient_note": "Con vitamina PP:<br>azione stimolante ed energizzante",
+  "specs": [
+   "Coadiuvante contro la caduta",
+   "Azione stimolante ed energizzante",
+   "Con <b>caffeina</b>, <b>citrullina</b> e vitamina PP"
+  ],
+  "ritual": "dionisiaco",
+  "ing_prompt": "Extreme macro food photography of dark glossy roasted coffee beans bursting upward together with juicy red watermelon chunks (natural source of citrulline) and splashing droplets, deep black background, single red rim light, energetic and appetizing, ultra detailed, no text",
+  "tagline": "Regala un rituale.",
+  "hero_prompt": "Premium cosmetic product photography, vertical 9:16. Reproduce EXACTLY the product shown in the reference photo: a tall kraft-beige pinstriped cardboard box with the dark brown #BARBA ITALIANA gentleman logo and a dark brown label band reading 'Farnese'. Keep identical shape, proportions, colours, pinstripe texture, logo and label typography; keep the printed words as in the reference, do not add other products, do not invent text. The product stands upright and centered on a rough-edged polished black marble slab with white-grey veins, wet glossy surface with reflections. Around its base: dark roasted coffee beans and a fresh slice of red watermelon. Deep black background with soft wisps of white smoke, a red rim light behind the product, soft key light from the front-left, sharp focus on the label, photorealistic, luxurious, ultra detailed."
  }
 }
