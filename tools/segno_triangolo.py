@@ -38,15 +38,33 @@ def tela(body, bg):
 
 def t1(bg=None, linea=BONE, testo=BONE):
     """Triangolo a filo, scritta al centro."""
-    return tela(f'<polygon points="{TRI}" fill="none" stroke="{linea}" stroke-width="{SW}" stroke-linejoin="miter"/>'
-                + scritta(testo), bg)
+    return tela(f'<path fill="{linea}" fill-rule="evenodd" d="{anello()}"/>' + scritta(testo), bg)
 
 
-def t2(bg=None, sx=GOLD, dx=RED, testo=BONE):
-    """Le due nature: meta' sinistra del filo oro, meta' destra rossa, la scritta le attraversa."""
-    return tela(f'<polyline points="{WCX},{BY} {WCX-HB},{BY} {WCX},{AY}" fill="none" stroke="{sx}" stroke-width="{SW}" stroke-linejoin="miter"/>'
-                f'<polyline points="{WCX},{AY} {WCX+HB},{BY} {WCX},{BY}" fill="none" stroke="{dx}" stroke-width="{SW}" stroke-linejoin="miter"/>'
-                + scritta(testo), bg)
+def anello(spessore=SW):
+    """Contorno del triangolo come forma piena: triangolo esterno meno triangolo interno, offset esatto di
+    spessore/2 per parte rispetto al lato (come il filo di T1, angoli vivi). Per un equilatero l'offset dei lati
+    equivale a scalare dal baricentro di (r +/- d) / r, con r = raggio inscritto = H/3."""
+    gx, gy = WCX, AY + 2 * H / 3
+    r = H / 3
+    def scala(k):
+        pts = [(WCX, AY), (WCX - HB, BY), (WCX + HB, BY)]
+        return " ".join(f"{gx + (x - gx) * k:.3f},{gy + (y - gy) * k:.3f}" for x, y in pts)
+    est = scala((r + spessore / 2) / r)
+    inn = scala((r - spessore / 2) / r)
+    return f"M {est.replace(' ', ' L ')} Z M {inn.replace(' ', ' L ')} Z"
+
+
+def t2(bg=None, sx=BONE, dx=RED, testo=BONE):
+    """Le due nature: lo stesso contorno di T1 in un solo pezzo, diviso in verticale dall'asse.
+    Meta' sinistra bianca, meta' destra rossa; la destra parte 1 unita' sotto la sinistra, cosi' sul taglio
+    non resta nessuna fessura."""
+    d = anello()
+    top, bot = AY - SW * 3, BY + SW * 3
+    clip = (f'<defs><clipPath id="t2s"><rect x="{WCX-HB-SW*3}" y="{top}" width="{HB+SW*3}" height="{bot-top}"/></clipPath>'
+            f'<clipPath id="t2d"><rect x="{WCX-1}" y="{top}" width="{HB+SW*3+1}" height="{bot-top}"/></clipPath></defs>')
+    return tela(clip + f'<path fill="{dx}" fill-rule="evenodd" clip-path="url(#t2d)" d="{d}"/>'
+                f'<path fill="{sx}" fill-rule="evenodd" clip-path="url(#t2s)" d="{d}"/>' + scritta(testo), bg)
 
 
 def t3(bg=None, sx=GOLD, dx=RED, testo=BONE, base=BONE):
