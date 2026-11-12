@@ -12,7 +12,8 @@ SRC = ROOT / "brand/logo/ritual-logo-su-nero.svg"
 OUT = ROOT / "brand/abbigliamento"
 OUT.mkdir(parents=True, exist_ok=True)
 
-GOLD, RED, BONE, BLACK = "#C9A45C", "#B0263A", "#F2EEE6", "#0B0B0B"
+# niente oro (scelta di Rocco): la linea Ordine usa il bianco osso
+GOLD, RED, BONE, BLACK = "#F2EEE6", "#B0263A", "#F2EEE6", "#0B0B0B"
 
 paths = re.findall(r'<path[^>]*d="([^"]+)"', SRC.read_text())
 LETTERE = paths[10:16]          # R, i, T, U, A, L
