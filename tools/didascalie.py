@@ -528,4 +528,43 @@ Scrivi R o L nei commenti.
 
 Cambia il colore. Il rituale resta.""",
         "#ritualbarberstudio #lime #logo #bernalda"),
+    "lime-la-lama": post("""
+Cosa c'entra una katana con un barbiere?
+
+Più di quanto sembri. Una lama vale quanto la mano che la guida: precisione, calma, nessun gesto di troppo. È lo stesso principio che seguiamo in poltrona.
+
+Scrivi nei commenti se l'avevi notata in salone.
+
+La lama si rispetta. Il rituale anche.""",
+        "#ritualbarberstudio #katana #precisione #bernalda"),
+
+    "lime-strumenti": post("""
+Quanti attrezzi servono per un taglio fatto bene?
+
+Due pettini, due forbici, un rasoio. Pochi, scelti, sempre al loro posto: ognuno ha un compito preciso e nessuno si improvvisa.
+
+Salvalo se anche tu ami l'ordine.
+
+Ogni attrezzo al suo posto. È così che comincia il rituale.""",
+        "#ritualbarberstudio #barbertools #forbici #apollineo"),
+
+    "lime-sfere": post("""
+Hai mai fatto caso a cosa ti aspetta alla cassa?
+
+Due sfere di vetro, un piatto nero, il marmo. Dettagli che non servono a tagliare, ma a farti capire dove sei appena entri.
+
+Vieni a vederle dal vivo: prenota in DM.
+
+Il rituale comincia prima della poltrona.""",
+        "#ritualbarberstudio #interiordesign #dettagli #bernalda"),
+
+    "lime-xceed": post("""
+Cosa c'è dietro una sfumatura perfetta?
+
+Mani allenate e strumenti all'altezza. Le nostre tosatrici Gamma+ Xceed sono cariche e pronte prima che tu entri, così il tempo in poltrona è tutto per il tuo taglio.
+
+Scrivi nei commenti che tosatrice usi a casa.
+
+Gli strumenti contano. Il rituale li rende precisi.""",
+        "#ritualbarberstudio #gammapiu #xceed #skinfade"),
 }

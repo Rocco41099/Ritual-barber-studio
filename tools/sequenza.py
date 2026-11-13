@@ -12,7 +12,7 @@ from prodotto import render, crop45, ASSETS, RED
 from playwright.sync_api import sync_playwright
 
 ROOT = Path(__file__).resolve().parent.parent
-GOLD = "#C9A45C"; WINE = "#B0263A"
+GOLD = "#C9A45C"; WINE = "#B0263A"; LIME = "#ADFF2F"
 logo = (ASSETS / "logo.png").as_uri()
 tex916 = (ASSETS / "tex-916.jpg").as_uri(); tex45 = (ASSETS / "tex-45.jpg").as_uri()
 
@@ -28,6 +28,10 @@ PROGETTI = {
    frasi=["Non sei un cliente.<br>Sei uno di noi.", "Stessa poltrona.<br>Stesse mani.<br>Ogni settimana.",
           "Sappiamo già<br>come porti la barba.", "Qui dentro,<br>il tempo si capovolge."],
    fine="Entra nella<br>famiglia.", cta="Chiedi in salone o in DM"),
+ "taglio-fresco": dict(dir="lime/taglio-fresco", col=LIME, label="Taglio Fresco",
+   frasi=["Due giorni dopo<br>ti senti ancora fresco?", "Qui la freschezza<br>non resta sulla porta."],
+   fine="Testa leggera.<br>Collo pulito.", cta="Prenota in DM", cta_style="background:#ADFF2F;color:#050505;",
+   tex916=(ASSETS / "tex-916-lime.jpg").as_uri(), tex45=(ASSETS / "tex-45-lime.jpg").as_uri()),
  "equilibrio": dict(dir="equilibrio", col=GOLD, label="L'Equilibrio",
    frasi=["Notifiche.<br>Traffico.<br>Rumore.", "Qui il telefono<br>resta a faccia in giù.",
           "Panno caldo.<br>Respiro lungo.", "Fango sul viso.<br>La mente si svuota.", "Una mossa<br>alla volta."],
@@ -48,7 +52,7 @@ def frase(text, col, size, bottom):
 
 
 def chiusura(P, big):
-    cta = f"<div class=cta style='font-size:{38 if big else 32}px;padding:20px 40px;margin-top:50px'>{P['cta']}</div>" if P["cta"] else ""
+    cta = f"<div class=cta style='font-size:{38 if big else 32}px;padding:20px 40px;margin-top:50px;{P.get("cta_style", "")}'>{P['cta']}</div>" if P["cta"] else ""
     return (f"<img src='{logo}' style='width:{420 if big else 320}px;margin-bottom:{70 if big else 50}px'>"
             f"<div class=rit style='font-size:{28 if big else 24}px;color:{P['col']};border-color:{P['col']}'>{P['label']}</div>"
             f"<div class='name fit' style='font-size:{84 if big else 70}px;line-height:1.12;margin-top:40px;white-space:nowrap;width:100%'>{P['fine']}</div>{cta}"
@@ -65,7 +69,7 @@ def build(key):
         pg = b.new_page(viewport={"width": 1080, "height": 1920}, device_scale_factor=2)
         for i, t in enumerate(P["frasi"]):
             render(pg, frase(t, P["col"], 110 if len(t) < 14 else 92, 340), 1080, 1920, tmp / f"ov-{i + 1}.png")
-        render(pg, f"<div style='position:absolute;inset:0;background:#09090a url({tex916}) center/cover'></div>"
+        render(pg, f"<div style='position:absolute;inset:0;background:#09090a url({P.get('tex916', tex916)}) center/cover'></div>"
                    f"<div style='position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:240px 90px 340px'>{chiusura(P, True)}</div>{FIT}",
                1080, 1920, tmp / "end.png", transparent=False)
         pg.set_viewport_size({"width": 1080, "height": 1350})
@@ -73,7 +77,7 @@ def build(key):
             crop45(D / f"still-{i + 1}.jpg", tmp / f"still-{i + 1}-45.jpg")
             render(pg, f"<div style='position:absolute;inset:0;background:#000 url({(tmp / f'still-{i + 1}-45.jpg').as_uri()}) center/cover'></div>"
                        + frase(t, P["col"], 100 if len(t) < 14 else 84, 90), 1080, 1350, tmp / f"c{i + 1}.png", transparent=False)
-        render(pg, f"<div style='position:absolute;inset:0;background:#09090a url({tex45}) center/cover'></div>"
+        render(pg, f"<div style='position:absolute;inset:0;background:#09090a url({P.get('tex45', tex45)}) center/cover'></div>"
                    f"<div style='position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:90px'>{chiusura(P, False)}</div>{FIT}",
                1080, 1350, tmp / f"c{n + 1}.png", transparent=False)
         b.close()
