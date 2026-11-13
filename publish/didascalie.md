@@ -328,6 +328,21 @@ Prenota in DM.
 ## 2026-12-05 · 18:47 · reel · beard-ritual
 Stato: attende materiale — Servono le riprese del trattamento barba entro il 1° dicembre.
 
+```
+La tua barba la curi o la sopporti?
+
+Il Beard Ritual è il trattamento completo della barba: panno caldo per ammorbidire, contorni disegnati a rasoio, olio e balsamo con estratti naturali.
+Linee nette. Pelle che respira. Una barba che resta al suo posto tutto il giorno.
+
+Una barba curata non cresce da sola: si costruisce, una seduta alla volta.
+Non è solo barba. È il tuo biglietto da visita.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #beardritual #beardgrooming #barba #apollineo
+```
+
 ## 2026-12-08 · 18:47 · reel · chianti
 Stato: pronto
 
@@ -430,6 +445,20 @@ Prenota in DM.
 
 ## 2026-12-12 · 18:47 · reel · ritualized
 Stato: attende materiale — Serve un prima/dopo dello stesso cliente entro l'8 dicembre.
+
+```
+Quanto può cambiare un uomo in un'ora di poltrona?
+
+Questo è Ritualized: stesso cliente, prima e dopo. Nessun filtro, solo forbici, rasoio e la voglia di cambiare.
+
+Se vuoi il tuo, scrivici RITUALIZED in DM e lo progettiamo insieme.
+Entri com'eri. Esci come sei.
+
+📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
+Prenota in DM.
+
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #ritualized #primaedopo #transformation #dionisiaco
+```
 
 ## 2026-12-15 · 18:47 · reel · quale
 Stato: pronto
@@ -1261,7 +1290,6 @@ Capelli fini e senza volume?
 
 Passerina, polvere texturizzante volumizzante. Un pizzico alla radice e il volume arriva subito, opaco e naturale.
 
-L'effetto: volume alla radice. Texture immediata, effetto naturale.
 · Volume immediato
 · Texture alla radice
 · Effetto naturale
@@ -1274,7 +1302,7 @@ Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #capelli
 ```
 
 ## 2027-02-17 · 12:47 · carosello · passerina (3 slide)
@@ -1287,7 +1315,6 @@ Capelli fini e senza volume?
 
 Passerina, polvere texturizzante volumizzante. Un pizzico alla radice e il volume arriva subito, opaco e naturale.
 
-L'effetto: volume alla radice. Texture immediata, effetto naturale.
 · Volume immediato
 · Texture alla radice
 · Effetto naturale
@@ -1300,7 +1327,7 @@ Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #capelli
 ```
 
 ## 2027-02-18 · 18:47 · reel · scala
