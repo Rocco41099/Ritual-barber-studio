@@ -8,15 +8,15 @@ File: reel-due-nature.mp4
 ```
 Ordine o istinto: tu da che parte stai?
 
-L'ordine ti dà la forma. L'istinto ti dà il carattere. Ogni uomo li ha entrambi: noi li curiamo tutti e due.
+L'ordine ti dà la forma. L'istinto ti dà il carattere. Ogni uomo li ha tutti e due, e noi li curiamo entrambi: il Rituale Apollineo per chi vuole ogni linea al suo posto, il Dionisiaco per chi lo stile se lo inventa.
 
 Scrivi A o D nei commenti.
+
 Due nature. Un solo Rituale.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #dionisiaco #menstyle
+#ritualbarberstudio #apollineo #dionisiaco #bernalda
 ```
 
 ## 2026-11-18 · 12:47 · carosello · due-nature (5 slide)
@@ -25,19 +25,17 @@ Stato: pronto
 File: 01-due-nature.jpg, 02-due-nature.jpg, 03-due-nature.jpg, 04-due-nature.jpg, 05-due-nature.jpg
 
 ```
-Scorri: da una parte l'ordine, dall'altra l'istinto.
+Quale delle due nature ti somiglia di più?
 
-Ordine o istinto: tu da che parte stai?
-
-L'ordine ti dà la forma. L'istinto ti dà il carattere. Ogni uomo li ha entrambi: noi li curiamo tutti e due.
+L'ordine ti dà la forma. L'istinto ti dà il carattere. Ogni uomo li ha tutti e due, e noi li curiamo entrambi: il Rituale Apollineo per chi vuole ogni linea al suo posto, il Dionisiaco per chi lo stile se lo inventa.
 
 Scrivi A o D nei commenti.
+
 Due nature. Un solo Rituale.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #dionisiaco #menstyle
+#ritualbarberstudio #apollineo #dionisiaco #bernalda
 ```
 
 ## 2026-11-19 · 18:47 · reel · amarone
@@ -46,23 +44,18 @@ Stato: pronto
 File: reel-amarone.mp4
 
 ```
-Capelli che non restano mai al loro posto?
+Il ciuffo perfetto alle 8, sparito alle 11?
 
-Amarone, gel strong per capelli. Una passata al mattino e la forma regge fino a sera.
+Amarone è il gel a tenuta forte della linea Barba Italiana: una passata al mattino e la forma regge fino a sera.
+Tenuta 8, lucentezza 5. Con olio di vinaccioli dai vigneti italiani, antiossidante. Senza siliconi, parabeni e SLS.
 
-Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, ricchi di antiossidanti.
-· Tenuta 8 · Lucentezza 5
-· Senza siliconi, parabeni e SLS
+Al prossimo taglio te lo applichiamo noi, così vedi come tiene.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Rituale Apollineo: ogni linea al suo posto, fino a sera.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #gelcapelli #apollineo
 ```
 
 ## 2026-11-20 · 12:47 · carosello · amarone (3 slide)
@@ -71,23 +64,18 @@ Stato: pronto
 File: 01-amarone.jpg, 02-amarone.jpg, 03-amarone.jpg
 
 ```
-Capelli che non restano mai al loro posto?
+Quanto deve tenere un gel per meritarsi la parola «forte»?
 
-Amarone, gel strong per capelli. Una passata al mattino e la forma regge fino a sera.
+Amarone è il gel a tenuta forte della linea Barba Italiana: una passata al mattino e la forma regge fino a sera.
+Tenuta 8, lucentezza 5. Con olio di vinaccioli dai vigneti italiani, antiossidante. Senza siliconi, parabeni e SLS.
 
-Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, ricchi di antiossidanti.
-· Tenuta 8 · Lucentezza 5
-· Senza siliconi, parabeni e SLS
+Al prossimo taglio te lo applichiamo noi, così vedi come tiene.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Rituale Apollineo: ogni linea al suo posto, fino a sera.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #gelcapelli #apollineo
 ```
 
 ## 2026-11-21 · 18:47 · reel · famiglia
@@ -98,16 +86,15 @@ File: reel-famiglia.mp4
 ```
 E se il barbiere sapesse già come porti la barba?
 
-Stessa poltrona, stesse mani, ogni settimana. I tuoi attrezzi sono pronti prima che tu entri, e il tuo posto è sempre libero.
-Con gli abbonamenti Ritual non rincorri il tempo: è lui ad aspettarti.
+Stessa poltrona, stesse mani, ogni volta. I tuoi attrezzi sono pronti prima che tu entri e il tuo posto è sempre libero: è quello che succede con gli abbonamenti Ritual.
 
-Chiedi in salone o scrivici in DM.
+Chiedi in salone come funziona.
+
 Non sei un cliente. Sei uno di noi.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #abbonamento #famiglia #cura
+#ritualbarberstudio #abbonamento #famigliaritual #bernalda
 ```
 
 ## 2026-11-22 · 12:47 · carosello · famiglia (5 slide)
@@ -116,20 +103,17 @@ Stato: pronto
 File: 01-famiglia.jpg, 02-famiglia.jpg, 03-famiglia.jpg, 04-famiglia.jpg, 05-famiglia.jpg
 
 ```
-Scorri: questa è la famiglia Ritual.
+Cosa cambia quando il barbiere ti conosce davvero?
 
-E se il barbiere sapesse già come porti la barba?
+Stessa poltrona, stesse mani, ogni volta. I tuoi attrezzi sono pronti prima che tu entri e il tuo posto è sempre libero: è quello che succede con gli abbonamenti Ritual.
 
-Stessa poltrona, stesse mani, ogni settimana. I tuoi attrezzi sono pronti prima che tu entri, e il tuo posto è sempre libero.
-Con gli abbonamenti Ritual non rincorri il tempo: è lui ad aspettarti.
+Chiedi in salone come funziona.
 
-Chiedi in salone o scrivici in DM.
 Non sei un cliente. Sei uno di noi.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #abbonamento #famiglia #cura
+#ritualbarberstudio #abbonamento #famigliaritual #bernalda
 ```
 
 ## 2026-11-24 · 18:47 · reel · abbonamenti
@@ -140,16 +124,16 @@ File: reel-abbonamenti.mp4
 ```
 Quanto vale avere il tuo posto in poltrona sempre pronto?
 
-Con gli abbonamenti Ritual il taglio non è più una cosa da incastrare: è un appuntamento fisso con te stesso, a un prezzo che premia la costanza. Quattro piani, uno per ogni ritmo: scorri e trova il tuo.
+Con gli abbonamenti Ritual il taglio smette di essere una cosa da incastrare: diventa un appuntamento fisso con te stesso, a un prezzo che premia la costanza. Quattro piani, uno per ogni ritmo.
+Chi entra adesso entra come Socio Fondatore.
 
-Chi entra ora entra come Socio Fondatore.
+Scrivici in DM il tuo ritmo: ti diciamo quale piano fa per te.
 
-Entra nella famiglia: chiedi in salone o scrivici in DM.
+Il rituale non si rincorre. Ti aspetta.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #abbonamento #sociofondatore #cura
+#ritualbarberstudio #abbonamento #sociofondatore #bernalda
 ```
 
 ## 2026-11-25 · 12:47 · carosello · abbonamenti (9 slide)
@@ -158,20 +142,18 @@ Stato: pronto
 File: 01-copertina.jpg, 02-piano-15.jpg, 03-piano-25.jpg, 04-piano-30.jpg, 05-piano-36.jpg, 06-extra.jpg, 07-come-funziona.jpg, 08-soci-fondatori.jpg, 09-entra-nella-famiglia.jpg
 
 ```
-Scorri i quattro piani e scegli il tuo ritmo.
+Ogni settimana o ogni tre: qual è il tuo ritmo?
 
-Quanto vale avere il tuo posto in poltrona sempre pronto?
+Con gli abbonamenti Ritual il taglio smette di essere una cosa da incastrare: diventa un appuntamento fisso con te stesso, a un prezzo che premia la costanza. Quattro piani, uno per ogni ritmo.
+Chi entra adesso entra come Socio Fondatore.
 
-Con gli abbonamenti Ritual il taglio non è più una cosa da incastrare: è un appuntamento fisso con te stesso, a un prezzo che premia la costanza. Quattro piani, uno per ogni ritmo: scorri e trova il tuo.
+Scrivici in DM il tuo ritmo: ti diciamo quale piano fa per te.
 
-Chi entra ora entra come Socio Fondatore.
-
-Entra nella famiglia: chiedi in salone o scrivici in DM.
+Il rituale non si rincorre. Ti aspetta.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #abbonamento #sociofondatore #cura
+#ritualbarberstudio #abbonamento #sociofondatore #bernalda
 ```
 
 ## 2026-11-26 · 18:47 · reel · apollineo
@@ -182,16 +164,16 @@ File: reel-apollineo.mp4
 ```
 Ti piace quando ogni linea è al suo posto?
 
-Il Rituale Apollineo è per chi ama la precisione: sfumatura a pelle, barba disegnata al millimetro, lo stesso gesto ogni settimana.
+Il Rituale Apollineo è per chi ama la precisione: sfumatura a pelle, barba disegnata al millimetro, lo stesso gesto ogni volta, fatto bene.
 Ordine. Misura. Controllo.
 
-Sei Apollineo? Scrivi A nei commenti.
+Se ti ci riconosci, scrivi A nei commenti.
+
 La disciplina non ti limita: ti definisce.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #skinfade #beardgrooming
+#ritualbarberstudio #apollineo #skinfade #beardgrooming
 ```
 
 ## 2026-11-27 · 12:47 · carosello · apollineo (4 slide)
@@ -200,20 +182,18 @@ Stato: pronto
 File: 01-apollineo.jpg, 02-apollineo.jpg, 03-apollineo.jpg, 04-apollineo.jpg
 
 ```
-Scorri il Rituale Apollineo.
+Quanto ti dà fastidio una linea storta?
 
-Ti piace quando ogni linea è al suo posto?
-
-Il Rituale Apollineo è per chi ama la precisione: sfumatura a pelle, barba disegnata al millimetro, lo stesso gesto ogni settimana.
+Il Rituale Apollineo è per chi ama la precisione: sfumatura a pelle, barba disegnata al millimetro, lo stesso gesto ogni volta, fatto bene.
 Ordine. Misura. Controllo.
 
-Sei Apollineo? Scrivi A nei commenti.
+Se ti ci riconosci, scrivi A nei commenti.
+
 La disciplina non ti limita: ti definisce.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #skinfade #beardgrooming
+#ritualbarberstudio #apollineo #skinfade #beardgrooming
 ```
 
 ## 2026-11-28 · 18:47 · reel · salone
@@ -222,18 +202,17 @@ Stato: pronto
 File: reel-salone.mp4
 
 ```
-Quando è stata l'ultima volta che nessuno ti ha messo fretta?
+Lo sapevi che anche l'attesa fa parte del rituale?
 
-Una poltrona, ogni strumento al suo posto, ogni gesto con il suo perché. Anche l'attesa fa parte del rito.
-La cura di sé non è vanità: è disciplina.
+Qui ogni strumento ha il suo posto e ogni gesto il suo perché. Una poltrona, la luce giusta, i quadri alle pareti, nessuna fila.
 
-Fuori il mondo corre. Qui dentro il tempo torna tuo.
-Non è un taglio. È un rituale.
+Vieni a vederlo dal vivo: prenota in DM.
+
+Fuori il mondo corre. Qui il tempo torna tuo.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #barbershopinterior #salone
+#ritualbarberstudio #barbershop #bernalda #salone
 ```
 
 ## 2026-11-29 · 12:47 · carosello · salone (10 slide)
@@ -242,20 +221,17 @@ Stato: pronto
 File: 01-salone.jpg, 03-salone.jpg, 04-salone.jpg, 05-salone.jpg, 06-salone.jpg, 08-salone.jpg, 09-salone.jpg, 10-salone.jpg, 12-salone.jpg, 13-salone.jpg
 
 ```
-Scorri e entra nel salone.
+Hai mai fatto caso a cosa c'è appeso alle nostre pareti?
 
-Quando è stata l'ultima volta che nessuno ti ha messo fretta?
+Qui ogni strumento ha il suo posto e ogni gesto il suo perché. Una poltrona, la luce giusta, i quadri alle pareti, nessuna fila.
 
-Una poltrona, ogni strumento al suo posto, ogni gesto con il suo perché. Anche l'attesa fa parte del rito.
-La cura di sé non è vanità: è disciplina.
+Vieni a vederlo dal vivo: prenota in DM.
 
-Fuori il mondo corre. Qui dentro il tempo torna tuo.
-Non è un taglio. È un rituale.
+Fuori il mondo corre. Qui il tempo torna tuo.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #barbershopinterior #salone
+#ritualbarberstudio #barbershop #bernalda #salone
 ```
 
 ## 2026-12-01 · 18:47 · post · regalo
@@ -266,16 +242,15 @@ File: post-regalo.jpg
 ```
 Cosa regali a un uomo che ha già tutto?
 
-Un momento solo per lui. Cura uomo made in Italy con estratti naturali: vinaccioli, argan, stella alpina, caffeina.
-Dicci com'è lui: barba, capelli, pelle. Il regalo giusto lo scegliamo insieme.
+Un rituale. Cura uomo made in Italy con estratti naturali, scelta insieme a te: raccontaci com'è lui, barba, capelli, pelle, e il regalo giusto lo troviamo noi.
 
-Vieni in salone o scrivici in DM.
+Scrivici in DM o passa in salone.
+
 Il regalo perfetto ha carattere. Regala un rituale.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #regalouomo #natale #barbaitaliana
+#ritualbarberstudio #regalouomo #natale #barbaitaliana
 ```
 
 ## 2026-12-01 · 18:52 · storia · regalo
@@ -291,16 +266,16 @@ File: reel-dionisiaco.mp4
 ```
 E se questa volta cambiassi tutto?
 
-Il Rituale Dionisiaco è per chi taglia, rompe e ricomincia: texture, mullet, trasformazioni.
+Il Rituale Dionisiaco è per chi taglia, rompe e ricomincia: texture, mullet, trasformazioni che si notano.
 Istinto. Eccesso. Libertà.
 
-Sei Dionisiaco? Scrivi D nei commenti.
-Nessuno schema, solo carattere.
+Se ti ci riconosci, scrivi D nei commenti.
+
+Nessuno schema. Solo carattere.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #mullet #texturedhair
+#ritualbarberstudio #dionisiaco #mullet #texturedhair
 ```
 
 ## 2026-12-04 · 12:47 · carosello · dionisiaco (4 slide)
@@ -309,20 +284,18 @@ Stato: pronto
 File: 01-dionisiaco.jpg, 02-dionisiaco.jpg, 03-dionisiaco.jpg, 04-dionisiaco.jpg
 
 ```
-Scorri il Rituale Dionisiaco.
+Da quanto tempo porti lo stesso taglio?
 
-E se questa volta cambiassi tutto?
-
-Il Rituale Dionisiaco è per chi taglia, rompe e ricomincia: texture, mullet, trasformazioni.
+Il Rituale Dionisiaco è per chi taglia, rompe e ricomincia: texture, mullet, trasformazioni che si notano.
 Istinto. Eccesso. Libertà.
 
-Sei Dionisiaco? Scrivi D nei commenti.
-Nessuno schema, solo carattere.
+Se ti ci riconosci, scrivi D nei commenti.
+
+Nessuno schema. Solo carattere.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #mullet #texturedhair
+#ritualbarberstudio #dionisiaco #mullet #texturedhair
 ```
 
 ## 2026-12-05 · 18:47 · reel · beard-ritual
@@ -331,16 +304,16 @@ Stato: attende materiale — Servono le riprese del trattamento barba entro il 1
 ```
 La tua barba la curi o la sopporti?
 
-Il Beard Ritual è il trattamento completo della barba: panno caldo per ammorbidire, contorni disegnati a rasoio, olio e balsamo con estratti naturali.
-Linee nette. Pelle che respira. Una barba che resta al suo posto tutto il giorno.
+Il Beard Ritual è il trattamento completo: panno caldo per ammorbidire, contorni disegnati a rasoio, olio e balsamo con estratti naturali.
+Linee nette, pelle che respira, barba che resta in ordine.
 
-Una barba curata non cresce da sola: si costruisce, una seduta alla volta.
+Prenota il tuo Beard Ritual in DM.
+
 Non è solo barba. È il tuo biglietto da visita.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #beardritual #beardgrooming #barba #apollineo
+#ritualbarberstudio #beardritual #barba #apollineo
 ```
 
 ## 2026-12-08 · 18:47 · reel · chianti
@@ -349,23 +322,18 @@ Stato: pronto
 File: reel-chianti.mp4
 
 ```
-Gel o pasta? Perché scegliere.
+Gel o pasta? E se non dovessi scegliere?
 
-Chianti, pastagel per capelli. La tenuta del gel con la morbidezza della pasta: forma e carattere, tutto il giorno.
+Chianti è un pastagel: la tenuta del gel con la morbidezza della pasta.
+Tenuta 7, lucentezza 7: forma decisa e capello che brilla. Con olio di vinaccioli, che nutre. Senza siliconi, paraffina e SLS.
 
-Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, nutrono e danno energia.
-· Tenuta 7 · Lucentezza 7
-· Senza siliconi, paraffina e SLS
+Scrivici in DM com'è il tuo capello: ti diciamo se è quello giusto.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Per chi il rituale della mattina se lo inventa ogni giorno.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #pastagel #dionisiaco
 ```
 
 ## 2026-12-09 · 12:47 · carosello · chianti (3 slide)
@@ -374,23 +342,18 @@ Stato: pronto
 File: 01-chianti.jpg, 02-chianti.jpg, 03-chianti.jpg
 
 ```
-Gel o pasta? Perché scegliere.
+Ti piace un capello che si nota, ma resta morbido?
 
-Chianti, pastagel per capelli. La tenuta del gel con la morbidezza della pasta: forma e carattere, tutto il giorno.
+Chianti è un pastagel: la tenuta del gel con la morbidezza della pasta.
+Tenuta 7, lucentezza 7: forma decisa e capello che brilla. Con olio di vinaccioli, che nutre. Senza siliconi, paraffina e SLS.
 
-Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, nutrono e danno energia.
-· Tenuta 7 · Lucentezza 7
-· Senza siliconi, paraffina e SLS
+Scrivici in DM com'è il tuo capello: ti diciamo se è quello giusto.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Per chi il rituale della mattina se lo inventa ogni giorno.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #pastagel #dionisiaco
 ```
 
 ## 2026-12-10 · 18:47 · reel · gran-paradiso
@@ -399,23 +362,18 @@ Stato: pronto
 File: reel-gran-paradiso.mp4
 
 ```
-La pelle tira e brucia dopo la rasatura?
+Ti radi e dopo dieci minuti la pelle brucia?
 
-Gran Paradiso, crema viso post rasatura. Idrata e rinfresca subito, anche la pelle più sensibile.
+Gran Paradiso è una crema post rasatura con stella alpina e liquirizia, ippocastano e ribes nero.
+Idrata, lenisce e rinfresca, anche la pelle sensibile.
 
-Il cuore della formula: stella alpina e liquirizia. Con ippocastano e ribes nero.
-· Idrata, lenisce e rinfresca
-· Adatta anche alla pelle sensibile
+Salvalo per la prossima rasatura.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
+Il rituale della rasatura finisce quando la pelle smette di tirare.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+#ritualbarberstudio #barbaitaliana #dopobarba #pellesensibile
 ```
 
 ## 2026-12-11 · 12:47 · carosello · gran-paradiso (3 slide)
@@ -424,23 +382,18 @@ Stato: pronto
 File: 01-gran-paradiso.jpg, 02-gran-paradiso.jpg, 03-gran-paradiso.jpg
 
 ```
-La pelle tira e brucia dopo la rasatura?
+Pelle sensibile e rasatura possono andare d'accordo?
 
-Gran Paradiso, crema viso post rasatura. Idrata e rinfresca subito, anche la pelle più sensibile.
+Gran Paradiso è una crema post rasatura con stella alpina e liquirizia, ippocastano e ribes nero.
+Idrata, lenisce e rinfresca, anche la pelle sensibile.
 
-Il cuore della formula: stella alpina e liquirizia. Con ippocastano e ribes nero.
-· Idrata, lenisce e rinfresca
-· Adatta anche alla pelle sensibile
+Salvalo per la prossima rasatura.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
+Il rituale della rasatura finisce quando la pelle smette di tirare.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+#ritualbarberstudio #barbaitaliana #dopobarba #pellesensibile
 ```
 
 ## 2026-12-12 · 18:47 · reel · ritualized
@@ -451,13 +404,13 @@ Quanto può cambiare un uomo in un'ora di poltrona?
 
 Questo è Ritualized: stesso cliente, prima e dopo. Nessun filtro, solo forbici, rasoio e la voglia di cambiare.
 
-Se vuoi il tuo, scrivici RITUALIZED in DM e lo progettiamo insieme.
+Se vuoi il tuo, scrivici RITUALIZED in DM.
+
 Entri com'eri. Esci come sei.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #ritualized #primaedopo #transformation #dionisiaco
+#ritualbarberstudio #ritualized #primaedopo #dionisiaco
 ```
 
 ## 2026-12-15 · 18:47 · reel · quale
@@ -468,16 +421,15 @@ File: reel-quale-rituale.mp4
 ```
 Quale rituale sei?
 
-5 scelte, nessuna risposta sbagliata. Conta le A e le D.
-Più A: sei Apollineo. Ordine, misura, controllo.
-Più D: sei Dionisiaco. Istinto, eccesso, libertà.
+Cinque scelte, nessuna risposta sbagliata. Conta le A e le D: più A sei Apollineo, ordine e misura. Più D sei Dionisiaco, istinto e libertà.
 
-Scrivi il tuo risultato nei commenti e tagga un amico che è l'esatto opposto.
+Scrivi il tuo risultato nei commenti.
+
+Ogni uomo ha due nature. Una, però, parla più forte.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #dionisiaco #test
+#ritualbarberstudio #apollineo #dionisiaco #test
 ```
 
 ## 2026-12-15 · manuale · storia · quale-1
@@ -511,20 +463,17 @@ Stato: pronto
 File: 01-quale-rituale.jpg, 02-quale-rituale.jpg, 03-quale-rituale.jpg, 04-quale-rituale.jpg, 05-quale-rituale.jpg, 06-quale-rituale.jpg, 07-quale-rituale.jpg
 
 ```
-Scorri, rispondi e conta le A e le D.
+Cinque domande per scoprire quale rituale sei: pronto?
 
-Quale rituale sei?
+Cinque scelte, nessuna risposta sbagliata. Conta le A e le D: più A sei Apollineo, ordine e misura. Più D sei Dionisiaco, istinto e libertà.
 
-5 scelte, nessuna risposta sbagliata. Conta le A e le D.
-Più A: sei Apollineo. Ordine, misura, controllo.
-Più D: sei Dionisiaco. Istinto, eccesso, libertà.
+Scrivi il tuo risultato nei commenti.
 
-Scrivi il tuo risultato nei commenti e tagga un amico che è l'esatto opposto.
+Ogni uomo ha due nature. Una, però, parla più forte.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #dionisiaco #test
+#ritualbarberstudio #apollineo #dionisiaco #test
 ```
 
 ## 2026-12-17 · 18:47 · reel · tiziano
@@ -533,23 +482,18 @@ Stato: pronto
 File: reel-tiziano.mp4
 
 ```
-Barba ruvida che punge?
+Barba ruvida che punge, a te e a chi ti sta vicino?
 
-Tiziano, olio da barba e pre-rasatura. Poche gocce e la barba diventa morbida e lucida. Prima della rasatura, ammorbidisce il pelo.
+Spesso non è la barba: è la pelle secca sotto.
+Tiziano è un olio da barba con argan, avocado e macadamia: poche gocce e il pelo diventa morbido e lucido. Prima della rasatura ammorbidisce il pelo. Con burro di karité e vitamina E, senza siliconi, parabeni e SLS.
 
-Il cuore della formula: argan, avocado, macadamia. Con vinaccioli, burro di karité e vitamina E.
-· Barba lucida e nutrita
-· Senza siliconi, parabeni e SLS
+Raccontaci in DM com'è la tua barba: ti diciamo quante gocce servono.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua barba.
+Una barba morbida si nota. Soprattutto da vicino.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #barba
+#ritualbarberstudio #barbaitaliana #oliobarba #beardoil
 ```
 
 ## 2026-12-18 · 12:47 · carosello · tiziano (3 slide)
@@ -558,23 +502,18 @@ Stato: pronto
 File: 01-tiziano.jpg, 02-tiziano.jpg, 03-tiziano.jpg
 
 ```
-Barba ruvida che punge?
+Quante gocce servono per una barba morbida?
 
-Tiziano, olio da barba e pre-rasatura. Poche gocce e la barba diventa morbida e lucida. Prima della rasatura, ammorbidisce il pelo.
+Spesso non è la barba: è la pelle secca sotto.
+Tiziano è un olio da barba con argan, avocado e macadamia: poche gocce e il pelo diventa morbido e lucido. Prima della rasatura ammorbidisce il pelo. Con burro di karité e vitamina E, senza siliconi, parabeni e SLS.
 
-Il cuore della formula: argan, avocado, macadamia. Con vinaccioli, burro di karité e vitamina E.
-· Barba lucida e nutrita
-· Senza siliconi, parabeni e SLS
+Raccontaci in DM com'è la tua barba: ti diciamo quante gocce servono.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua barba.
+Una barba morbida si nota. Soprattutto da vicino.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #barba
+#ritualbarberstudio #barbaitaliana #oliobarba #beardoil
 ```
 
 ## 2026-12-19 · 18:47 · post · regalo-ultimi
@@ -585,14 +524,13 @@ File: post-regalo.jpg
 ```
 Hai ancora un uomo nella lista dei regali?
 
-Passa in salone: in pochi minuti ti prepariamo il regalo giusto, con prodotti made in Italy e un consiglio su misura.
+Passa in salone: in pochi minuti ti prepariamo il regalo giusto, con prodotti made in Italy e un consiglio su misura per lui.
 
-Il 24 arriva per tutti. Il rituale giusto, solo per chi passa prima.
+Il 24 arriva per tutti. Il rituale giusto, per chi passa prima.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #regalouomo #natale #ultimominuto
+#ritualbarberstudio #regalouomo #natale #bernalda
 ```
 
 ## 2026-12-19 · 18:52 · storia · regalo-ultimi
@@ -608,22 +546,17 @@ File: reel-caronte.mp4
 ```
 Ti accorgi che i capelli si stanno diradando?
 
-Caronte, lozione stimolante contro l'alopecia. Prima te ne occupi, più capelli tieni.
+Caronte è una lozione stimolante con caffeina e menta piperita, più acido ialuronico e pantenolo. Si applica sul cuoio capelluto e dà un effetto a tutto volume.
 
-Il cuore della formula: caffeina e menta piperita. Con acido ialuronico e pantenolo.
-· Azione stimolante, effetto a tutto volume
+Non fa miracoli in una settimana: chiede costanza, ogni giorno. E se la caduta è forte, il primo passo è un dermatologo.
 
-Non fa miracoli in una settimana: chiede costanza, ogni giorno.
+In salone guardiamo insieme il tuo cuoio capelluto e ti diciamo se fa per te.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Prima te ne occupi, più capelli tieni. Il rituale comincia oggi.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #caduta #capelliuomo
 ```
 
 ## 2026-12-23 · 12:47 · carosello · caronte (3 slide)
@@ -632,24 +565,19 @@ Stato: pronto
 File: 01-caronte.jpg, 02-caronte.jpg, 03-caronte.jpg
 
 ```
-Ti accorgi che i capelli si stanno diradando?
+Lo noti di più sotto la luce del bagno?
 
-Caronte, lozione stimolante contro l'alopecia. Prima te ne occupi, più capelli tieni.
+Caronte è una lozione stimolante con caffeina e menta piperita, più acido ialuronico e pantenolo. Si applica sul cuoio capelluto e dà un effetto a tutto volume.
 
-Il cuore della formula: caffeina e menta piperita. Con acido ialuronico e pantenolo.
-· Azione stimolante, effetto a tutto volume
+Non fa miracoli in una settimana: chiede costanza, ogni giorno. E se la caduta è forte, il primo passo è un dermatologo.
 
-Non fa miracoli in una settimana: chiede costanza, ogni giorno.
+In salone guardiamo insieme il tuo cuoio capelluto e ti diciamo se fa per te.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Prima te ne occupi, più capelli tieni. Il rituale comincia oggi.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #caduta #capelliuomo
 ```
 
 ## 2026-12-24 · 18:47 · reel · monte-bianco
@@ -658,23 +586,18 @@ Stato: pronto
 File: reel-monte-bianco.mp4
 
 ```
-Rasatura uguale irritazione?
+Per te rasatura vuol dire irritazione?
 
-Monte Bianco, mousse da rasatura. Una schiuma densa che fa scorrere la lama sulla pelle, non contro.
+Spesso il problema è la schiuma: troppo leggera, e la lama tira.
+Monte Bianco è una mousse da rasatura densa e senza gas, che fa scorrere la lama sulla pelle invece che contro. Con stella alpina e ribes nero. Senza siliconi, paraffina e SLS.
 
-Il cuore della formula: stella alpina. Con liquirizia, ippocastano e ribes nero.
-· Rasatura morbida, senza gas
-· Senza siliconi, paraffina e SLS
+Prenota una rasatura in salone e senti la differenza.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua barba.
+La lama scorre, la pelle respira. Il rituale è questo.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #barba
+#ritualbarberstudio #barbaitaliana #rasatura #shaving
 ```
 
 ## 2026-12-27 · 12:47 · carosello · monte-bianco (3 slide)
@@ -683,23 +606,18 @@ Stato: pronto
 File: 01-monte-bianco.jpg, 02-monte-bianco.jpg, 03-monte-bianco.jpg
 
 ```
-Rasatura uguale irritazione?
+Schiuma in bomboletta o mousse senza gas?
 
-Monte Bianco, mousse da rasatura. Una schiuma densa che fa scorrere la lama sulla pelle, non contro.
+Spesso il problema è la schiuma: troppo leggera, e la lama tira.
+Monte Bianco è una mousse da rasatura densa e senza gas, che fa scorrere la lama sulla pelle invece che contro. Con stella alpina e ribes nero. Senza siliconi, paraffina e SLS.
 
-Il cuore della formula: stella alpina. Con liquirizia, ippocastano e ribes nero.
-· Rasatura morbida, senza gas
-· Senza siliconi, paraffina e SLS
+Prenota una rasatura in salone e senti la differenza.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua barba.
+La lama scorre, la pelle respira. Il rituale è questo.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #barba
+#ritualbarberstudio #barbaitaliana #rasatura #shaving
 ```
 
 ## 2027-01-02 · 18:47 · reel · neon
@@ -708,15 +626,17 @@ Stato: pronto
 File: reel-neon.mp4
 
 ```
-Qual è il colore del tuo rituale?
+Di che colore è il tuo rituale?
 
-Rosso, ghiaccio, viola, bianco: scrivilo nei commenti.
-Il nostro segno, acceso.
+Rosso, oro, ghiaccio, viola o bianco: il nostro segno acceso in cinque luci diverse.
+
+Scrivi il tuo colore nei commenti.
+
+Stesso segno. La luce la scegli tu.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #neon #logo
+#ritualbarberstudio #neon #logo #bernalda
 ```
 
 ## 2027-01-03 · 12:47 · carosello · neon (5 slide)
@@ -725,17 +645,17 @@ Stato: pronto
 File: 01-rosso.jpg, 02-oro.jpg, 03-ghiaccio.jpg, 04-viola.jpg, 05-bianco.jpg
 
 ```
-Scorri i cinque colori.
+Cinque luci, un solo segno: quale accenderesti?
 
-Qual è il colore del tuo rituale?
+Rosso, oro, ghiaccio, viola o bianco: il nostro segno acceso in cinque luci diverse.
 
-Rosso, ghiaccio, viola, bianco: scrivilo nei commenti.
-Il nostro segno, acceso.
+Scrivi il tuo colore nei commenti.
+
+Stesso segno. La luce la scegli tu.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #neon #logo
+#ritualbarberstudio #neon #logo #bernalda
 ```
 
 ## 2027-01-12 · 18:47 · reel · nebbiolo
@@ -744,23 +664,18 @@ Stato: pronto
 File: reel-nebbiolo.mp4
 
 ```
-Il ciuffo crolla dopo un'ora?
+Perché il ciuffo crolla sempre prima di pranzo?
 
-Nebbiolo, pasta opaca per capelli. Struttura forte ed effetto opaco, senza seccare il capello.
+Spesso è il prodotto: troppo morbido per il tuo capello.
+Nebbiolo è una pasta opaca a tenuta 8: struttura forte, zero lucido, texture cremosa che si lavora facilmente. L'olio di vinaccioli evita di seccare il capello.
 
-Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, ricchi di sali minerali.
-· Tenuta 8 · Lucentezza 1
-· Effetto opaco, texture cremosa
+Mandalo a quell'amico che si sistema il ciuffo ogni dieci minuti.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Effetto naturale, forma che non molla. Rituale Dionisiaco, zero lucido.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #pastaopaca #mattehair
 ```
 
 ## 2027-01-13 · 12:47 · carosello · nebbiolo (3 slide)
@@ -769,23 +684,18 @@ Stato: pronto
 File: 01-nebbiolo.jpg, 02-nebbiolo.jpg, 03-nebbiolo.jpg
 
 ```
-Il ciuffo crolla dopo un'ora?
+Opaco o lucido: tu da che parte stai?
 
-Nebbiolo, pasta opaca per capelli. Struttura forte ed effetto opaco, senza seccare il capello.
+Spesso è il prodotto: troppo morbido per il tuo capello.
+Nebbiolo è una pasta opaca a tenuta 8: struttura forte, zero lucido, texture cremosa che si lavora facilmente. L'olio di vinaccioli evita di seccare il capello.
 
-Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, ricchi di sali minerali.
-· Tenuta 8 · Lucentezza 1
-· Effetto opaco, texture cremosa
+Mandalo a quell'amico che si sistema il ciuffo ogni dieci minuti.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Effetto naturale, forma che non molla. Rituale Dionisiaco, zero lucido.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #pastaopaca #mattehair
 ```
 
 ## 2027-01-14 · 18:47 · reel · virgilio
@@ -796,20 +706,16 @@ File: reel-virgilio.mp4
 ```
 Cosa fai subito dopo la rasatura?
 
-Virgilio, tonico viso tripla azione. Lenisce, rinfresca e idrata: tre azioni in uno spruzzo.
+Se la risposta è «niente», la pelle se ne accorge.
+Virgilio è un tonico viso a tripla azione: lenisce, rinfresca e idrata in uno spruzzo. Camomilla e mentolo, con bisabololo e acido ialuronico.
 
-Il cuore della formula: camomilla e mentolo. Con bisabololo e acido ialuronico.
-· Lenisce e rinfresca dopo la rasatura
+Scrivi nei commenti cosa usi tu dopo la lama.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
+Un gesto di tre secondi che chiude il rituale.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+#ritualbarberstudio #barbaitaliana #tonico #dopobarba
 ```
 
 ## 2027-01-15 · 12:47 · carosello · virgilio (3 slide)
@@ -818,22 +724,18 @@ Stato: pronto
 File: 01-virgilio.jpg, 02-virgilio.jpg, 03-virgilio.jpg
 
 ```
-Cosa fai subito dopo la rasatura?
+Brucia o rinfresca? Dipende da cosa usi dopo la lama.
 
-Virgilio, tonico viso tripla azione. Lenisce, rinfresca e idrata: tre azioni in uno spruzzo.
+Se la risposta è «niente», la pelle se ne accorge.
+Virgilio è un tonico viso a tripla azione: lenisce, rinfresca e idrata in uno spruzzo. Camomilla e mentolo, con bisabololo e acido ialuronico.
 
-Il cuore della formula: camomilla e mentolo. Con bisabololo e acido ialuronico.
-· Lenisce e rinfresca dopo la rasatura
+Scrivi nei commenti cosa usi tu dopo la lama.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
+Un gesto di tre secondi che chiude il rituale.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+#ritualbarberstudio #barbaitaliana #tonico #dopobarba
 ```
 
 ## 2027-01-16 · 18:47 · reel · equilibrio
@@ -844,15 +746,15 @@ File: reel-equilibrio.mp4
 ```
 Quando è stata l'ultima volta che nessuno ti ha cercato per mezz'ora?
 
-Qui il telefono resta a faccia in giù. Panno caldo e vapore, fango sul viso, una mossa alla volta.
-Mezz'ora per te, e il tuo ritmo torna.
+Qui il telefono resta a faccia in giù. Panno caldo e vapore, fango sul viso, un gesto alla volta: mezz'ora per te, e il tuo ritmo torna.
 
-Stacca dal rumore. Ritrova l'equilibrio.
+Prenota il tuo momento in DM.
+
+Stacca dal rumore. Ritrova l'equilibrio, un rituale alla volta.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #equilibrio #slowliving #cura
+#ritualbarberstudio #equilibrio #slowliving #bernalda
 ```
 
 ## 2027-01-17 · 12:47 · carosello · equilibrio (6 slide)
@@ -861,19 +763,17 @@ Stato: pronto — Jolly: se mancano le riprese, può prendere il posto del 5 o d
 File: 01-equilibrio.jpg, 02-equilibrio.jpg, 03-equilibrio.jpg, 04-equilibrio.jpg, 05-equilibrio.jpg, 06-equilibrio.jpg
 
 ```
-Scorri e stacca dal rumore.
+Riesci a staccare davvero per mezz'ora?
 
-Quando è stata l'ultima volta che nessuno ti ha cercato per mezz'ora?
+Qui il telefono resta a faccia in giù. Panno caldo e vapore, fango sul viso, un gesto alla volta: mezz'ora per te, e il tuo ritmo torna.
 
-Qui il telefono resta a faccia in giù. Panno caldo e vapore, fango sul viso, una mossa alla volta.
-Mezz'ora per te, e il tuo ritmo torna.
+Prenota il tuo momento in DM.
 
-Stacca dal rumore. Ritrova l'equilibrio.
+Stacca dal rumore. Ritrova l'equilibrio, un rituale alla volta.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #equilibrio #slowliving #cura
+#ritualbarberstudio #equilibrio #slowliving #bernalda
 ```
 
 ## 2027-01-19 · 18:47 · reel · primitivo
@@ -882,23 +782,18 @@ Stato: pronto
 File: reel-primitivo.mp4
 
 ```
-Ricci ribelli o capelli che vanno dove vogliono loro?
+I tuoi ricci decidono ogni mattina da che parte andare?
 
-Primitivo, gel disciplinante. Fissaggio leggero: ordine naturale, senza effetto bagnato.
+Primitivo è un gel disciplinante a fissaggio leggero, pensato per capelli ricci e mossi: tiene a bada il crespo senza l'effetto bagnato.
+Con olio di vinaccioli, che protegge il capello e gli dà luce.
 
-Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, proteggono e illuminano.
-· Tenuta 5 · Lucentezza 5
-· Ideale per capelli ricci, anti-crespo
+Al prossimo appuntamento lo proviamo sui tuoi ricci.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Ordine con i tuoi ricci, non contro. Anche questo è un rituale.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #capelliricci #anticrespo
 ```
 
 ## 2027-01-20 · 12:47 · carosello · primitivo (3 slide)
@@ -907,23 +802,18 @@ Stato: pronto
 File: 01-primitivo.jpg, 02-primitivo.jpg, 03-primitivo.jpg
 
 ```
-Ricci ribelli o capelli che vanno dove vogliono loro?
+Il crespo d'inverno: lo combatti o lo guidi?
 
-Primitivo, gel disciplinante. Fissaggio leggero: ordine naturale, senza effetto bagnato.
+Primitivo è un gel disciplinante a fissaggio leggero, pensato per capelli ricci e mossi: tiene a bada il crespo senza l'effetto bagnato.
+Con olio di vinaccioli, che protegge il capello e gli dà luce.
 
-Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, proteggono e illuminano.
-· Tenuta 5 · Lucentezza 5
-· Ideale per capelli ricci, anti-crespo
+Al prossimo appuntamento lo proviamo sui tuoi ricci.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Ordine con i tuoi ricci, non contro. Anche questo è un rituale.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #capelliricci #anticrespo
 ```
 
 ## 2027-01-21 · 18:47 · reel · nero-d-avola
@@ -932,25 +822,19 @@ Stato: pronto
 File: reel-nero-d-avola.mp4
 
 ```
-Qualche capello grigio di troppo?
+Qualche capello bianco che proprio non ti convince?
 
-Nero d'Avola, gel nero per capelli. Mentre ti pettini, un riflesso naturale che li rende meno evidenti. Senza tinta.
+Nero d'Avola è un gel con un riflesso scuro: mentre ti pettini rende i bianchi meno evidenti, in modo naturale. Tenuta leggera, con olio di vinaccioli per morbidezza e luce.
 
-Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, morbidezza e lucentezza.
-· Riflesso naturale sui capelli bianchi
-· Tenuta 3 · Lucentezza 5
+Una cosa chiara: non è una tinta. Non copre del tutto, attenua.
 
-Non è una tinta: non copre del tutto, attenua.
+In salone te lo mostriamo su una ciocca, prima di decidere.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Nessun cambio di colore. Solo meno grigio in vista, nel tuo rituale di ogni mattina.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #capellibianchi #grigio
 ```
 
 ## 2027-01-22 · 12:47 · carosello · nero-d-avola (3 slide)
@@ -959,25 +843,19 @@ Stato: pronto
 File: 01-nero-d-avola.jpg, 02-nero-d-avola.jpg, 03-nero-d-avola.jpg
 
 ```
-Qualche capello grigio di troppo?
+Tinta sì o tinta no? C'è una via di mezzo.
 
-Nero d'Avola, gel nero per capelli. Mentre ti pettini, un riflesso naturale che li rende meno evidenti. Senza tinta.
+Nero d'Avola è un gel con un riflesso scuro: mentre ti pettini rende i bianchi meno evidenti, in modo naturale. Tenuta leggera, con olio di vinaccioli per morbidezza e luce.
 
-Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, morbidezza e lucentezza.
-· Riflesso naturale sui capelli bianchi
-· Tenuta 3 · Lucentezza 5
+Una cosa chiara: non è una tinta. Non copre del tutto, attenua.
 
-Non è una tinta: non copre del tutto, attenua.
+In salone te lo mostriamo su una ciocca, prima di decidere.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Nessun cambio di colore. Solo meno grigio in vista, nel tuo rituale di ogni mattina.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #capellibianchi #grigio
 ```
 
 ## 2027-01-26 · 18:47 · reel · soave
@@ -986,23 +864,18 @@ Stato: pronto
 File: reel-soave.mp4
 
 ```
-Capelli secchi e pettine che si incastra?
+Capelli secchi e pettine che si incastra a ogni passata?
 
-Soave, spray idratante per capelli. Districa, ammorbidisce e lascia un profumo di incenso.
+Soave è uno spray idratante: districa, ammorbidisce e rinfresca il cuoio capelluto.
+Lascia una scia di incenso, patchouli e ylang ylang. Senza siliconi, paraffina e SLS.
 
-Il cuore della formula: incenso e ylang ylang. Con olio di vinaccioli, incenso, patchouli e ylang ylang.
-· Rinfresca e pulisce il cuoio capelluto
-· Senza siliconi, paraffina e SLS
+Al prossimo appuntamento te lo spruzziamo noi: senti il profumo.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Dieci secondi di gesto, e il rituale della mattina cambia.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #capelliuomo #incenso
 ```
 
 ## 2027-01-27 · 12:47 · carosello · soave (3 slide)
@@ -1011,23 +884,18 @@ Stato: pronto
 File: 01-soave.jpg, 02-soave.jpg, 03-soave.jpg
 
 ```
-Capelli secchi e pettine che si incastra?
+Che profumo hanno i tuoi capelli?
 
-Soave, spray idratante per capelli. Districa, ammorbidisce e lascia un profumo di incenso.
+Soave è uno spray idratante: districa, ammorbidisce e rinfresca il cuoio capelluto.
+Lascia una scia di incenso, patchouli e ylang ylang. Senza siliconi, paraffina e SLS.
 
-Il cuore della formula: incenso e ylang ylang. Con olio di vinaccioli, incenso, patchouli e ylang ylang.
-· Rinfresca e pulisce il cuoio capelluto
-· Senza siliconi, paraffina e SLS
+Al prossimo appuntamento te lo spruzziamo noi: senti il profumo.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Dieci secondi di gesto, e il rituale della mattina cambia.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #capelliuomo #incenso
 ```
 
 ## 2027-01-28 · 18:47 · reel · bonarda
@@ -1036,23 +904,18 @@ Stato: pronto
 File: reel-bonarda.mp4
 
 ```
-Vuoi ordine senza l'effetto gel?
+Capelli in ordine, ma senza che si veda il prodotto?
 
-Bonarda, acqua fissativa opacizzante. Si spruzza, si modella e resta flessibile: capelli in ordine, aspetto naturale.
+Bonarda è un'acqua fissativa: si spruzza, si modella con le dita e resta flessibile.
+Effetto opaco tipo acqua di mare, tenuta 7, zero lucido. Con olio di vinaccioli, per dare volume senza peso.
 
-Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, volume senza peso.
-· Tenuta 7 · Lucentezza 0
-· Effetto opaco tipo acqua di mare
+Salvalo per quando vuoi un look più naturale.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Il capello di chi torna dal mare. Anche a febbraio: questo è il rituale.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #seasalt #capelliuomo
 ```
 
 ## 2027-01-29 · 12:47 · carosello · bonarda (3 slide)
@@ -1061,23 +924,18 @@ Stato: pronto
 File: 01-bonarda.jpg, 02-bonarda.jpg, 03-bonarda.jpg
 
 ```
-Vuoi ordine senza l'effetto gel?
+Ti manca il capello di agosto?
 
-Bonarda, acqua fissativa opacizzante. Si spruzza, si modella e resta flessibile: capelli in ordine, aspetto naturale.
+Bonarda è un'acqua fissativa: si spruzza, si modella con le dita e resta flessibile.
+Effetto opaco tipo acqua di mare, tenuta 7, zero lucido. Con olio di vinaccioli, per dare volume senza peso.
 
-Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, volume senza peso.
-· Tenuta 7 · Lucentezza 0
-· Effetto opaco tipo acqua di mare
+Salvalo per quando vuoi un look più naturale.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Il capello di chi torna dal mare. Anche a febbraio: questo è il rituale.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #seasalt #capelliuomo
 ```
 
 ## 2027-02-02 · 18:47 · reel · le-madonie
@@ -1086,23 +944,18 @@ Stato: pronto
 File: reel-le-madonie.mp4
 
 ```
-Viso spento a fine giornata?
+Viso spento a fine giornata, anche quando hai dormito?
 
-Le Madonie, siero viso idratante tonificante. Poche gocce di siero e la pelle torna tonica e idratata.
+Le Madonie è un siero viso idratante e tonificante con la manna delle Madonie, la linfa del frassino di Sicilia.
+Poche gocce al mattino e la pelle torna tonica e idratata.
 
-Il cuore della formula: manna delle madonie. La linfa del frassino di Sicilia, idratazione profonda.
-· Idratazione profonda
-· Pelle tonica e compatta
+Salvalo per il tuo rituale del mattino.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
+Dalla Sicilia, una goccia alla volta.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+#ritualbarberstudio #barbaitaliana #sieroviso #skincareuomo
 ```
 
 ## 2027-02-03 · 12:47 · carosello · le-madonie (3 slide)
@@ -1111,23 +964,18 @@ Stato: pronto
 File: 01-le-madonie.jpg, 02-le-madonie.jpg, 03-le-madonie.jpg
 
 ```
-Viso spento a fine giornata?
+Hai mai sentito parlare della manna delle Madonie?
 
-Le Madonie, siero viso idratante tonificante. Poche gocce di siero e la pelle torna tonica e idratata.
+Le Madonie è un siero viso idratante e tonificante con la manna delle Madonie, la linfa del frassino di Sicilia.
+Poche gocce al mattino e la pelle torna tonica e idratata.
 
-Il cuore della formula: manna delle madonie. La linfa del frassino di Sicilia, idratazione profonda.
-· Idratazione profonda
-· Pelle tonica e compatta
+Salvalo per il tuo rituale del mattino.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
+Dalla Sicilia, una goccia alla volta.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+#ritualbarberstudio #barbaitaliana #sieroviso #skincareuomo
 ```
 
 ## 2027-02-04 · 18:47 · reel · barbera
@@ -1136,23 +984,18 @@ Stato: pronto
 File: reel-barbera.mp4
 
 ```
-Ciocche piatte e senza carattere?
+Ciocche piatte che a metà mattina sembrano tutte uguali?
 
-Barbera, cera definente per capelli. Definisce ogni ciocca e tiene la forma tutto il giorno.
+Barbera è una cera definente: separa e definisce ogni ciocca e tiene la forma tutto il giorno.
+Con olio di vinaccioli, per definire senza seccare.
 
-Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, definizione senza seccare.
-· Definisce l'acconciatura
-· Mantiene la forma tutto il giorno
+Al prossimo taglio te la applichiamo noi: vedi la differenza allo specchio.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Il carattere sta nei dettagli. Il rituale anche.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #ceracapelli #dionisiaco
 ```
 
 ## 2027-02-05 · 12:47 · carosello · barbera (3 slide)
@@ -1161,23 +1004,18 @@ Stato: pronto
 File: 01-barbera.jpg, 02-barbera.jpg, 03-barbera.jpg
 
 ```
-Ciocche piatte e senza carattere?
+Cera, pasta o gel: quale serve al tuo taglio?
 
-Barbera, cera definente per capelli. Definisce ogni ciocca e tiene la forma tutto il giorno.
+Barbera è una cera definente: separa e definisce ogni ciocca e tiene la forma tutto il giorno.
+Con olio di vinaccioli, per definire senza seccare.
 
-Il cuore della formula: olio di vinaccioli. Semi d'uva da vigneti italiani, definizione senza seccare.
-· Definisce l'acconciatura
-· Mantiene la forma tutto il giorno
+Al prossimo taglio te la applichiamo noi: vedi la differenza allo specchio.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Il carattere sta nei dettagli. Il rituale anche.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #ceracapelli #dionisiaco
 ```
 
 ## 2027-02-09 · 18:47 · reel · ercole
@@ -1186,23 +1024,18 @@ Stato: pronto
 File: reel-ercole.mp4
 
 ```
-Mattine sempre di corsa?
+Quanti minuti hai, la mattina, per te?
 
-Ercole, doccia shampoo tonificante anti-age. Corpo e capelli in un solo gesto, con l'energia di arancia e ginepro.
+Ercole è una doccia shampoo tonificante: corpo e capelli in un solo gesto.
+Arancia e ginepro per l'energia, dattero e aloe per la morbidezza.
 
-Il cuore della formula: arancia e ginepro. Con dattero e aloe vera per la morbidezza.
-· Corpo e capelli in un gesto
-· Energia e vitalità
+Mandalo a chi ha tre flaconi sulla mensola della doccia.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
+Un flacone, un gesto, e sei pronto. Il rituale della mattina, semplificato.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #corpo
+#ritualbarberstudio #barbaitaliana #docciashampoo #corpo
 ```
 
 ## 2027-02-10 · 12:47 · carosello · ercole (3 slide)
@@ -1211,23 +1044,18 @@ Stato: pronto
 File: 01-ercole.jpg, 02-ercole.jpg, 03-ercole.jpg
 
 ```
-Mattine sempre di corsa?
+Corpo e capelli con un solo prodotto: si può?
 
-Ercole, doccia shampoo tonificante anti-age. Corpo e capelli in un solo gesto, con l'energia di arancia e ginepro.
+Ercole è una doccia shampoo tonificante: corpo e capelli in un solo gesto.
+Arancia e ginepro per l'energia, dattero e aloe per la morbidezza.
 
-Il cuore della formula: arancia e ginepro. Con dattero e aloe vera per la morbidezza.
-· Corpo e capelli in un gesto
-· Energia e vitalità
+Mandalo a chi ha tre flaconi sulla mensola della doccia.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
+Un flacone, un gesto, e sei pronto. Il rituale della mattina, semplificato.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #corpo
+#ritualbarberstudio #barbaitaliana #docciashampoo #corpo
 ```
 
 ## 2027-02-11 · 18:47 · reel · monte-cimone
@@ -1238,21 +1066,16 @@ File: reel-monte-cimone.mp4
 ```
 Occhiaie da notti troppo corte?
 
-Monte Cimone, filler rimpolpante contorno occhi. Uno sguardo più disteso, in un gesto la mattina.
+Monte Cimone è un filler rimpolpante per il contorno occhi con aceto balsamico di Modena invecchiato.
+Contro occhiaie e borse, per uno sguardo più disteso con un gesto al mattino.
 
-Il cuore della formula: aceto balsamico di modena. Invecchiato, per uno sguardo disteso.
-· Rimpolpa il contorno occhi
-· Contro occhiaie e borse
+Non sostituisce il sonno: aiuta il tuo sguardo a non raccontarlo a tutti.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
+Salvalo per il prossimo lunedì mattina. Il rituale parte dagli occhi.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+#ritualbarberstudio #barbaitaliana #occhiaie #skincareuomo
 ```
 
 ## 2027-02-12 · 12:47 · carosello · monte-cimone (3 slide)
@@ -1261,23 +1084,18 @@ Stato: pronto
 File: 01-monte-cimone.jpg, 02-monte-cimone.jpg, 03-monte-cimone.jpg
 
 ```
-Occhiaie da notti troppo corte?
+Aceto balsamico sul viso? Sì, e c'è un perché.
 
-Monte Cimone, filler rimpolpante contorno occhi. Uno sguardo più disteso, in un gesto la mattina.
+Monte Cimone è un filler rimpolpante per il contorno occhi con aceto balsamico di Modena invecchiato.
+Contro occhiaie e borse, per uno sguardo più disteso con un gesto al mattino.
 
-Il cuore della formula: aceto balsamico di modena. Invecchiato, per uno sguardo disteso.
-· Rimpolpa il contorno occhi
-· Contro occhiaie e borse
+Non sostituisce il sonno: aiuta il tuo sguardo a non raccontarlo a tutti.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
+Salvalo per il prossimo lunedì mattina. Il rituale parte dagli occhi.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+#ritualbarberstudio #barbaitaliana #occhiaie #skincareuomo
 ```
 
 ## 2027-02-16 · 18:47 · reel · passerina
@@ -1286,23 +1104,18 @@ Stato: pronto
 File: reel-passerina.mp4
 
 ```
-Capelli fini e senza volume?
+Capelli fini che si appiattiscono appena esci di casa?
 
-Passerina, polvere texturizzante volumizzante. Un pizzico alla radice e il volume arriva subito, opaco e naturale.
+Passerina è una polvere texturizzante: un pizzico alla radice e il volume arriva subito.
+Effetto opaco e naturale.
 
-· Volume immediato
-· Texture alla radice
-· Effetto naturale
+Al prossimo taglio te la proviamo alla radice: due secondi e vedi.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Più volume, stesso capello. Il rituale più veloce che c'è.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #capelli
+#ritualbarberstudio #barbaitaliana #volume #capellifini
 ```
 
 ## 2027-02-17 · 12:47 · carosello · passerina (3 slide)
@@ -1311,23 +1124,18 @@ Stato: pronto
 File: 01-passerina.jpg, 02-passerina.jpg, 03-passerina.jpg
 
 ```
-Capelli fini e senza volume?
+Volume vero con un pizzico di polvere?
 
-Passerina, polvere texturizzante volumizzante. Un pizzico alla radice e il volume arriva subito, opaco e naturale.
+Passerina è una polvere texturizzante: un pizzico alla radice e il volume arriva subito.
+Effetto opaco e naturale.
 
-· Volume immediato
-· Texture alla radice
-· Effetto naturale
+Al prossimo taglio te la proviamo alla radice: due secondi e vedi.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Più volume, stesso capello. Il rituale più veloce che c'è.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #capelli
+#ritualbarberstudio #barbaitaliana #volume #capellifini
 ```
 
 ## 2027-02-18 · 18:47 · reel · scala
@@ -1338,23 +1146,18 @@ File: reel-scala.mp4
 ```
 Più capelli sul cuscino del solito?
 
-Scala, shampoo coadiuvante anticaduta. Rinvigorisce e dà volume, lavaggio dopo lavaggio.
+Scala è uno shampoo coadiuvante anticaduta con bergamotto e ginepro, menta ed eucalipto.
+Rinvigorisce e dà volume, lavaggio dopo lavaggio.
 
-Il cuore della formula: bergamotto e ginepro. Con menta ed eucalipto: rinvigorisce e dona volume.
-· Coadiuvante contro la caduta
-· Rinvigorisce e dona volume
+È un coadiuvante: dà risultati con la costanza, non in un giorno. Se la caduta è forte, non basta da solo.
 
-È un coadiuvante: dà risultati con la costanza, non in un giorno.
+In salone ti diciamo se abbinarlo a una lozione come Caronte o Farnese.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Ogni lavaggio conta. È un rituale, non un colpo di fortuna.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #anticaduta #capelliuomo
 ```
 
 ## 2027-02-19 · 12:47 · carosello · scala (3 slide)
@@ -1363,25 +1166,20 @@ Stato: pronto
 File: 01-scala.jpg, 02-scala.jpg, 03-scala.jpg
 
 ```
-Più capelli sul cuscino del solito?
+Uno shampoo può davvero aiutare contro la caduta?
 
-Scala, shampoo coadiuvante anticaduta. Rinvigorisce e dà volume, lavaggio dopo lavaggio.
+Scala è uno shampoo coadiuvante anticaduta con bergamotto e ginepro, menta ed eucalipto.
+Rinvigorisce e dà volume, lavaggio dopo lavaggio.
 
-Il cuore della formula: bergamotto e ginepro. Con menta ed eucalipto: rinvigorisce e dona volume.
-· Coadiuvante contro la caduta
-· Rinvigorisce e dona volume
+È un coadiuvante: dà risultati con la costanza, non in un giorno. Se la caduta è forte, non basta da solo.
 
-È un coadiuvante: dà risultati con la costanza, non in un giorno.
+In salone ti diciamo se abbinarlo a una lozione come Caronte o Farnese.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Ogni lavaggio conta. È un rituale, non un colpo di fortuna.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #anticaduta #capelliuomo
 ```
 
 ## 2027-02-23 · 18:47 · reel · donatello
@@ -1390,23 +1188,18 @@ Stato: pronto
 File: reel-donatello.mp4
 
 ```
-Pelle ruvida e opaca?
+Pelle ruvida e opaca anche dopo la rasatura?
 
-Donatello, crema peeling viso. Toglie lo strato spento e lascia il viso liscio e luminoso.
+Donatello è una crema peeling che esfolia delicatamente: toglie lo strato spento e lascia il viso liscio, pulito e luminoso.
+Con lavanda e melissa, mirtillo e liquirizia.
 
-Il cuore della formula: lavanda e melissa. Con estratti di mirtillo e liquirizia.
-· Esfolia delicatamente
-· Pelle liscia, pulita e luminosa
+Chiedici in salone ogni quanto usarla sulla tua pelle.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
+Prima si toglie il vecchio, poi arriva il nuovo. Anche questo è un rituale.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+#ritualbarberstudio #barbaitaliana #peeling #skincareuomo
 ```
 
 ## 2027-02-24 · 12:47 · carosello · donatello (3 slide)
@@ -1415,23 +1208,18 @@ Stato: pronto
 File: 01-donatello.jpg, 02-donatello.jpg, 03-donatello.jpg
 
 ```
-Pelle ruvida e opaca?
+Quando hai fatto l'ultimo peeling?
 
-Donatello, crema peeling viso. Toglie lo strato spento e lascia il viso liscio e luminoso.
+Donatello è una crema peeling che esfolia delicatamente: toglie lo strato spento e lascia il viso liscio, pulito e luminoso.
+Con lavanda e melissa, mirtillo e liquirizia.
 
-Il cuore della formula: lavanda e melissa. Con estratti di mirtillo e liquirizia.
-· Esfolia delicatamente
-· Pelle liscia, pulita e luminosa
+Chiedici in salone ogni quanto usarla sulla tua pelle.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
+Prima si toglie il vecchio, poi arriva il nuovo. Anche questo è un rituale.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+#ritualbarberstudio #barbaitaliana #peeling #skincareuomo
 ```
 
 ## 2027-02-25 · 18:47 · reel · farnese
@@ -1440,25 +1228,19 @@ Stato: pronto
 File: reel-farnese.mp4
 
 ```
-Capelli che si diradano?
+Capelli più sottili di qualche anno fa?
 
-Farnese, lozione coadiuvante anticaduta. Una lozione stimolante da usare ogni giorno, per dare forza alla chioma.
+Farnese è una lozione coadiuvante anticaduta da usare ogni giorno: caffeina, citrullina e vitamina PP, con un'azione stimolante ed energizzante sul cuoio capelluto.
 
-Il cuore della formula: caffeina e citrullina. Con vitamina PP: azione stimolante ed energizzante.
-· Coadiuvante contro la caduta
-· Azione stimolante ed energizzante
+Non è una cura miracolosa: chiede costanza. E se la caduta è forte, parlane con un dermatologo.
 
-È un coadiuvante, non una cura miracolosa: chiede costanza.
+Passa in salone: guardiamo insieme il cuoio capelluto.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Ogni giorno, un passo in più. Il rituale che premia chi non molla.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #anticaduta #caffeina
 ```
 
 ## 2027-02-26 · 12:47 · carosello · farnese (3 slide)
@@ -1467,25 +1249,19 @@ Stato: pronto
 File: 01-farnese.jpg, 02-farnese.jpg, 03-farnese.jpg
 
 ```
-Capelli che si diradano?
+Caffeina sul cuoio capelluto: perché?
 
-Farnese, lozione coadiuvante anticaduta. Una lozione stimolante da usare ogni giorno, per dare forza alla chioma.
+Farnese è una lozione coadiuvante anticaduta da usare ogni giorno: caffeina, citrullina e vitamina PP, con un'azione stimolante ed energizzante sul cuoio capelluto.
 
-Il cuore della formula: caffeina e citrullina. Con vitamina PP: azione stimolante ed energizzante.
-· Coadiuvante contro la caduta
-· Azione stimolante ed energizzante
+Non è una cura miracolosa: chiede costanza. E se la caduta è forte, parlane con un dermatologo.
 
-È un coadiuvante, non una cura miracolosa: chiede costanza.
+Passa in salone: guardiamo insieme il cuoio capelluto.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sui tuoi capelli.
+Ogni giorno, un passo in più. Il rituale che premia chi non molla.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #capelli
+#ritualbarberstudio #barbaitaliana #anticaduta #caffeina
 ```
 
 ## 2027-03-02 · 18:47 · reel · nettuno
@@ -1494,23 +1270,17 @@ Stato: pronto
 File: reel-nettuno.mp4
 
 ```
-La pelle tira dopo la doccia?
+La pelle tira appena esci dalla doccia?
 
-Nettuno, doccia shampoo idratante e rinfrescante. Corpo e capelli insieme, idratati con argan e aloe.
+Nettuno è una doccia shampoo idratante e rinfrescante: con olio di argan, aloe bio e dattero, idrata e ammorbidisce pelle e capelli insieme.
 
-Il cuore della formula: argan e aloe bio. Con dattero: idrata e ammorbidisce pelle e capelli.
-· Corpo e capelli in un gesto
-· Idrata e rinfresca
+Scrivici in DM e te lo mettiamo da parte.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
+La doccia come dovrebbe essere: fresca, e senza pelle che tira. Il rituale comincia lì.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #corpo
+#ritualbarberstudio #barbaitaliana #docciashampoo #argan
 ```
 
 ## 2027-03-03 · 12:47 · carosello · nettuno (3 slide)
@@ -1519,23 +1289,17 @@ Stato: pronto
 File: 01-nettuno.jpg, 02-nettuno.jpg, 03-nettuno.jpg
 
 ```
-La pelle tira dopo la doccia?
+Argan e aloe sotto la doccia: che differenza fa?
 
-Nettuno, doccia shampoo idratante e rinfrescante. Corpo e capelli insieme, idratati con argan e aloe.
+Nettuno è una doccia shampoo idratante e rinfrescante: con olio di argan, aloe bio e dattero, idrata e ammorbidisce pelle e capelli insieme.
 
-Il cuore della formula: argan e aloe bio. Con dattero: idrata e ammorbidisce pelle e capelli.
-· Corpo e capelli in un gesto
-· Idrata e rinfresca
+Scrivici in DM e te lo mettiamo da parte.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
+La doccia come dovrebbe essere: fresca, e senza pelle che tira. Il rituale comincia lì.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #corpo
+#ritualbarberstudio #barbaitaliana #docciashampoo #argan
 ```
 
 ## 2027-03-04 · 18:47 · reel · ovidio
@@ -1546,21 +1310,16 @@ File: reel-ovidio.mp4
 ```
 Pelle lucida già a metà giornata?
 
-Ovidio, tonico viso astringente purificante. Purifica e riequilibra, con l'energia dello zenzero.
+Ovidio è un tonico astringente e purificante: riequilibra la pelle e la libera dall'effetto lucido.
+Con uva, zenzero e boswellia, un tonico balsamico che dà energia.
 
-Il cuore della formula: uva, zenzero e boswellia. Tonico balsamico energizzante: purifica e riequilibra.
-· Azione astringente e purificante
-· Riequilibra la pelle
+Scrivici in DM com'è la tua pelle a mezzogiorno: ti diciamo se fa per te.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
+Meno lucido, più presenza. Il rituale che rimette in ordine la pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+#ritualbarberstudio #barbaitaliana #tonicoviso #skincareuomo
 ```
 
 ## 2027-03-05 · 12:47 · carosello · ovidio (3 slide)
@@ -1569,23 +1328,18 @@ Stato: pronto
 File: 01-ovidio.jpg, 02-ovidio.jpg, 03-ovidio.jpg
 
 ```
-Pelle lucida già a metà giornata?
+Zenzero sul viso: a cosa serve davvero?
 
-Ovidio, tonico viso astringente purificante. Purifica e riequilibra, con l'energia dello zenzero.
+Ovidio è un tonico astringente e purificante: riequilibra la pelle e la libera dall'effetto lucido.
+Con uva, zenzero e boswellia, un tonico balsamico che dà energia.
 
-Il cuore della formula: uva, zenzero e boswellia. Tonico balsamico energizzante: purifica e riequilibra.
-· Azione astringente e purificante
-· Riequilibra la pelle
+Scrivici in DM com'è la tua pelle a mezzogiorno: ti diciamo se fa per te.
 
-Rituale Apollineo: per chi vuole ogni linea al suo posto.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
+Meno lucido, più presenza. Il rituale che rimette in ordine la pelle.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #viso
+#ritualbarberstudio #barbaitaliana #tonicoviso #skincareuomo
 ```
 
 ## 2027-03-09 · 18:47 · reel · felice
@@ -1594,23 +1348,18 @@ Stato: pronto
 File: reel-felice.mp4
 
 ```
-Pori chiusi e pelle opaca?
+Pelle opaca e pori che sembrano sempre chiusi?
 
-Felice, fango detossinante viso granulare. Il fango che pulisce in profondità, come in salone, a casa tua.
+Felice è un fango detossinante granulare con bucce d'uva bio, limoni di Sicilia, mele del Trentino e crusca.
+Pulisce in profondità e libera la pelle dalle impurità.
 
-Il cuore della formula: uva, limone e mela. Bucce d'uva bio, limoni di Sicilia, mele del Trentino e crusca di grano.
-· Detossina e purifica in profondità
-· Libera la pelle dalle impurità
+Mandalo a chi rimanda la pulizia del viso da mesi.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Guarda fino alla fine.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
+Il rituale del fango, come in salone. A casa tua.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #viso
+#ritualbarberstudio #barbaitaliana #fangoviso #skincareuomo
 ```
 
 ## 2027-03-10 · 12:47 · carosello · felice (3 slide)
@@ -1619,21 +1368,16 @@ Stato: pronto
 File: 01-felice.jpg, 02-felice.jpg, 03-felice.jpg
 
 ```
-Pori chiusi e pelle opaca?
+Uva, limone e mela: ricetta della nonna o skincare?
 
-Felice, fango detossinante viso granulare. Il fango che pulisce in profondità, come in salone, a casa tua.
+Felice è un fango detossinante granulare con bucce d'uva bio, limoni di Sicilia, mele del Trentino e crusca.
+Pulisce in profondità e libera la pelle dalle impurità.
 
-Il cuore della formula: uva, limone e mela. Bucce d'uva bio, limoni di Sicilia, mele del Trentino e crusca di grano.
-· Detossina e purifica in profondità
-· Libera la pelle dalle impurità
+Mandalo a chi rimanda la pulizia del viso da mesi.
 
-Rituale Dionisiaco: per chi lo stile se lo inventa.
-Scorri fino all’ultima slide.
-
-Al prossimo appuntamento te lo facciamo provare sulla tua pelle.
+Il rituale del fango, come in salone. A casa tua.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #barbaitaliana #madeinitaly #estrattinaturali #viso
+#ritualbarberstudio #barbaitaliana #fangoviso #skincareuomo
 ```
