@@ -90,44 +90,46 @@ Prenota in DM.
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #apollineo #barbaitaliana #madeinitaly #estrattinaturali #capelli
 ```
 
-## 2026-11-21 · 18:47 · reel · lupi
+## 2026-11-21 · 18:47 · reel · famiglia
 Stato: pronto
 
-File: reel-lupi.mp4
+File: reel-famiglia.mp4
 
 ```
-Chi resta sveglio quando Bernalda dorme?
+E se il barbiere sapesse già come porti la barba?
 
-Il castello, la piazza, il corso. E una porta che resta accesa.
+Stessa poltrona, stesse mani, ogni settimana. I tuoi attrezzi sono pronti prima che tu entri, e il tuo posto è sempre libero.
+Con gli abbonamenti Ritual non rincorri il tempo: è lui ad aspettarti.
 
-Martedì si apre la famiglia. Resta in ascolto.
-I Lupi non dormono mai. Ma ogni lupo ha il suo rituale.
+Chiedi in salone o scrivici in DM.
+Non sei un cliente. Sei uno di noi.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #bernaldabynight
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #abbonamento #famiglia #cura
 ```
 
-## 2026-11-22 · 12:47 · carosello · lupi (3 slide)
+## 2026-11-22 · 12:47 · carosello · famiglia (5 slide)
 Stato: pronto
 
-File: 01-lupi.jpg, 02-lupi.jpg, 03-lupi.jpg
+File: 01-famiglia.jpg, 02-famiglia.jpg, 03-famiglia.jpg, 04-famiglia.jpg, 05-famiglia.jpg
 
 ```
-I Lupi non dormono mai. Scorri.
+Scorri: questa è la famiglia Ritual.
 
-Chi resta sveglio quando Bernalda dorme?
+E se il barbiere sapesse già come porti la barba?
 
-Il castello, la piazza, il corso. E una porta che resta accesa.
+Stessa poltrona, stesse mani, ogni settimana. I tuoi attrezzi sono pronti prima che tu entri, e il tuo posto è sempre libero.
+Con gli abbonamenti Ritual non rincorri il tempo: è lui ad aspettarti.
 
-Martedì si apre la famiglia. Resta in ascolto.
-I Lupi non dormono mai. Ma ogni lupo ha il suo rituale.
+Chiedi in salone o scrivici in DM.
+Non sei un cliente. Sei uno di noi.
 
 📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
 Prenota in DM.
 
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #dionisiaco #bernaldabynight
+#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #abbonamento #famiglia #cura
 ```
 
 ## 2026-11-24 · 18:47 · reel · abbonamenti
@@ -705,48 +707,6 @@ Il nostro segno, acceso.
 Prenota in DM.
 
 #ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #neon #logo
-```
-
-## 2027-01-09 · 18:47 · reel · famiglia
-Stato: pronto — Jolly: se mancano le riprese, può prendere il posto del 5 o del 12 dicembre.
-
-File: reel-famiglia.mp4
-
-```
-E se il barbiere sapesse già come porti la barba?
-
-Stessa poltrona, stesse mani, ogni settimana. I tuoi attrezzi sono pronti prima che tu entri, e il tuo posto è sempre libero.
-Con gli abbonamenti Ritual non rincorri il tempo: è lui ad aspettarti.
-
-Chiedi in salone o scrivici in DM.
-Non sei un cliente. Sei uno di noi.
-
-📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
-
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #abbonamento #famiglia #cura
-```
-
-## 2027-01-10 · 12:47 · carosello · famiglia (5 slide)
-Stato: pronto — Jolly: se mancano le riprese, può prendere il posto del 5 o del 12 dicembre.
-
-File: 01-famiglia.jpg, 02-famiglia.jpg, 03-famiglia.jpg, 04-famiglia.jpg, 05-famiglia.jpg
-
-```
-Scorri: questa è la famiglia Ritual.
-
-E se il barbiere sapesse già come porti la barba?
-
-Stessa poltrona, stesse mani, ogni settimana. I tuoi attrezzi sono pronti prima che tu entri, e il tuo posto è sempre libero.
-Con gli abbonamenti Ritual non rincorri il tempo: è lui ad aspettarti.
-
-Chiedi in salone o scrivici in DM.
-Non sei un cliente. Sei uno di noi.
-
-📍 Ritual Barber Studio · Corso Umberto I 300c, Bernalda
-Prenota in DM.
-
-#ritualbarberstudio #ritualized #bernalda #matera #basilicata #barbershop #barbiere #abbonamento #famiglia #cura
 ```
 
 ## 2027-01-12 · 18:47 · reel · nebbiolo

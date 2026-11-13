@@ -83,11 +83,6 @@ TESTI = {
                    "Scrivi A o D nei commenti.\n"
                    "Due nature. Un solo Rituale.\n\n"
                    f"{DOVE}\n\n{TAG} #apollineo #dionisiaco #menstyle"),
-    "lupi": ("Chi resta sveglio quando Bernalda dorme?\n\n"
-             "Il castello, la piazza, il corso. E una porta che resta accesa.\n\n"
-             "Martedì si apre la famiglia. Resta in ascolto.\n"
-             "I Lupi non dormono mai. Ma ogni lupo ha il suo rituale.\n\n"
-             f"{DOVE}\n\n{TAG} #dionisiaco #bernaldabynight"),
     "abbonamenti": ("Quanto vale avere il tuo posto in poltrona sempre pronto?\n\n"
                     "Con gli abbonamenti Ritual il taglio non è più una cosa da incastrare: è un appuntamento fisso con te stesso, "
                     "a un prezzo che premia la costanza. Quattro piani, uno per ogni ritmo: scorri e trova il tuo.\n\n"
@@ -148,7 +143,6 @@ TESTI = {
 }
 CAROSELLO = {  # prima riga della didascalia del carosello, al posto di quella del reel
     "due-nature": "Scorri: da una parte l'ordine, dall'altra l'istinto.",
-    "lupi": "I Lupi non dormono mai. Scorri.",
     "abbonamenti": "Scorri i quattro piani e scegli il tuo ritmo.",
     "apollineo": "Scorri il Rituale Apollineo.",
     "dionisiaco": "Scorri il Rituale Dionisiaco.",
@@ -193,8 +187,9 @@ def main():
     reel("2026-11-17", "due-nature", "rituali/due-nature/reel-due-nature.mp4", rito="entrambi")
     car("2026-11-18", "due-nature", "rituali/due-nature/carosello", rito="entrambi")
     prodotto("2026-11-19", "amarone", "2026-11-20")
-    reel("2026-11-21", "lupi", "lupi/reel-lupi.mp4", rito="dionisiaco")
-    car("2026-11-22", "lupi", "lupi/carosello", rito="dionisiaco")
+    # la famiglia apre la settimana degli abbonamenti (la narrazione del lupo è stata eliminata)
+    reel("2026-11-21", "famiglia", "famiglia/reel-famiglia.mp4", rito="entrambi")
+    car("2026-11-22", "famiglia", "famiglia/carosello", rito="entrambi")
     reel("2026-11-24", "abbonamenti", "abbonamenti-v2/reel-abbonamenti.mp4", rito="apollineo")
     car("2026-11-25", "abbonamenti", "abbonamenti-v2/carosello", n=9, rito="apollineo")
     reel("2026-11-26", "apollineo", "rituali/apollineo/reel-apollineo.mp4", rito="apollineo")
@@ -234,16 +229,14 @@ def main():
               "2027-02-25", "2027-03-02", "2027-03-04", "2027-03-09"]
     for slug, g in zip(febbraio, giorni):
         prodotto(g, slug, g[:8] + f"{int(g[8:]) + 1:02d}")
-    # gennaio, sabato e domenica: neon, famiglia, equilibrio (jolly: possono coprire il 5 o il 12 dicembre
-    # se le riprese di beard ritual / prima-dopo non arrivano in tempo)
+    # gennaio, sabato e domenica: neon, equilibrio (jolly: può coprire il 5 o il 12 dicembre
+    # se le riprese di beard ritual / prima-dopo non arrivano in tempo); 9-10 gennaio liberi per i nuovi format
     reel("2027-01-02", "neon", "neon/reel-neon.mp4", rito="entrambi")
     car("2027-01-03", "neon", "neon/carosello", rito="entrambi")
-    reel("2027-01-09", "famiglia", "famiglia/reel-famiglia.mp4", rito="entrambi")
-    car("2027-01-10", "famiglia", "famiglia/carosello", rito="entrambi")
     reel("2027-01-16", "equilibrio", "equilibrio/reel-equilibrio.mp4", rito="entrambi")
     car("2027-01-17", "equilibrio", "equilibrio/carosello", rito="entrambi")
     for v in voci:
-        if v["contenuto"] in ("famiglia", "equilibrio"):
+        if v["contenuto"] == "equilibrio":
             v["nota"] = "Jolly: se mancano le riprese, può prendere il posto del 5 o del 12 dicembre."
     voci.sort(key=lambda v: (v["data"], v["ora"]))
     for i, v in enumerate(voci, start=1):

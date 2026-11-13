@@ -1,6 +1,6 @@
 """Reel a scene (clip + frase) con chiusura sul logo, piu' carosello 4:5 dagli stessi fotogrammi.
 
-Uso: python3 tools/sequenza.py apollineo|dionisiaco|lupi|famiglia|equilibrio
+Uso: python3 tools/sequenza.py apollineo|dionisiaco|famiglia|equilibrio
 Ogni progetto vive in media/instagram/<cartella>/ con clip-N.mp4 e still-N.jpg.
 Regola: ogni video finisce sul logo, che resta a schermo fino all'ultimo fotogramma.
 """
@@ -23,9 +23,6 @@ PROGETTI = {
  "dionisiaco": dict(dir="rituali/dionisiaco", col=WINE, label="Rituale Dionisiaco",
    frasi=["Istinto.", "Eccesso.", "Libertà."],
    fine="Le regole sono<br>per chi non ha stile.", cta="Scrivici D in DM"),
- "lupi": dict(dir="lupi", col=RED, label="#Ritualized",
-   frasi=["I Lupi<br>non dormono mai.", "Ma ogni lupo<br>ha il suo rituale."],
-   fine="Martedì si apre<br>la famiglia.", cta=None),
  # scene generate nello stile del salone (quadri e disposizione reali), mai le foto statiche come sfondo
  "famiglia": dict(dir="famiglia", col=RED, label="Abbonamenti Ritual",
    frasi=["Non sei un cliente.<br>Sei uno di noi.", "Stessa poltrona.<br>Stesse mani.<br>Ogni settimana.",
